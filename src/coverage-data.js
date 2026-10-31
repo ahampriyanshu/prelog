@@ -185,7 +185,6 @@ const specs={
  vodou:{patches:[['caribbean',1700,1850]],place:'Haitian ritual and community settings'},
  nahua:{patches:[['mesoamerica',1400,1500]],place:'Central Mexican intellectual and ritual settings'},
 };
-const variants=['#557e97','#ad8353','#8e70a0','#5d9383','#a66d67','#7e8e56'];
 const important=['advaita','stoicism','communism','digambara','svetambara','sunni','shia','wahhabi','hasidism','orthodox-judaism','absurdism','nihilism','marxism','theravada'];
 export const featuredIds=important;
 const patch=([area,start,wider,end,fade])=>({area,frames:[[start,start===wider ? .78 : .22],[wider===start?start+1:wider,.78],...(end===undefined?[]:[[end,.78],[fade,0]])]});
@@ -208,7 +207,7 @@ export const coverage=nodes.map((n,i)=>{
  const dates=[...new Set(patches.flatMap(p=>[p.frames[0][0],p.frames[1][0],...(p.frames.length>2?[p.frames.at(-1)[0]]:[])]))].sort((a,b)=>a-b);
  const place=spec.place||base?.stages[0].text;
  const stages=(additionSpecs[n.id]?documentedStages(n,spec):null)||historicalStages[n.id]?.map(([year,title,text])=>({year,title,text}))||base?.stages||dates.map((year,index)=>({year,title:index===0?'First mapped setting':patches.some(p=>p.frames[0][0]===year)?'Another regional setting':patches.some(p=>p.frames.at(-1)[0]===year&&p.frames.at(-1)[1]===0)?'A changing landscape':'Teaching & community networks',text:index===0?`${place}. ${n.date||'Dates are approximate historical milestones.'}`:year===dates.at(-1)?`${place}. Shading follows selected communities, institutions or intellectual reception; it does not quantify adherence.`:`The depicted settings change as new communities or centres of reception enter this record. ${place}.`}));
- return {id:n.id,name:n.name,kind:n.kind,family:family.id,parentId,relation:n.relation||spec.relation||(n.kind==='philosophy'?'Philosophical school':n.kind==='context'?'Historical context':'Religious history'),context:Boolean(spec.context),color:important.includes(n.id)?variants[important.indexOf(n.id)%variants.length]:family.color,label:base?.label||centre(patches[0].area),patches,stages,start,place,summary:n.summary,priority:spec.priority||30,geographyNote:spec.note||null,members:[n.id],readings:[...(base?.readings||[]),{title:reading[1]+' · '+reading[0],url:reading[2]},...[...new Set([...(n.sourceRefs||[]),...(spec.sourceRefs||[])])].map(key=>({title:sources[key][1]+' · '+sources[key][0],url:sources[key][2]}))]};
+ return {id:n.id,name:n.name,kind:n.kind,family:family.id,parentId,relation:n.relation||spec.relation||(n.kind==='philosophy'?'Philosophical school':n.kind==='context'?'Historical context':'Religious history'),context:Boolean(spec.context),color:family.color,label:base?.label||centre(patches[0].area),patches,stages,start,place,summary:n.summary,priority:spec.priority||30,geographyNote:spec.note||null,members:[n.id],readings:[...(base?.readings||[]),{title:reading[1]+' · '+reading[0],url:reading[2]},...[...new Set([...(n.sourceRefs||[]),...(spec.sourceRefs||[])])].map(key=>({title:sources[key][1]+' · '+sources[key][0],url:sources[key][2]}))]};
 });
 export const coverageById=Object.fromEntries(coverage.map(c=>[c.id,c]));
 for(const item of coverage)item.members.push(...coverage.filter(c=>c.parentId===item.id).map(c=>c.id));

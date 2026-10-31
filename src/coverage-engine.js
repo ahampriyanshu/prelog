@@ -1,4 +1,5 @@
 import { areas } from './coverage-data.js';
+import {placeAreaLabels} from './map-labels.js';
 export const DEFAULT_CAMERA={lon:0,lat:18,zoom:1};
 export function valueAt(frames,year){
  if(year<frames[0][0])return 0;
@@ -46,27 +47,7 @@ export const mapScale=(width,height,camera)=>Math.min(width/370,height/170)*came
 export function projectPoint([lon,lat],width,height,camera){const scale=mapScale(width,height,camera);return [width/2+(lon-camera.lon)*scale,height/2-(lat-camera.lat)*scale];}
 export function unprojectPoint([x,y],width,height,camera){const scale=mapScale(width,height,camera);return [camera.lon+(x-width/2)/scale,camera.lat-(y-height/2)/scale];}
 export function ringPath(ring,width,height,camera){return ring.map((p,i)=>`${i?'L':'M'}${projectPoint(p,width,height,camera).map(v=>v.toFixed(2)).join(',')}`).join(' ')+'Z';}
-export function visibleLabels(items,year,width,height,camera,selected,insets={}){
- const rects=[],labels=[],overflow=[];
- const left=(insets.left||0)+18,right=width-(insets.right||0)-18;
- const ordered=[...items].sort((a,b)=>Number(b.id===selected)-Number(a.id===selected)||(b.priority||0)-(a.priority||0)||Number(a.context)-Number(b.context)||a.name.localeCompare(b.name));
- for(const item of ordered){
-  const patches=footprintAt(item,year);if(!patches.length)continue;
-  const anchor=patches.find(p=>inRing(item.label,p.ring))?item.label:centroid(patches[0].ring);
-  const [anchorX,anchorY]=projectPoint(anchor,width,height,camera),w=Math.min(205,item.name.length*(width<700?5.2:6.1)+50);
-  if(anchorX<left-90||anchorX>right+90||anchorY<70||anchorY>height-90)continue;
-  const x=Math.max(left+w/2,Math.min(right-w/2,anchorX));let placed=false;
-  for(const offset of [0,-32,32,-64,64,-96,96]){
-   const y=anchorY+offset,rect={left:x-w/2,right:x+w/2,top:y-13,bottom:y+13};
-   if(y<115||y>height-125||rect.right>right||rect.left<left)continue;
-   if(rects.some(r=>rect.left<r.right+12&&rect.right>r.left-12&&rect.top<r.bottom+6&&rect.bottom>r.top-6))continue;
-   rects.push(rect);labels.push({item,x,y,anchorX,anchorY,nearby:[]});placed=true;break;
-  }
-  if(!placed)overflow.push({item,anchorX,anchorY});
- }
- for(const extra of overflow){
-  const nearest=labels.filter(l=>Math.hypot(l.anchorX-extra.anchorX,l.anchorY-extra.anchorY)<170).sort((a,b)=>Number(b.item.family===extra.item.family)-Number(a.item.family===extra.item.family)||Math.hypot(a.anchorX-extra.anchorX,a.anchorY-extra.anchorY)-Math.hypot(b.anchorX-extra.anchorX,b.anchorY-extra.anchorY))[0];
-  if(nearest)nearest.nearby.push(extra.item.id);
- }
- return labels;
+export function visibleLabels(items,year,width,height,camera,selected,insets={},options={}){
+ const entries=items.map(item=>({item,regions:footprintAt(item,year).map(patch=>({area:patch.area,polygon:[patch.ring.map(p=>projectPoint(p,width,height,camera))],anchor:projectPoint(item.label,width,height,camera)}))}));
+ return placeAreaLabels(entries,{width,height,selected,insets,maxPerItem:3,...options});
 }

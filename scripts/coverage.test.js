@@ -82,10 +82,9 @@ test('branches respect their own dates when rewinding, and philosophical recepti
  assert.ok(footprintAt(coverageById.communism,2025).length);
 });
 
-test('dense labels expose hidden neighbours without dropping the selected school',()=>{
+test('dense labels keep a selected school inside its area when there is room',()=>{
  const items=['digambara','svetambara','murtipujaka','sthanakvasi','terapanth','advaita','ramanuja','madhva'].map(id=>coverageById[id]);
- const labels=visibleLabels(items,2025,900,700,{lon:77,lat:22,zoom:1.2},'advaita');
+ const labels=visibleLabels(items,2020,1400,900,{lon:77,lat:22,zoom:5},'advaita');
  assert.ok(labels.some(l=>l.item.id==='advaita'));
- const reachable=new Set(labels.flatMap(l=>[l.item.id,...l.nearby]));
- for(const item of items)assert.ok(reachable.has(item.id),item.id);
+ assert.ok(labels.every(l=>l.lines.length&&!('nearby' in l)));
 });

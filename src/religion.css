@@ -32,3 +32,40 @@
 
 .region-label-group .region-label{max-width:205px;overflow:hidden;text-overflow:ellipsis}
 @media(max-width:700px){.region-label-group .region-label{max-width:175px}}
+
+/* One geographic reading surface, from early history through Today. */
+.thought-map{background:radial-gradient(ellipse at 55% 42%,#f5f7f1,#ebf0eb 78%)}
+.thought-map .land{fill:#e1e6dc;stroke:#c2cfc1;stroke-width:.6}
+.thought-map .coastline{stroke:#f9fbf5;stroke-width:.8;opacity:.8;pointer-events:none}
+.thought-map .graticule{opacity:.1}
+.thought-map .idea-era{transition:opacity .7s cubic-bezier(.2,.7,.2,1)}
+.thought-map .idea-family-fill{opacity:.5}
+.thought-map .idea-region-hit{fill:transparent;stroke:transparent;stroke-width:.8;vector-effect:non-scaling-stroke;cursor:pointer;outline:none;transition:fill .2s,stroke .2s}
+.thought-map .idea-region.hovered .idea-region-hit{fill:var(--idea-color);fill-opacity:.18;stroke:var(--idea-color);stroke-opacity:.65;stroke-width:1.1}
+.thought-map .idea-region.selected .idea-region-hit{fill:var(--idea-color);fill-opacity:.25;stroke:var(--idea-color);stroke-width:1.7}
+.thought-map .idea-region-hit:focus-visible{stroke:#263e2d;stroke-width:2.8;stroke-opacity:1}
+.thought-map .idea-map-label{cursor:pointer;transition:opacity .25s;outline:none}
+.thought-map .idea-map-label text{font-family:'DM Sans',Arial,sans-serif;font-weight:500;fill:#243f38;paint-order:stroke;stroke:#f8fbf0;stroke-width:3px;stroke-opacity:.86;stroke-linejoin:round}
+.thought-map .idea-map-label:hover text,.thought-map .idea-map-label.selected text{font-weight:700;fill:#142e29;stroke-width:4px;stroke-opacity:1}
+.thought-map .idea-map-label.quiet{opacity:.76}
+.thought-map .idea-map-label.quiet:hover{opacity:1}
+.thought-map .idea-map-label:focus-visible text{fill:#123e32;stroke:#fff;stroke-width:5}
+.thought-map.dragging .idea-map-label{transition:none}
+.thought-map .ocean-name{font-size:14px;opacity:.3}
+.thought-map .compact-map-tooltip{width:max-content;max-width:245px;padding:12px 15px;pointer-events:none;border-radius:6px;background:#fafcf4f5}
+.thought-map .compact-map-tooltip h2{font:500 15px/1.3 'DM Sans',Arial,sans-serif;margin:0}
+.thought-map .compact-map-tooltip small{font-size:10px;margin-top:5px;color:#6b7e6d}
+.thought-map .population-tooltip.compact-map-tooltip{width:270px;max-width:270px}
+.thought-atlas .population-legend:has(.population-switch):not(:has(.population-key)){width:232px;padding:4px;bottom:118px;box-shadow:none}
+.thought-atlas .population-legend:not(:has(.population-key)) .population-switch{margin:0}
+.thought-atlas .population-switch{background:#e8ede5}
+.thought-atlas .population-switch button{font-size:11px}
+@media(max-width:700px){
+ .thought-map .compact-map-tooltip{display:block;max-width:210px}
+ .thought-atlas .population-legend{bottom:125px;width:235px}
+ .thought-atlas .population-legend:not(:has(.population-key)){bottom:125px;width:220px}
+ .thought-map .ocean-name{font-size:10px}
+}
+@media(prefers-reduced-motion:reduce){.thought-map .idea-era,.thought-map .idea-map-label,.thought-map .idea-region-hit{transition:none}}
+.thought-map .idea-region-hit:focus-visible{outline:none}
+.thought-map .idea-map-label:focus-visible{outline:none}

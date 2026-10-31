@@ -21,5 +21,5 @@ export function mapClusters(items,year,width,height,camera,selected,highlight){
  for(const c of clusters){c.feature=c.nodes.find(n=>n.id===selected)||c.nodes.find(n=>n.id===highlight)||c.nodes.at(-1);c.id=c.nodes.map(n=>n.id).sort().join('-');c.active=c.nodes.some(n=>n.id===selected||n.id===highlight);}
  return clusters;
 }
-export function clampCamera(camera){return {lon:Math.max(-180,Math.min(180,camera.lon)),lat:Math.max(-55,Math.min(75,camera.lat)),zoom:Math.max(1,Math.min(9,camera.zoom))};}
+export function clampCamera(camera){return {lon:Math.max(-180,Math.min(180,camera.lon)),lat:Math.max(-85,Math.min(85,camera.lat)),zoom:Math.max(1,Math.min(9,camera.zoom))};}
 export function cameraForScope(items){if(!items.length||items.length>30)return {lon:0,lat:15,zoom:1};const coords=items.map(n=>places[n.id]);const longitudes=coords.map(p=>p.lon),latitudes=coords.map(p=>p.lat);const minLon=Math.min(...longitudes),maxLon=Math.max(...longitudes),minLat=Math.min(...latitudes),maxLat=Math.max(...latitudes);return clampCamera({lon:(minLon+maxLon)/2,lat:(minLat+maxLat)/2,zoom:Math.min(4,240/Math.max(50,maxLon-minLon),(110/Math.max(28,maxLat-minLat)))});}
