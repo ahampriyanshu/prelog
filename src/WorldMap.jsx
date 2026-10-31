@@ -27,7 +27,8 @@ export default function WorldMap({items,year,yearLabel,selected,camera,setCamera
  useEffect(()=>{let alive=true;document.fonts?.ready.then(()=>{measureCache.clear();if(alive)setFontVersion(v=>v+1);});return()=>{alive=false;};},[]);
  const {width,height}=size,scale=mapScale(width,height,camera);
  const shapes=useMemo(()=>items.map(item=>({item,patches:footprintAt(item,year)})).filter(s=>s.patches.length).sort((a,b)=>Number(a.item.id===selected)-Number(b.item.id===selected)),[items,year,selected]);
- const layers=useBoundaryTransition(shapes,{file:`thought-${year}`,year});
+ const snapshot=useMemo(()=>({file:`thought-${year}`,year}),[year]);
+ const layers=useBoundaryTransition(shapes,snapshot);
  const projectedLand=useMemo(()=>land.map(ring=>[ring.map(p=>projectPoint(p,width,height,camera))]),[width,height,camera]);
  const insets={left:leftInset,right:rightInset,top:width<700?116:95,bottom:width<700&&(selected||populationSelected)?height*.56+120:130};
  const labels=useMemo(()=>visibleLabels(items,year,width,height,camera,selected,insets,{land:projectedLand,measure:measureName}),[items,year,width,height,camera,selected,leftInset,rightInset,projectedLand,fontVersion]);

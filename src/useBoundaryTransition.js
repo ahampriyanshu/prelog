@@ -12,7 +12,9 @@ export default function useBoundaryTransition(shapes,snapshot) {
   const frame=requestAnimationFrame(()=>{nextFrame=requestAnimationFrame(()=>setLayers(current=>current.map(l=>({...l,opacity:l.key===key?1:0}))));});
   const cleanup=setTimeout(()=>setLayers(current=>current.filter(l=>l.key===key)),780);
   return()=>{cancelAnimationFrame(frame);cancelAnimationFrame(nextFrame);clearTimeout(cleanup);};
- },[key,shapes,snapshot]);
+ // Restart only for a new record. Shape or metadata updates during the fade
+ // must not cancel the frames that bring the incoming layer to full opacity.
+ },[key]);
  // The initial source arrives asynchronously; initialize its geometry without
  // making the permanent land layer disappear or retaining an empty first layer.
  useLayoutEffect(()=>{setLayers(current=>current.map(l=>l.key===key&&l.shapes!==shapes?{...l,shapes}:l));},[shapes,key]);
