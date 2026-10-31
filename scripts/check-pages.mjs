@@ -13,7 +13,7 @@ for (const path of references) {
   await access(new URL(`dist/${path.slice(base.length)}`, root));
 }
 const catalogue = JSON.parse(await readFile(new URL('dist/atlas/catalogue.json', root), 'utf8'));
-const paths = new Set(['/atlas/religion/composition.json']);
+const paths = new Set(['/atlas/religion/composition.json','/atlas/religion/history.json']);
 for (const snapshot of catalogue.snapshots) paths.add(`/atlas/maps/${snapshot.file}`);
 for (const record of catalogue.records) if (record.profile) paths.add(`/atlas/profiles/${record.profile}`);
 for (const name of ['modern-symbols', 'historical-symbols', 'early-western-symbols', 'early-asian-symbols', 'early-american-symbols', 'historical-symbol-identities', 'dated-national-symbols']) {

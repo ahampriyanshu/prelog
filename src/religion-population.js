@@ -4,11 +4,21 @@ export const populationGroups=[
  {id:'hindu',name:'Hinduism',color:'#c39451',family:'indian'},
  {id:'buddhist',name:'Buddhism',color:'#c07d59',family:'buddhist'},
  {id:'jewish',name:'Judaism',color:'#a17cb1',family:'jewish'},
- {id:'other',name:'Other religions¹',color:'#859657',family:null},
+ {id:'other',name:'Other religions',color:'#859657',family:null},
  {id:'unaffiliated',name:'Religiously unaffiliated',color:'#9c9f9e',family:null},
 ];
 export const snapshotYear=year=>year>=2020?2020:year>=2010?2010:null;
-export const compositionFor=(data,country,year)=>data?.countries[country]?.[snapshotYear(year)]||null;
+export function populationRecordFor(data,country,year){
+ if(!country||!data)return null;
+ const observed=snapshotYear(year),shares=observed&&data.countries?.[country]?.[observed];
+ if(shares)return {shares,year:observed,source:'Pew Research Center',url:data.url,branches:[],kind:'population'};
+ const history=data.historical,rows=history?.countries?.[country];
+ if(!rows)return null;
+ const at=Object.keys(rows).map(Number).filter(at=>at<=year).sort((a,b)=>b-a)[0];
+ if(at===undefined)return null;
+ return {...rows[at],year:at,source:history.source,url:history.url,kind:'population'};
+}
+export const compositionFor=(data,country,year)=>populationRecordFor(data,country,year)?.shares||null;
 export const rankedGroups=shares=>shares?populationGroups.map(group=>({...group,share:shares[group.id]})).sort((a,b)=>b.share-a.share):[];
 export const formatShare=share=>share===0?'<0.1%':`${share.toFixed(1)}%`;
 const aliases={

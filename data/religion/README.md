@@ -29,7 +29,7 @@ units are hatched, including Greenland and small territories. Political claim
 overlays are excluded. The modern geometry is reused from the approved Empires
 reference, including the Survey of India outline, without modification.
 
-The demographic layer begins at 2010, switches to the observed 2020 data at
+The Pew snapshot series begins at 2010, switches to the observed 2020 data at
 2020, and keeps the source year visible at later timeline dates. There is no
 interpolation, back-projection or claim of measured 2025 composition. Colour
 identifies the largest affiliation; the inspector retains every group. The
@@ -37,3 +37,31 @@ source's grouped “other religions” and unaffiliated categories are explained
 
 Historical schools use separate, sourced community-setting illustrations.
 Neither their polygon sizes nor their animation opacity represents adherence.
+
+## Continuous Traditions map
+
+The map has one view. Historical regional settings retain their complete sourced
+geographic sketches and list coexisting communities. Stripes indicate multiple
+families, not shares. Unrecorded land is hatched explicitly. Zooming reveals
+individual school and sect footprints; population colouring remains underneath.
+These illustrations are neither religious territory nor population majorities.
+
+`wrp-national-1.1.csv` and `cow-country-codes.csv` archive the public World Religion
+Project 1.1 national data and its official COW identity crosswalk, retrieved on
+31 October 2026. Rebuild `public/atlas/religion/history.json` with
+`python3 scripts/build-religion-history.py`.
+
+Source: https://correlatesofwar.org/data-sets/world-religion-data/
+Citation: Zeev Maoz and Errol A. Henderson. 2013. “The World Religion Dataset,
+1945–2010: Logic, Estimates, and Trends.” International Interactions 39: 265–291.
+
+Five-year observations are used only at or after their observation year. Named
+religious families are retained where the source reports them. Source values
+are not normalized; some observations allow overlapping identities. Pew's 2010
+and 2020 figures take precedence where available. A source without a separate
+entry does not borrow estimates from another country. The importer excludes
+obsolete composite units, including Soviet observations, divided Germany,
+Czechoslovakia, Yugoslavia, divided Yemen/Vietnam, pre-separation Pakistan and
+Ethiopia, and Sudan before South Sudan's independence. It does not redistribute
+composite populations to successors. Modern geographic reference areas are not
+presented as reconstructed historical state borders.

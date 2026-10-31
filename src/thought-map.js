@@ -1,3 +1,5 @@
+import {geometryBounds} from './polity-engine.js';
+import {polygonArea} from './territory-symbols.js';
 import {buildTimeStops} from './political-time.js';
 import {DEFAULT_CAMERA,footprintAt,centroid,inRing,mapScale} from './coverage-engine.js';
 import {clampCamera} from './map-engine.js';
@@ -21,4 +23,18 @@ export function focusThoughtCamera(item,year,camera,width,height,point=null){
  const scale=mapScale(width,height,next);
  if(width<700)next.lat-=height*.28/scale;else next.lon+=185/scale;
  return clampCamera(next);
+}
+
+// A country or regional reconstruction is fitted to the unobscured map area.
+// Use its largest land mass so overseas islands do not force a global camera.
+export function focusRegionalCamera(geometry,width,height){
+ const polygons=geometry?.type==='Polygon'?[geometry.coordinates]:geometry?.coordinates||[];
+ const polygon=[...polygons].sort((a,b)=>polygonArea(b)-polygonArea(a))[0];
+ if(!polygon)return {...DEFAULT_CAMERA};
+ const [west,south,east,north]=geometryBounds({type:'Polygon',coordinates:polygon});
+ const phone=width<700,base=Math.min(width/370,height/170);
+ const left=12,right=width-(phone?12:382),top=phone?116:95,bottom=phone?height*.44-120:height-130;
+ const zoom=Math.max(1,Math.min(9,(right-left)/(Math.max(6,east-west)*base),(bottom-top)/(Math.max(6,north-south)*base)));
+ const scale=base*zoom,targetX=(left+right)/2,targetY=(top+bottom)/2;
+ return clampCamera({lon:(west+east)/2+(width/2-targetX)/scale,lat:(south+north)/2+(targetY-height/2)/scale,zoom});
 }
