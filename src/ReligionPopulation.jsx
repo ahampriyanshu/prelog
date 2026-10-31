@@ -12,7 +12,7 @@ export function loadReligionPopulation(){
 export function PopulationTooltip({feature,data,year}){
  const record=populationRecordFor(data,feature.properties.demographicCountry||feature.properties.name,year);
  const shares=rankedGroups(record?.shares);
- return <><div>{record?`${record.source} · ${record.year}`:'Not documented at this date'}</div><h2>{feature.properties.name}</h2>{shares.length?<><div className="population-tooltip-shares">{shares.filter(g=>g.share>=.1).slice(0,4).map(group=><span key={group.id}><i style={{background:group.color}}/>{group.name}<b>{formatShare(group.share)}</b></span>)}</div><small>Countrywide estimates; communities coexist.</small></>:<p>No population estimate is recorded for this area and date.</p>}</>;
+ return <><div>{record?`${record.source} · ${record.year}`:''}</div><h2>{feature.properties.name}</h2>{shares.length?<><div className="population-tooltip-shares">{shares.filter(g=>g.share>=.1).slice(0,4).map(group=><span key={group.id}><i style={{background:group.color}}/>{group.name}<b>{formatShare(group.share)}</b></span>)}</div><small>Countrywide estimates; communities coexist.</small></>:<p>No population estimate is recorded for this area and date.</p>}</>;
 }
 
 export function PopulationInspector({feature,data,year,onClose,onFamily}){

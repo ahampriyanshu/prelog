@@ -76,6 +76,8 @@
 .unified-traditions .tradition-details .idea-region-hit{fill:transparent;stroke:transparent;stroke-width:.7;vector-effect:non-scaling-stroke}
 .unified-traditions .tradition-details .idea-region-hit:hover,.unified-traditions .tradition-details .idea-region-hit:focus-visible{fill:var(--idea-color);fill-opacity:.2;stroke:var(--idea-color)}
 .unified-traditions .tradition-details .idea-region.selected .idea-region-hit{fill:var(--idea-color);fill-opacity:.24;stroke:#304e3b;stroke-width:1.4}
-.unrecorded-key{display:inline-flex;gap:4px;align-items:center}.unrecorded-key i{width:9px;height:7px;border:1px solid #a1ad96;background:repeating-linear-gradient(45deg,#dce2d4 0 2px,#a1ad96 2px 3px)}
 .regional-tradition-list button>span{flex:1}.regional-tradition-list button>i{width:7px;height:7px;border-radius:50%;flex-shrink:0}
 .population-affiliation{display:flex;gap:12px;justify-content:space-between;padding:10px 0;border-bottom:1px solid var(--line);font-size:11px;color:var(--ink)}.population-affiliation strong{font-weight:500}
+
+.unified-traditions .population-area{transition:fill .2s ease}
+@media(prefers-reduced-motion:reduce){.unified-traditions .population-area{transition:none}}
