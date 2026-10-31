@@ -3,12 +3,14 @@ import {readFile, access} from 'node:fs/promises';
 import {assetUrl} from '../src/asset-url.js';
 
 const root = new URL('../', import.meta.url);
+const base = '/';
+assert.equal((await readFile(new URL('dist/CNAME', root), 'utf8')).trim(), 'prelog.ahampriyanshu.com', 'Deployment artifact must retain the custom domain');
 const html = await readFile(new URL('dist/index.html', root), 'utf8');
 const references = [...html.matchAll(/(?:src|href)="(\/[^"#]+)"/g)].map(match => match[1]);
 assert.ok(references.length > 0, 'No production asset references found');
 for (const path of references) {
-  assert.ok(path.startsWith('/prelog/'), `Asset outside Pages base: ${path}`);
-  await access(new URL(`dist/${path.slice('/prelog/'.length)}`, root));
+  assert.ok(!path.startsWith('/prelog/'), `Legacy /prelog/ prefix on custom domain: ${path}`);
+  await access(new URL(`dist/${path.slice(base.length)}`, root));
 }
 const catalogue = JSON.parse(await readFile(new URL('dist/atlas/catalogue.json', root), 'utf8'));
 const paths = new Set(['/atlas/religion/composition.json']);
@@ -19,8 +21,8 @@ for (const name of ['modern-symbols', 'historical-symbols', 'early-western-symbo
   for (const entries of Object.values(symbols)) for (const entry of entries) paths.add(entry.src);
 }
 for (const path of paths) {
-  const hostedPath = assetUrl(path, '/prelog/');
-  assert.ok(hostedPath.startsWith('/prelog/'), `Unexpected asset path: ${path}`);
-  await access(new URL(`dist/${hostedPath.slice('/prelog/'.length)}`, root));
+  const hostedPath = assetUrl(path, base);
+  assert.ok(hostedPath.startsWith(base), `Unexpected asset path: ${path}`);
+  await access(new URL(`dist/${hostedPath.slice(base.length)}`, root));
 }
 console.log(`Pages build verified: ${references.length} bundled assets and ${paths.size} map, profile, population and symbol files.`);

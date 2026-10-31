@@ -67,7 +67,7 @@ The modern India outline uses [Survey of India, Government of India](https://sur
 
 ## GitHub Pages
 
-The site is configured for **https://ahampriyanshu.github.io/prelog/**. GitHub Actions runs tests, builds the `/prelog/` version and deploys `dist/` whenever `main` changes. Pull requests run the same checks without deploying. The workflow uses GitHub’s automatic token; no personal access token or deployment secret is required.
+The site is configured for **https://prelog.ahampriyanshu.com/**. GitHub Actions runs tests, builds for the custom domain’s root path and deploys `dist/` whenever `main` changes. Pull requests run the same checks without deploying. The workflow uses GitHub’s automatic token; no personal access token or deployment secret is required.
 
 In the repository’s **Settings → Pages**, select **GitHub Actions** as the publishing source. Pages must be available for the repository’s visibility and account plan; this setup does not change repository visibility.
 
@@ -81,8 +81,8 @@ npm run check:pages
 npm run preview:pages
 ```
 
-Open `http://127.0.0.1:4173/prelog/`. Local development remains at `/` with `npm run dev`.
+Open `http://127.0.0.1:4173/`. Local development also uses `/` with `npm run dev`.
 
 Deploy an update by committing and pushing to `main`. To redeploy the latest remote `main` without another commit, run `npm run deploy` with an authenticated [GitHub CLI](https://cli.github.com/), or run **Deploy to GitHub Pages** manually from the Actions tab. This command deploys committed remote code, not uncommitted local changes.
 
-`src/asset-url.js` prefixes public map data, profiles, symbols and provenance links with Vite’s base path. The workflow is in `.github/workflows/deploy.yml`; generated builds, dependencies, local environment files and caches are ignored by Git. Source archives and third-party attribution remain versioned for reproducibility.
+`src/asset-url.js` prefixes public map data, profiles, symbols and provenance links with Vite’s base path. The custom domain uses `/`; the old `/prelog/` prefix causes missing assets on this domain. `public/CNAME` records the domain in the deployment artifact. The workflow is in `.github/workflows/deploy.yml`; generated builds, dependencies, local environment files and caches are ignored by Git. Source archives and third-party attribution remain versioned for reproducibility.

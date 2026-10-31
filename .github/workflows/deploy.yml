@@ -30,7 +30,7 @@ jobs:
         run: npm ci
       - name: Test
         run: npm test
-      - name: Build for /prelog/
+      - name: Build for prelog.ahampriyanshu.com
         run: npm run build:pages
       - name: Verify deployment assets
         run: npm run check:pages

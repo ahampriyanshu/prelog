@@ -8,8 +8,8 @@
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1",
     "test": "node --test scripts/*.test.js",
-    "build:pages": "vite build --base=/prelog/",
-    "preview:pages": "vite preview --host 127.0.0.1 --base=/prelog/",
+    "build:pages": "vite build --base=/",
+    "preview:pages": "vite preview --host 127.0.0.1 --base=/",
     "check:pages": "node scripts/check-pages.mjs",
     "deploy": "gh workflow run deploy.yml --repo ahampriyanshu/prelog --ref main"
   },
