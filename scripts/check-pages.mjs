@@ -14,7 +14,7 @@ const catalogue = JSON.parse(await readFile(new URL('dist/atlas/catalogue.json',
 const paths = new Set(['/atlas/religion/composition.json']);
 for (const snapshot of catalogue.snapshots) paths.add(`/atlas/maps/${snapshot.file}`);
 for (const record of catalogue.records) if (record.profile) paths.add(`/atlas/profiles/${record.profile}`);
-for (const name of ['modern-symbols', 'historical-symbols', 'early-western-symbols', 'early-asian-symbols', 'early-american-symbols', 'historical-symbol-identities']) {
+for (const name of ['modern-symbols', 'historical-symbols', 'early-western-symbols', 'early-asian-symbols', 'early-american-symbols', 'historical-symbol-identities', 'dated-national-symbols']) {
   const symbols = JSON.parse(await readFile(new URL(`data/empires/${name}.json`, root), 'utf8'));
   for (const entries of Object.values(symbols)) for (const entry of entries) paths.add(entry.src);
 }

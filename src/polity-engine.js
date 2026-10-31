@@ -2,7 +2,7 @@
 export const snapshotKey=s=>s?.modern?'modern':s?.year;
 export const normalizePolity=value=>String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim();
 export const polityYear=y=>`${Math.abs(y).toLocaleString('en-US')} ${y<0?'BCE':'CE'}`;
-export const snapshotLabel=s=>s?.modern?'Modern reference':polityYear(s.year);
+export const snapshotLabel=s=>s?.modern?'Today':polityYear(s.year);
 export function nearestSnapshot(snapshots,year){const dated=snapshots.filter(s=>Number.isFinite(s.year)&&!s.modern);return dated.reduce((a,b)=>Math.abs(b.year-year)<Math.abs(a.year-year)?b:a,dated[0]);}
 export function stepSnapshot(index,delta,length){return Math.max(0,Math.min(length-1,index+delta));}
 export const geometryPolygons=g=>!g?[]:g.type==='Polygon'?[g.coordinates]:g.type==='MultiPolygon'?g.coordinates:[];

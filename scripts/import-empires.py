@@ -179,3 +179,9 @@ write(OUT/'quarantined-boundaries.json',quarantined);print(json.dumps(manifest['
 # Keep the explicitly selected India boundary convention after every rebuild.
 from india_boundary import apply_india_boundary
 apply_india_boundary(P)
+
+# Selected dated India milestones must survive a complete source re-import.
+import os
+if not os.environ.get('PRELOG_SKIP_POSTWAR'):
+ from postwar_india import apply_postwar_india
+ apply_postwar_india(P)

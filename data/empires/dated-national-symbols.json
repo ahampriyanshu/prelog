@@ -1,0 +1,313 @@
+{
+  "country-ind": [
+    {
+      "kind": "flag",
+      "label": "India flag",
+      "src": "/atlas/symbols/modern/in.svg",
+      "modernOnly": false,
+      "start": 1947,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/in.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://knowindia.india.gov.in/my-india-my-pride/indian-tricolor.php",
+      "note": "Adopted 22 July 1947; mapped for independent India from 15 August. Annual views use the year-end state. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "map-pakistan": [
+    {
+      "kind": "flag",
+      "label": "Pakistan flag",
+      "src": "/atlas/symbols/modern/pk.svg",
+      "modernOnly": false,
+      "start": 1947,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://na.gov.pk/uploads/documents/1308928052_477.pdf",
+      "note": "Approved by the Constituent Assembly on 11 August 1947. East Pakistan remains part of Pakistan until 1971 in the regional snapshots. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "country-pak": [
+    {
+      "kind": "flag",
+      "label": "Pakistan flag",
+      "src": "/atlas/symbols/modern/pk.svg",
+      "modernOnly": false,
+      "start": 1947,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://na.gov.pk/uploads/documents/1308928052_477.pdf",
+      "note": "Approved by the Constituent Assembly on 11 August 1947. East Pakistan remains part of Pakistan until 1971 in the regional snapshots. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "map-united-states": [
+    {
+      "kind": "flag",
+      "label": "United States of America flag",
+      "src": "/atlas/symbols/modern/us.svg",
+      "modernOnly": false,
+      "start": 1960,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/us.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.eisenhowerlibrary.gov/research/online-documents/design-49-and-50-star-flags",
+      "note": "The fifty-star design became official on 4 July 1960. It is not used for earlier US flags. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "country-usa": [
+    {
+      "kind": "flag",
+      "label": "United States of America flag",
+      "src": "/atlas/symbols/modern/us.svg",
+      "modernOnly": false,
+      "start": 1960,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/us.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.eisenhowerlibrary.gov/research/online-documents/design-49-and-50-star-flags",
+      "note": "The fifty-star design became official on 4 July 1960. It is not used for earlier US flags. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "map-canada": [
+    {
+      "kind": "flag",
+      "label": "Canada flag",
+      "src": "/atlas/symbols/modern/ca.svg",
+      "modernOnly": false,
+      "start": 1965,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ca.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.canada.ca/en/canadian-heritage/services/flag-canada-history.html",
+      "note": "The maple-leaf flag was inaugurated on 15 February 1965. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "country-can": [
+    {
+      "kind": "flag",
+      "label": "Canada flag",
+      "src": "/atlas/symbols/modern/ca.svg",
+      "modernOnly": false,
+      "start": 1965,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ca.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.canada.ca/en/canadian-heritage/services/flag-canada-history.html",
+      "note": "The maple-leaf flag was inaugurated on 15 February 1965. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "map-china": [
+    {
+      "kind": "flag",
+      "label": "China flag",
+      "src": "/atlas/symbols/modern/cn.svg",
+      "modernOnly": false,
+      "start": 1949,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://np.china-embassy.gov.cn/eng/ChinaABC/ls/200410/t20041027_1998311.htm",
+      "note": "PRC flag adopted on 27 September 1949. This generic map identity is restricted to 1949 onward; no imperial or Republican flag is inferred. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "country-chn": [
+    {
+      "kind": "flag",
+      "label": "China flag",
+      "src": "/atlas/symbols/modern/cn.svg",
+      "modernOnly": false,
+      "start": 1949,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://np.china-embassy.gov.cn/eng/ChinaABC/ls/200410/t20041027_1998311.htm",
+      "note": "PRC flag adopted on 27 September 1949. This generic map identity is restricted to 1949 onward; no imperial or Republican flag is inferred. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "atlas-236": [
+    {
+      "kind": "flag",
+      "label": "Bangladesh flag",
+      "src": "/atlas/symbols/modern/bd.svg",
+      "modernOnly": false,
+      "start": 1972,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bd.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://bdlaws.minlaw.gov.bd/act-print-418.html",
+      "note": "The 1972 national design; the 1971 liberation flag containing a map is not replaced with this later design. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "country-bgd": [
+    {
+      "kind": "flag",
+      "label": "Bangladesh flag",
+      "src": "/atlas/symbols/modern/bd.svg",
+      "modernOnly": false,
+      "start": 1972,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bd.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://bdlaws.minlaw.gov.bd/act-print-418.html",
+      "note": "The 1972 national design; the 1971 liberation flag containing a map is not replaced with this later design. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "map-australia": [
+    {
+      "kind": "flag",
+      "label": "Australia flag",
+      "src": "/atlas/symbols/modern/au.svg",
+      "modernOnly": false,
+      "start": 1908,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/au.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.pmc.gov.au/resources/australian-symbols-booklet/national-symbols/australian-national-flag",
+      "note": "Blue ensign with the seven-point Commonwealth Star, added in 1908. Used as a national symbol; it does not imply that this was the only flag flown. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "country-aus": [
+    {
+      "kind": "flag",
+      "label": "Australia flag",
+      "src": "/atlas/symbols/modern/au.svg",
+      "modernOnly": false,
+      "start": 1908,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/au.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.pmc.gov.au/resources/australian-symbols-booklet/national-symbols/australian-national-flag",
+      "note": "Blue ensign with the seven-point Commonwealth Star, added in 1908. Used as a national symbol; it does not imply that this was the only flag flown. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "map-italy": [
+    {
+      "kind": "flag",
+      "label": "Italy flag",
+      "src": "/atlas/symbols/modern/it.svg",
+      "modernOnly": false,
+      "start": 1946,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/it.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.quirinale.it/it/pagine/simboli-repubblica-tricolore",
+      "note": "Republican tricolour established provisionally on 19 June 1946. Modern icon colours are illustrative; historical dye specifications are not asserted. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "country-ita": [
+    {
+      "kind": "flag",
+      "label": "Italy flag",
+      "src": "/atlas/symbols/modern/it.svg",
+      "modernOnly": false,
+      "start": 1946,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/it.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.quirinale.it/it/pagine/simboli-repubblica-tricolore",
+      "note": "Republican tricolour established provisionally on 19 June 1946. Modern icon colours are illustrative; historical dye specifications are not asserted. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "map-germany": [
+    {
+      "kind": "flag",
+      "label": "Germany flag",
+      "src": "/atlas/symbols/modern/de.svg",
+      "modernOnly": false,
+      "start": 1990,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/de.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.bundestag.de/en/parliament/symbols/flag/flag-199494",
+      "note": "The Federal Republic adopted black-red-gold in 1949. This generic Germany identity is matched only after reunification in 1990, avoiding East/West Germany ambiguity. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "country-deu": [
+    {
+      "kind": "flag",
+      "label": "Germany flag",
+      "src": "/atlas/symbols/modern/de.svg",
+      "modernOnly": false,
+      "start": 1990,
+      "end": 2020,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/de.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation.",
+      "periodSourceUrl": "https://www.bundestag.de/en/parliament/symbols/flag/flag-199494",
+      "note": "The Federal Republic adopted black-red-gold in 1949. This generic Germany identity is matched only after reunification in 1990, avoiding East/West Germany ambiguity. The 2020 endpoint is the final numbered timeline stop, not a flag retirement date."
+    }
+  ],
+  "map-portugal": [
+    {
+      "kind": "flag",
+      "label": "Portuguese republican national flag",
+      "src": "/atlas/symbols/historical/portugal-republic-1911.svg",
+      "start": 1911,
+      "end": 2020,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Columbano Bordalo Pinheiro (1910; generic design) Vector: Vítor Luís Rodrigues; António Martins-Tuválkin (2004; this specific vector set: see sources); via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Portuguese republican national flag. Goa uses this sovereign flag until its December 1961 integration; no separate colonial ensign is inferred."
+    }
+  ],
+  "country-prt": [
+    {
+      "kind": "flag",
+      "label": "Portuguese republican national flag",
+      "src": "/atlas/symbols/historical/portugal-republic-1911.svg",
+      "start": 1911,
+      "end": 2020,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Columbano Bordalo Pinheiro (1910; generic design) Vector: Vítor Luís Rodrigues; António Martins-Tuválkin (2004; this specific vector set: see sources); via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Portuguese republican national flag. Goa uses this sovereign flag until its December 1961 integration; no separate colonial ensign is inferred."
+    }
+  ],
+  "curated-portuguese-goa": [
+    {
+      "kind": "flag",
+      "label": "Portuguese republican national flag",
+      "src": "/atlas/symbols/historical/portugal-republic-1911.svg",
+      "start": 1911,
+      "end": 1960,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Columbano Bordalo Pinheiro (1910; generic design) Vector: Vítor Luís Rodrigues; António Martins-Tuválkin (2004; this specific vector set: see sources); via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Portuguese republican national flag. Goa uses this sovereign flag until its December 1961 integration; no separate colonial ensign is inferred."
+    }
+  ],
+  "curated-french-india": [
+    {
+      "kind": "flag",
+      "label": "French tricolour — Fourth Republic",
+      "src": "/atlas/symbols/historical/france-tricolour-dark.svg",
+      "start": 1947,
+      "end": 1953,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Unknown Vector: SKopp; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "French national tricolour for the remaining French settlements, not a local colonial ensign."
+    }
+  ]
+}

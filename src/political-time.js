@@ -5,7 +5,7 @@ export const TIME_BANDS = [
   { start: 1, end: 1500, step: 25, label: 'Common Era' },
   { start: 1500, end: 1700, step: 20, label: 'Early modern' },
   { start: 1700, end: 1800, step: 10, label: '18th century' },
-  { start: 1800, end: 2025, step: 5, label: 'Modern history' },
+  { start: 1800, end: 2020, step: 5, label: 'Modern history' },
 ];
 
 export function timeResolution(year) {
@@ -47,7 +47,7 @@ export function boundaryForYear(snapshots, year) {
 
 export function clampPoliticalYear(year) {
   const rounded = Math.round(year);
-  return Math.max(-4000,Math.min(2025,rounded === 0 ? 1 : rounded));
+  return Math.max(-4000,Math.min(2020,rounded === 0 ? 1 : rounded));
 }
 
 // A wheel gesture may emit dozens of tiny events. Cap its contribution and

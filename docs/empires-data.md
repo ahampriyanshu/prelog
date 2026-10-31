@@ -1,10 +1,10 @@
 # Empires data edition · 31 October 2026
 
-Empires is an independent map collection, separate from Religion & Philosophy. It opens on the modern reference layer. Scrolling moves backwards or forwards on a non-linear time scale from 4000 BCE to 2025 CE, followed by the undated modern reference layer. The underlying evidence remains 50 historical map snapshots through 2010 CE; additional time steps do not create new boundary observations.
+Empires is an independent map collection, separate from Religion & Philosophy. It opens on Today. Scrolling moves backwards or forwards on a non-linear time scale from 4000 BCE to 2020 CE, followed directly by Today. There are 50 original historical world snapshots through 2010 CE and six added regional dates; finer navigation steps do not imply new global observations.
 
 ## Coverage
 
-- 4,211 catalogue records: imported historical identities, dated source regions, modern map units, claim areas and actor dossiers. This is not a count of empires.
+- 4,214 catalogue records: imported historical identities, dated source regions, modern map units, claim areas and actor dossiers. This is not a count of empires.
 - 1,015 imported historical metadata records and 43 historical dossiers with additional researched content.
 - 258 original Natural Earth modern map units. The India boundary convention renders 257 units and 86 separate claim overlays; the Siachen source unit is included within India. These counts are not counts of sovereign countries. Withheld overlay records remain available as source dossiers.
 - 239 country and territory profiles from the archived World Factbook, plus nine researched disputed-polity profiles and seven non-state actor profiles.
@@ -25,7 +25,7 @@ Recorded polygons cross-fade for 700 milliseconds; no vertices are interpolated.
 
 - 237 modern flag SVGs from [flag-icons 7.3.2](https://github.com/lipis/flag-icons/tree/v7.3.2), MIT; pinned npm package integrity and per-file SHA-256 are retained. The manifest is `data/empires/modern-symbols.json`. `scripts/download-modern-symbols.py` reproduces the download from the pinned package.
 - 14 unchanged historical SVGs from Wikimedia Commons, with 18 dated entries across 10 dossiers. Each original has its own source, attribution, license and hash under `public/atlas/symbols/historical/`. Public-domain and CC BY-SA 3.0 images are used without alteration. See `data/empires/historical-symbols-notes.md` for dating evidence.
-- Map overlays, hover previews and mapped dossiers select symbols by the **viewing year**, independently of the visibly dated boundary observation. This permits an attested symbol between coarse boundary snapshots: the Sarnath capital appears at 250 BCE over the explicitly labelled 300 BCE Mauryan map. It does not date that boundary to Ashoka’s reign. Modern flags are never backdated. Unmapped catalogue entries may show a representative symbol, whose title and dossier caption state its period.
+- Map overlays, hover previews and mapped dossiers select symbols by the **viewing year**, independently of the visibly dated boundary observation. This permits an attested symbol between coarse boundary snapshots: the Sarnath capital appears at 250 BCE over the explicitly labelled 300 BCE Mauryan map. It does not date that boundary to Ashoka’s reign. Present-day flag designs appear historically only within explicitly reviewed adoption windows. Unmapped catalogue entries may show a representative symbol, whose title and dossier caption state its period.
 - 21 additional early assets: nine western, seven Asian/African, five American. They include Achaemenid and Roman archaeological motifs, the Sarnath lion capital, Gupta and Aksum coins, a Chola royal seal, Byzantine objects, medieval heraldry, Yuan/Ming/Qing court objects, and pre-Columbian artifacts. Museum objects are identified as artifacts, not national flags or proof of official universal use. Original files and hashes are retained; dated evidence and exact identity joins are documented in `data/empires/early-*-symbols-notes.md`.
 - Flags are projected across each significant connected land mass and clipped to its original polygon, including holes. Labels contain no flag thumbnails. Disputed/claim polygons retain their hatch and never receive a flag overlay. Original flag artwork remains undistorted in the dossier.
 - Emblems and artifact markers use an interior point with clearance from the territory edge and holes; their footprint stays inside the largest land mass. Full artifacts are contained. The two robe viewports select the documented early central field and exclude later textile additions; the original image remains unchanged in the dossier. This marker is an entity identifier, not an archaeological findspot.
@@ -40,9 +40,9 @@ Recorded polygons cross-fade for 700 milliseconds; no vertices are interpolated.
 
 **Natural Earth 5.1.1** — [Admin 0 countries](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/) and [disputed areas](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-breakaway-disputed-areas/), public domain. The modern map is a cartographic reference with source claim polygons shown as hatching outside the India boundary override. It is not a live conflict map or a decision on sovereignty. Its observation date is unknown and stored as null. The import date is never used as a territorial observation date. See the source's [disputed-boundaries policy](https://www.naturalearthdata.com/about/disputed-boundaries-policy/).
 
-**India boundary convention** — [Survey of India, Government of India](https://surveyofindia.gov.in/pages/outline-maps-of-india). The modern India polygon now comes directly from the official downloadable `Outline_of_India.zip`, with a source-file date of 13 February 2026 and download-page scale of 1:16 million. The original archive is preserved in `data/empires/boundaries/`. Projection is converted from the supplied LCC WGS84 definition to longitude/latitude. A topology-preserving 25-metre simplification in the source CRS reduces web rendering cost; all 1,151 polygon parts and source holes are retained. This rendering tolerance is not a claim of survey accuracy. The source attribution is visible on the modern map and in India's dossier.
+**India boundary convention** — [Survey of India, Government of India](https://surveyofindia.gov.in/pages/outline-maps-of-india). The modern India polygon now comes directly from the official downloadable `Outline_of_India.zip`, with a source-file date of 13 February 2026 and download-page scale of 1:16 million. The original archive is preserved in `data/empires/boundaries/`. Projection is converted from the supplied LCC WGS84 definition to longitude/latitude. A topology-preserving 25-metre simplification in the source CRS reduces web rendering cost; all 1,151 polygon parts and source holes are retained. This rendering tolerance is not a claim of survey accuracy. The source attribution is visible on each affected map and in India's dossier.
 
-The same geometry drives the flag clip, hover, click and camera fit. Neighbouring polygons are clipped against it; 13 overlapping claim overlays and the separate Siachen source map unit are suppressed in this view. Those source dossiers remain searchable, without independently selectable modern polygons. Historical snapshots are unchanged. This is an explicitly selected Government of India boundary convention, not an assertion of present territorial control.
+The same geometry drives the flag clip, hover, click and camera fit. Neighbouring polygons are clipped against it; 13 overlapping claim overlays and the separate Siachen source map unit are suppressed in this view. Those source dossiers remain searchable, without independently selectable modern polygons. The selected post-war regional snapshots also use this outer boundary, with the dated Goa and Sikkim exclusions described below. This is an explicitly selected Government of India boundary convention, not an assertion of present territorial control.
 
 `public/atlas/india-boundary-provenance.json` records source URLs, source/archive hashes, projection, rendering tolerance and each adjusted or suppressed record. [DST's 2021 Geospatial Guidelines, paragraph 8(xiii)](https://geospatial.dst.gov.in/Guidelines.aspx) address digital display of SOI boundary data; attribution is **Source: Survey of India, Government of India.** No broader hosting or legal-compliance certification is made by the application.
 
@@ -72,3 +72,41 @@ Updating a dossier does not update a boundary. New geometry must include an expl
 The automated checks cover geometry rings/holes, coordinate bounds, catalogue identity resolution across every shipped snapshot, forward/reverse navigation, disputed and non-state separation, chronology, reviewed dynasty identity matches, archived currency/capital/date extraction, mobile map focus, adaptive time bands, custom-date selection without future evidence, wheel reversal, symbol dating, image integrity and attribution, disconnected territorial clips, hole exclusion, interior emblem placement, exact historical flag joins and viewing-year evidence between map records. Browser checks cover desktop and mobile layouts, search, profile loading, date navigation, scrolling in both directions, category switching, and contemporaries. These checks establish application/data integrity, not independent historical verification of every source.
 
 To regenerate the India patch after updating its source, use a temporary Python environment with `shapely==2.1.2`, `pyshp==2.3.1` and `pyproj==3.7.2`, then run `scripts/build-india-boundary.py` with the saved official ZIP and an **unmodified** Natural Earth modern snapshot from this edition. The normal import and web build use the committed patch and require no GIS packages or network access.
+
+## Post-independence India chronology (31 October 2026)
+
+The numbered navigation ends in 2020 and advances directly to **Today**. Today
+is the current reference edition, not a claim of live territorial-control data.
+The internal `modern` key is retained for compatibility with the source files.
+
+Regional snapshots now include 1947, 1948, 1954, 1961, 1971 and 1975. India uses
+the attributed Survey of India outer outline from independence onward. Annual
+snapshots represent the year-end state: Jammu and Kashmir's accession was signed
+on 26 October 1947, so it is already included by 1948 under that boundary policy.
+Goa is separate until 1961; Sikkim is separate until 1975. A regional date does
+not redate the rest of the world: the original global source year remains in
+the map caption and metadata.
+
+`data/empires/boundaries/india-accession-regions.json` contains extracted Natural
+Earth 5.1.1 Admin-1 polygons for Goa, Sikkim and Puducherry, with the archive hash.
+Their intersection with the SOI national outline supplies the regional masks.
+These present-day internal outlines approximate historical transfers; they are
+not a new survey of historical boundaries. This is a selected regional chronology,
+not a complete integration history of every princely state or colonial enclave.
+Bangladesh is separated from East Pakistan in the 1971 year-end snapshot.
+
+`build-postwar-india.py` requires Shapely 2.1.2 and **unpatched normalized** maps
+from the existing importer. Set `PRELOG_SKIP_POSTWAR=1` during a clean source
+import to prepare those inputs, then pass that maps directory to the builder.
+Review `india-postwar.json` before applying it with `postwar_india.py`. The normal
+importer applies this committed, hash-checked patch using only the Python standard
+library; changed upstream geometry fails closed. Reapplying the same patch is
+idempotent. The provenance is also published at
+`atlas/india-postwar-provenance.json`.
+
+`dated-national-symbols.json` adds explicit adoption windows and reviewed identity
+matches for India, Pakistan, China, the US, Canada, Bangladesh, Australia, Italy,
+Germany, Portugal and the mapped French settlements. Current flags without a
+reviewed historical match remain restricted to Today. Each new national adoption
+window cites an official source; SVG attribution stays separate. The window's
+2020 endpoint is the final numbered stop, not a flag retirement date.

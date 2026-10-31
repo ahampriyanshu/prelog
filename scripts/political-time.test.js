@@ -17,7 +17,7 @@ test('adaptive time gives progressively finer navigation without skipping source
 test('navigation reverses at every step and clamps its endpoints',()=>{
  for(let i=0;i<stops.length-1;i++)assert.equal(stepTime(stops,stepTime(stops,stops[i],1),-1),stops[i]);
  assert.equal(stepTime(stops,stops[0],-1),stops[0]);assert.equal(stepTime(stops,'modern',1),'modern');
- assert.equal(clampPoliticalYear(0),1);assert.equal(clampPoliticalYear(-9000),-4000);assert.equal(clampPoliticalYear(5000),2025);
+ assert.equal(clampPoliticalYear(0),1);assert.equal(clampPoliticalYear(-9000),-4000);assert.equal(clampPoliticalYear(5000),2020);
 });
 test('custom dates retain their position and never borrow future boundary evidence',()=>{
  const s=boundaryForYear(catalogue.snapshots,1776);assert.ok(s.year<=1776);
