@@ -1,0 +1,387 @@
+{
+  "atlas-27": [
+    {
+      "kind": "symbol",
+      "label": "Achaemenid lion-griffins — gold artifact motif",
+      "src": "/atlas/symbols/early-western/achaemenid-lion-griffins-met.jpg",
+      "start": -550,
+      "end": -330,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/324290",
+      "license": "CC0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1954, 54.3.2",
+      "note": "Photograph of a gold belt ornament dated approximately the sixth–fourth century BCE. This is an attested decorative motif, not an identified state emblem or flag. The museum dating interval is clipped to the Achaemenid polity.",
+      "sha256": "971b95147d768a27b12bcb379bbde47cea9b069cce1a0adb53b7467810c38935",
+      "evidenceSources": [
+        {
+          "title": "The Metropolitan Museum of Art — Plaque with horned lion-griffins",
+          "url": "https://www.metmuseum.org/art/collection/search/324290"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "atlas-1034": [
+    {
+      "kind": "symbol",
+      "label": "Roman eagle — bronze artifact motif",
+      "src": "/atlas/symbols/early-western/roman-eagle-cma.jpg",
+      "start": -100,
+      "end": -28,
+      "modernOnly": false,
+      "sourceUrl": "https://www.clevelandart.org/art/1988.40",
+      "license": "CC0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Cleveland Museum of Art, John L. Severance Fund, 1988.40",
+      "note": "Photograph of a Roman bronze, dated 100 BCE–100 CE by the museum; probably Syrian. An archaeological eagle motif, not a national flag or an identified legionary standard. The interval is the artifact dating range clipped to this polity, not evidence of uninterrupted official use.",
+      "sha256": "5011d452209f691e45f5c821f228a617ac24010918258e04ce06d2a6960c720f",
+      "evidenceSources": [
+        {
+          "title": "Cleveland Museum of Art — Imperial Eagle, 100 BCE–100 CE",
+          "url": "https://www.clevelandart.org/art/1988.40"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "atlas-1": [
+    {
+      "kind": "symbol",
+      "label": "Roman eagle — bronze artifact motif",
+      "src": "/atlas/symbols/early-western/roman-eagle-cma.jpg",
+      "start": -27,
+      "end": 100,
+      "modernOnly": false,
+      "sourceUrl": "https://www.clevelandart.org/art/1988.40",
+      "license": "CC0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Cleveland Museum of Art, John L. Severance Fund, 1988.40",
+      "note": "Photograph of a Roman bronze, dated 100 BCE–100 CE by the museum; probably Syrian. An archaeological eagle motif, not a national flag or an identified legionary standard. The interval is the artifact dating range clipped to this polity, not evidence of uninterrupted official use.",
+      "sha256": "5011d452209f691e45f5c821f228a617ac24010918258e04ce06d2a6960c720f",
+      "evidenceSources": [
+        {
+          "title": "Cleveland Museum of Art — Imperial Eagle, 100 BCE–100 CE",
+          "url": "https://www.clevelandart.org/art/1988.40"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "atlas-11": [
+    {
+      "kind": "symbol",
+      "label": "Imperial portrait — Byzantine solidus",
+      "src": "/atlas/symbols/early-western/byzantine-solidus-491-518-met.jpg",
+      "start": 491,
+      "end": 518,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/469161",
+      "license": "CC0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, Bequest of Joseph H. Durkee, 1898, 99.35.7407",
+      "note": "Photograph of a gold solidus made in Constantinople and dated 491–518 by the museum. Shown as an authentic coin motif, not a national flag or a universal imperial coat of arms.",
+      "sha256": "f853d1c3908fdcd4046b3df11c2ff4b8052f34f546303b563b65b353a0f8c4d9",
+      "evidenceSources": [
+        {
+          "title": "The Metropolitan Museum of Art — Solidus, 491–518",
+          "url": "https://www.metmuseum.org/art/collection/search/469161"
+        }
+      ],
+      "display": "emblem"
+    },
+    {
+      "kind": "symbol",
+      "label": "Byzantine silver cross — religious artifact motif",
+      "src": "/atlas/symbols/early-western/byzantine-silver-cross-walters.jpg",
+      "start": 501,
+      "end": 700,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byzantine_-_Cross_-_Walters_571827.jpg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Walters Art Museum, museum purchase 1949, 57.1827",
+      "note": "Photograph of a Byzantine silver cross dated to the sixth–seventh century by the Walters Art Museum. This religious artifact motif is not a state flag or an emblem unique to the empire. The interval expresses museum dating, not continuous official use.",
+      "sha256": "eab16905d19d5716377b0d81c5dd5728da2ec1f376366042ac3e960af13eca13",
+      "evidenceSources": [
+        {
+          "title": "The Walters Art Museum — Cross, sixth–seventh century",
+          "url": "https://art.thewalters.org/object/57.1827/"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "curated-holy-roman-empire": [
+    {
+      "kind": "emblem",
+      "label": "Double-headed imperial eagle",
+      "src": "/atlas/symbols/early-western/holy-roman-double-eagle.svg",
+      "start": 1433,
+      "end": 1806,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arms_of_the_Holy_Roman_Empire_(after_1433).svg",
+      "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Greiffenakt",
+      "note": "Modern heraldic rendering of the imperial double-eagle type documented from Sigismund’s imperial coronation in 1433. It is not a facsimile of a particular surviving standard, nor the complete personal arms of every emperor.",
+      "sha256": "c556090c755c2adad9c35992ff8fa45aec36ec482814a850d0114d7806d78ab7",
+      "evidenceSources": [
+        {
+          "title": "The Metropolitan Museum of Art — The World in Play: Luxury Cards, 1430–1540",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_World_in_Play_Luxury_Cards_1430_1540.pdf"
+        },
+        {
+          "title": "City of Aachen — The Town Hall, imperial double eagle from 1433",
+          "url": "https://rathaus-aachen.de/wp-content/uploads/2013/08/The-Town-Hall_E_web.pdf"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "atlas-57": [
+    {
+      "kind": "emblem",
+      "label": "Royal arms of England — three lions",
+      "src": "/atlas/symbols/early-western/england-three-lions.svg",
+      "start": 1198,
+      "end": 1339,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_England.svg",
+      "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Sodacan",
+      "note": "Modern heraldic rendering of the royal shield attested from Richard I’s second seal in 1198. This unquartered version is restricted to the period before Edward III quartered the French arms in 1340. It is not a national flag.",
+      "sha256": "ef259c24240166c295feca0bfd16e220dbf8466cba9eeb829ead63618b731a0c",
+      "evidenceSources": [
+        {
+          "title": "Cambridge University Heraldic and Genealogical Society — English royal arms, citing Boutell",
+          "url": "https://cuhags.soc.srcf.net/gen/tng/showmedia.php?mediaID=64&medialinkID=138"
+        },
+        {
+          "title": "Commons file documentation — Royal arms of England, 1198–1340",
+          "url": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_England.svg"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "map-england": [
+    {
+      "kind": "emblem",
+      "label": "Royal arms of England — three lions",
+      "src": "/atlas/symbols/early-western/england-three-lions.svg",
+      "start": 1198,
+      "end": 1339,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_England.svg",
+      "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Sodacan",
+      "note": "Modern heraldic rendering of the royal shield attested from Richard I’s second seal in 1198. This unquartered version is restricted to the period before Edward III quartered the French arms in 1340. It is not a national flag. Explicit join to the source name “England”, limited by the symbol dates; earlier map snapshot years do not establish earlier use of the arms.",
+      "sha256": "ef259c24240166c295feca0bfd16e220dbf8466cba9eeb829ead63618b731a0c",
+      "evidenceSources": [
+        {
+          "title": "Cambridge University Heraldic and Genealogical Society — English royal arms, citing Boutell",
+          "url": "https://cuhags.soc.srcf.net/gen/tng/showmedia.php?mediaID=64&medialinkID=138"
+        },
+        {
+          "title": "Commons file documentation — Royal arms of England, 1198–1340",
+          "url": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_England.svg"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "map-english-territory": [
+    {
+      "kind": "emblem",
+      "label": "Royal arms of England — three lions",
+      "src": "/atlas/symbols/early-western/england-three-lions.svg",
+      "start": 1198,
+      "end": 1339,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_England.svg",
+      "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Sodacan",
+      "note": "Modern heraldic rendering of the royal shield attested from Richard I’s second seal in 1198. This unquartered version is restricted to the period before Edward III quartered the French arms in 1340. It is not a national flag. Explicit join to the source name “English territory” in 1279 and 1300; the 1279 source records England as the sovereign. No identification is inferred from unrelated aliases.",
+      "sha256": "ef259c24240166c295feca0bfd16e220dbf8466cba9eeb829ead63618b731a0c",
+      "evidenceSources": [
+        {
+          "title": "Cambridge University Heraldic and Genealogical Society — English royal arms, citing Boutell",
+          "url": "https://cuhags.soc.srcf.net/gen/tng/showmedia.php?mediaID=64&medialinkID=138"
+        },
+        {
+          "title": "Commons file documentation — Royal arms of England, 1198–1340",
+          "url": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_England.svg"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "atlas-56": [
+    {
+      "kind": "emblem",
+      "label": "French royal arms — semé of fleurs-de-lis",
+      "src": "/atlas/symbols/early-western/france-seme-fleurs-de-lis.svg",
+      "start": 1216,
+      "end": 1375,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arms_of_the_Kingdom_of_France_(Ancien).svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Sodacan",
+      "note": "Modern heraldic rendering of the royal semé type. Its blue-and-gold colours are attested in Chartres glass dated 1215–1216; the earlier adoption date remains uncertain. This is a royal shield, not a national flag. The conventional 1376 change to three fleurs-de-lis bounds this entry.",
+      "sha256": "5acd09445b04cfa151b3b374e0e46c446d5e9bd96a6174109a60f8e6bd3f31c2",
+      "evidenceSources": [
+        {
+          "title": "Bibliothèque municipale de Lyon — Pastoureau on the 1211 seal and 1215–1216 Chartres glass",
+          "url": "https://www.guichetdusavoir.org/question/voir/46246"
+        },
+        {
+          "title": "Commons documentation — Ancient royal arms of France",
+          "url": "https://commons.wikimedia.org/wiki/Category:Royal_coats_of_arms_of_France_(ancient)"
+        }
+      ],
+      "display": "emblem"
+    },
+    {
+      "kind": "emblem",
+      "label": "French royal arms — three fleurs-de-lis",
+      "src": "/atlas/symbols/early-western/france-three-fleurs-de-lis.svg",
+      "start": 1376,
+      "end": 1791,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:France_moderne.svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Sodacan",
+      "note": "Modern heraldic rendering of the three-fleurs-de-lis royal shield conventionally dated from Charles V’s 1376 change. It represents the royal arms’ central shield, not every monarch’s complete achievement or a national flag. The transition year 1792 is excluded.",
+      "sha256": "0900c6fcc84f353f527436aa186eceffac85ed7d4df5fd346f376591a10fa0ea",
+      "evidenceSources": [
+        {
+          "title": "INSEI — Charles V and his new arms with three fleurs-de-lis",
+          "url": "https://www.insei.fr/ressources/blason-de-charles-v"
+        },
+        {
+          "title": "Commons documentation — Modern royal arms of France, 1376–1792",
+          "url": "https://commons.wikimedia.org/wiki/Category:Royal_coats_of_arms_of_France_(modern)"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "map-france": [
+    {
+      "kind": "emblem",
+      "label": "French royal arms — semé of fleurs-de-lis",
+      "src": "/atlas/symbols/early-western/france-seme-fleurs-de-lis.svg",
+      "start": 1216,
+      "end": 1375,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arms_of_the_Kingdom_of_France_(Ancien).svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Sodacan",
+      "note": "Modern heraldic rendering of the royal semé type. Its blue-and-gold colours are attested in Chartres glass dated 1215–1216; the earlier adoption date remains uncertain. This is a royal shield, not a national flag. The conventional 1376 change to three fleurs-de-lis bounds this entry. Explicit join to source NAME=France during the Kingdom of France; the source record’s later republican and imperial years are excluded.",
+      "sha256": "5acd09445b04cfa151b3b374e0e46c446d5e9bd96a6174109a60f8e6bd3f31c2",
+      "evidenceSources": [
+        {
+          "title": "Bibliothèque municipale de Lyon — Pastoureau on the 1211 seal and 1215–1216 Chartres glass",
+          "url": "https://www.guichetdusavoir.org/question/voir/46246"
+        },
+        {
+          "title": "Commons documentation — Ancient royal arms of France",
+          "url": "https://commons.wikimedia.org/wiki/Category:Royal_coats_of_arms_of_France_(ancient)"
+        }
+      ],
+      "display": "emblem"
+    },
+    {
+      "kind": "emblem",
+      "label": "French royal arms — three fleurs-de-lis",
+      "src": "/atlas/symbols/early-western/france-three-fleurs-de-lis.svg",
+      "start": 1376,
+      "end": 1791,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:France_moderne.svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Sodacan",
+      "note": "Modern heraldic rendering of the three-fleurs-de-lis royal shield conventionally dated from Charles V’s 1376 change. It represents the royal arms’ central shield, not every monarch’s complete achievement or a national flag. The transition year 1792 is excluded. Explicit join to source NAME=France during the Kingdom of France; the source record’s later republican and imperial years are excluded.",
+      "sha256": "0900c6fcc84f353f527436aa186eceffac85ed7d4df5fd346f376591a10fa0ea",
+      "evidenceSources": [
+        {
+          "title": "INSEI — Charles V and his new arms with three fleurs-de-lis",
+          "url": "https://www.insei.fr/ressources/blason-de-charles-v"
+        },
+        {
+          "title": "Commons documentation — Modern royal arms of France, 1376–1792",
+          "url": "https://commons.wikimedia.org/wiki/Category:Royal_coats_of_arms_of_France_(modern)"
+        }
+      ],
+      "display": "emblem"
+    }
+  ],
+  "atlas-29": [
+    {
+      "kind": "flag",
+      "label": "First Union flag — royal maritime design",
+      "src": "/atlas/symbols/early-western/british-first-union.svg",
+      "start": 1606,
+      "end": 1648,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Great_Britain_(1707%E2%80%931800).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Hoshie",
+      "note": "Modern rendering of the first Union design. Introduced for sea use in 1606 and reserved to royal ships in 1634; restored in 1660 and retained for Great Britain in 1707. The Interregnum and the 1801 redesign are excluded. It does not imply uniform local flags across all colonies; early shades and proportions varied.",
+      "sha256": "499f1f86ed388b08e98ec3982e7c5ec7527bbaeaf9632f8092adbac4937e0fd0",
+      "evidenceSources": [
+        {
+          "title": "UK Parliament — Union Flag, royal proclamation in 1606",
+          "url": "https://questions-statements.parliament.uk/written-questions/detail/2016-04-18/HL7725"
+        },
+        {
+          "title": "Flag Institute — Union Flag history, Interregnum, 1707 and 1801 changes",
+          "url": "https://www.flaginstitute.org/wp/uk-flags/union-flag-history/"
+        }
+      ]
+    },
+    {
+      "kind": "flag",
+      "label": "First Union flag — restored design",
+      "src": "/atlas/symbols/early-western/british-first-union.svg",
+      "start": 1660,
+      "end": 1800,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Great_Britain_(1707%E2%80%931800).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Hoshie",
+      "note": "Modern rendering of the first Union design. Introduced for sea use in 1606 and reserved to royal ships in 1634; restored in 1660 and retained for Great Britain in 1707. The Interregnum and the 1801 redesign are excluded. It does not imply uniform local flags across all colonies; early shades and proportions varied.",
+      "sha256": "499f1f86ed388b08e98ec3982e7c5ec7527bbaeaf9632f8092adbac4937e0fd0",
+      "evidenceSources": [
+        {
+          "title": "UK Parliament — Union Flag, royal proclamation in 1606",
+          "url": "https://questions-statements.parliament.uk/written-questions/detail/2016-04-18/HL7725"
+        },
+        {
+          "title": "Flag Institute — Union Flag history, Interregnum, 1707 and 1801 changes",
+          "url": "https://www.flaginstitute.org/wp/uk-flags/union-flag-history/"
+        }
+      ]
+    }
+  ],
+  "map-united-kingdom": [
+    {
+      "kind": "flag",
+      "label": "Union flag of Great Britain",
+      "src": "/atlas/symbols/early-western/british-first-union.svg",
+      "start": 1707,
+      "end": 1800,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Great_Britain_(1707%E2%80%931800).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Hoshie",
+      "note": "Modern rendering of the first Union design, retained for the Kingdom of Great Britain in 1707 and replaced in 1801. This source record uses the later label “United Kingdom” for the earlier British polity and some dependencies. Local colonial flags were not uniform; this is the Crown’s Union flag, not proof of a particular local flag.",
+      "sha256": "499f1f86ed388b08e98ec3982e7c5ec7527bbaeaf9632f8092adbac4937e0fd0",
+      "evidenceSources": [
+        {
+          "title": "UK Parliament — Union Flag, royal proclamation in 1606",
+          "url": "https://questions-statements.parliament.uk/written-questions/detail/2016-04-18/HL7725"
+        },
+        {
+          "title": "Flag Institute — Union Flag history, Interregnum, 1707 and 1801 changes",
+          "url": "https://www.flaginstitute.org/wp/uk-flags/union-flag-history/"
+        }
+      ]
+    }
+  ]
+}

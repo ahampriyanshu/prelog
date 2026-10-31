@@ -1,0 +1,2272 @@
+{
+  "package": "flag-icons",
+  "version": "7.3.2",
+  "tarball": "https://registry.npmjs.org/flag-icons/-/flag-icons-7.3.2.tgz",
+  "integrity": "sha512-QkaZ6Zvai8LIjx+UNAHUJ5Dhz9OLZpBDwCRWxF6YErxIcR16jTkIFm3bFu54EkvKQy4+wicW+Gm7/0631wVQyQ==",
+  "repository": "https://github.com/lipis/flag-icons/tree/v7.3.2",
+  "license": "MIT",
+  "licenseFile": "/atlas/symbols/modern/LICENSE.txt",
+  "geographySHA256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255",
+  "format": "Original package 4:3 SVG icons, copied byte-for-byte. Not national flag manufacturing specifications or original national aspect ratios.",
+  "temporalScope": "Modern reference presentation only. Null start/end are intentionally not historical validity claims. No flag is inherited by historical entities, armed actors, or claim overlays.",
+  "identityPolicy": "Direct ISO_A2 matches plus four reviewed identity-specific exceptions. No generic ISO_A2_EH or sovereign-state fallback.",
+  "sovereigntyPolicy": "A flag identifies the labeled entity; it makes no claim about recognition or territorial control. Western Sahara's EH asset is specifically labeled as the SADR flag.",
+  "standardsReferences": [
+    {
+      "title": "flag-icons usage: ISO alpha-2 naming and 4:3 icon format",
+      "url": "https://github.com/lipis/flag-icons/blob/v7.3.2/README.md"
+    },
+    {
+      "title": "ISO 3166 country codes (entity identifiers, not flag specifications)",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    },
+    {
+      "title": "Natural Earth Admin 0 countries",
+      "url": "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+    }
+  ],
+  "assetCount": 237,
+  "recordCount": 237,
+  "matches": [
+    {
+      "id": "country-abw",
+      "naturalEarthAdmin": "Aruba",
+      "naturalEarthISO_A2": "AW",
+      "code": "aw",
+      "packageCountryName": "Aruba",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6cabd9394138d55a421da65a8a5b7aebd612c5df48d97fd23790ebfbd59bd1ac"
+    },
+    {
+      "id": "country-ago",
+      "naturalEarthAdmin": "Angola",
+      "naturalEarthISO_A2": "AO",
+      "code": "ao",
+      "packageCountryName": "Angola",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "3a4b1f9b0c95729b128ed86c7446ce82733f29ad9f6387e7a2ca951fa488e763"
+    },
+    {
+      "id": "country-aia",
+      "naturalEarthAdmin": "Anguilla",
+      "naturalEarthISO_A2": "AI",
+      "code": "ai",
+      "packageCountryName": "Anguilla",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "974c6af4adba3aed291f00a7eddaa8940853f8a7ca9be0c17ff8064714f27c51"
+    },
+    {
+      "id": "country-alb",
+      "naturalEarthAdmin": "Albania",
+      "naturalEarthISO_A2": "AL",
+      "code": "al",
+      "packageCountryName": "Albania",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "4ae4d2950f6a08528639700e48d19930b964478a2548cb9bf41b898c2b757b11"
+    },
+    {
+      "id": "country-ald",
+      "naturalEarthAdmin": "Aland",
+      "naturalEarthISO_A2": "AX",
+      "code": "ax",
+      "packageCountryName": "Aland Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "1f2bddd37b8663637561e785b3dd0286a9dd6b9966d2a7955ff5d3bfb87654a4"
+    },
+    {
+      "id": "country-and",
+      "naturalEarthAdmin": "Andorra",
+      "naturalEarthISO_A2": "AD",
+      "code": "ad",
+      "packageCountryName": "Andorra",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c7dd3880bbb8b400877a014d36112a8acaa970fe37b45220e336f8c675463cd7"
+    },
+    {
+      "id": "country-are",
+      "naturalEarthAdmin": "United Arab Emirates",
+      "naturalEarthISO_A2": "AE",
+      "code": "ae",
+      "packageCountryName": "United Arab Emirates",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "3bc52a4aac7c6c68cd7c0a04013fa14f715abfe6958e7a6e3194f0793c9eb816"
+    },
+    {
+      "id": "country-arg",
+      "naturalEarthAdmin": "Argentina",
+      "naturalEarthISO_A2": "AR",
+      "code": "ar",
+      "packageCountryName": "Argentina",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6525d9b1c1e3d204bfd03e3e697812f501920c7acbd0b5aba950e7532860bfa4"
+    },
+    {
+      "id": "country-arm",
+      "naturalEarthAdmin": "Armenia",
+      "naturalEarthISO_A2": "AM",
+      "code": "am",
+      "packageCountryName": "Armenia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "efb6cdaad5658ae5024c86b099a96c4e3769028894240f4015cbc090a0e90e0f"
+    },
+    {
+      "id": "country-asm",
+      "naturalEarthAdmin": "American Samoa",
+      "naturalEarthISO_A2": "AS",
+      "code": "as",
+      "packageCountryName": "American Samoa",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "1478aedae277afd12f2c097009f79790f0070c011adb31ba189162a85d439f2a"
+    },
+    {
+      "id": "country-atf",
+      "naturalEarthAdmin": "French Southern and Antarctic Lands",
+      "naturalEarthISO_A2": "TF",
+      "code": "tf",
+      "packageCountryName": "French Southern Territories",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "0bf7174a781219bcc47895ff64101403a41632e62711f96a1d3dc8a1e1bbb531"
+    },
+    {
+      "id": "country-atg",
+      "naturalEarthAdmin": "Antigua and Barbuda",
+      "naturalEarthISO_A2": "AG",
+      "code": "ag",
+      "packageCountryName": "Antigua and Barbuda",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "131282135f0f5cfca72efa3a6dc6a3392b5999b5b15e1cbd0f3f73253c24080d"
+    },
+    {
+      "id": "country-aus",
+      "naturalEarthAdmin": "Australia",
+      "naturalEarthISO_A2": "AU",
+      "code": "au",
+      "packageCountryName": "Australia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "cbb2206c5e59a25d79228306af973666a191e163f0ae337681f447977e6edb18"
+    },
+    {
+      "id": "country-aut",
+      "naturalEarthAdmin": "Austria",
+      "naturalEarthISO_A2": "AT",
+      "code": "at",
+      "packageCountryName": "Austria",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c0e5cb3c1d59fd002afd6e2b0dd03787677ca3c9e7b2321f4af6d9e28256ebcd"
+    },
+    {
+      "id": "country-aze",
+      "naturalEarthAdmin": "Azerbaijan",
+      "naturalEarthISO_A2": "AZ",
+      "code": "az",
+      "packageCountryName": "Azerbaijan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "33ad245b2125c36fbf0f863b0edd5c85cbef37587900e101db3a615870504502"
+    },
+    {
+      "id": "country-bdi",
+      "naturalEarthAdmin": "Burundi",
+      "naturalEarthISO_A2": "BI",
+      "code": "bi",
+      "packageCountryName": "Burundi",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "5ef1a56b4ebe90326d6d807bbf61bd2d6f0b752fd6966588cd42471a886307bb"
+    },
+    {
+      "id": "country-bel",
+      "naturalEarthAdmin": "Belgium",
+      "naturalEarthISO_A2": "BE",
+      "code": "be",
+      "packageCountryName": "Belgium",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d6aff6fa4c913404eafd53f91c0a9b240fcecaddc8f0ac2160d362e38469342c"
+    },
+    {
+      "id": "country-ben",
+      "naturalEarthAdmin": "Benin",
+      "naturalEarthISO_A2": "BJ",
+      "code": "bj",
+      "packageCountryName": "Benin",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "0a46cbae6018acdbc4a485f6b1c4a3df7a7b36680439f6eb5d1bfb957f704888"
+    },
+    {
+      "id": "country-bfa",
+      "naturalEarthAdmin": "Burkina Faso",
+      "naturalEarthISO_A2": "BF",
+      "code": "bf",
+      "packageCountryName": "Burkina Faso",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "606b17add6a8aeb9610b06aae674785a3e795c22b564f5a204c6de93753e612e"
+    },
+    {
+      "id": "country-bgd",
+      "naturalEarthAdmin": "Bangladesh",
+      "naturalEarthISO_A2": "BD",
+      "code": "bd",
+      "packageCountryName": "Bangladesh",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "1aabb4a772651fb9a673660233d5bc6f3d78dfc71df09d567769bc97b9eb554f"
+    },
+    {
+      "id": "country-bgr",
+      "naturalEarthAdmin": "Bulgaria",
+      "naturalEarthISO_A2": "BG",
+      "code": "bg",
+      "packageCountryName": "Bulgaria",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b6d979fc96dc6b46c1697a5e05ecfe1fac1fa912ed480ca7a2a9b450f087faf6"
+    },
+    {
+      "id": "country-bhr",
+      "naturalEarthAdmin": "Bahrain",
+      "naturalEarthISO_A2": "BH",
+      "code": "bh",
+      "packageCountryName": "Bahrain",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "7a519f58c9007731d70a975a48cc81fcf516ab52ab972f9739eace370431e0c2"
+    },
+    {
+      "id": "country-bhs",
+      "naturalEarthAdmin": "The Bahamas",
+      "naturalEarthISO_A2": "BS",
+      "code": "bs",
+      "packageCountryName": "Bahamas",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "1f179c39f296e5e3e062114d62fea394ff0ea487bd29cdffbe3837b7238d46dc"
+    },
+    {
+      "id": "country-bih",
+      "naturalEarthAdmin": "Bosnia and Herzegovina",
+      "naturalEarthISO_A2": "BA",
+      "code": "ba",
+      "packageCountryName": "Bosnia and Herzegovina",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b321fe9b47c1cd741c61b330aee66cf00550622a6a9e740161a9f240a14e0787"
+    },
+    {
+      "id": "country-blm",
+      "naturalEarthAdmin": "Saint Barthelemy",
+      "naturalEarthISO_A2": "BL",
+      "code": "bl",
+      "packageCountryName": "Saint Barthélemy",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d511eb84cf9313e11f8b648de6a0122d4fa6c1662b0111890303b7867ad71d24"
+    },
+    {
+      "id": "country-blr",
+      "naturalEarthAdmin": "Belarus",
+      "naturalEarthISO_A2": "BY",
+      "code": "by",
+      "packageCountryName": "Belarus",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "a1efa44ad1167d6d77abbe59ce85aa3a68ff4bd57af79454c08a3ade5c178578"
+    },
+    {
+      "id": "country-blz",
+      "naturalEarthAdmin": "Belize",
+      "naturalEarthISO_A2": "BZ",
+      "code": "bz",
+      "packageCountryName": "Belize",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "dca54e074f48b5e7149a55fe744df5854ad037f3db6aae117f9e152f1d2c615b"
+    },
+    {
+      "id": "country-bmu",
+      "naturalEarthAdmin": "Bermuda",
+      "naturalEarthISO_A2": "BM",
+      "code": "bm",
+      "packageCountryName": "Bermuda",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ef2f685ba973d35aa5a586fc5048b85af150f49a4cefb8d9833cfc5354907519"
+    },
+    {
+      "id": "country-bol",
+      "naturalEarthAdmin": "Bolivia",
+      "naturalEarthISO_A2": "BO",
+      "code": "bo",
+      "packageCountryName": "Bolivia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "a9fb5c907ee7e5f0223b17385d8635d6e7348eda3ec527c84869fcd9f77bbd82"
+    },
+    {
+      "id": "country-bra",
+      "naturalEarthAdmin": "Brazil",
+      "naturalEarthISO_A2": "BR",
+      "code": "br",
+      "packageCountryName": "Brazil",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d079a828be244afbfefccae98370ae404766e62e4716cb3e0ef2d9eed487b390"
+    },
+    {
+      "id": "country-brb",
+      "naturalEarthAdmin": "Barbados",
+      "naturalEarthISO_A2": "BB",
+      "code": "bb",
+      "packageCountryName": "Barbados",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "46cfd88ab5ea96e75627e044d008462586fbd04a346205dfd258984a46ffc27a"
+    },
+    {
+      "id": "country-brn",
+      "naturalEarthAdmin": "Brunei",
+      "naturalEarthISO_A2": "BN",
+      "code": "bn",
+      "packageCountryName": "Brunei Darussalam",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "af5521b073055331dfa8ae8ed33ca66156d6f2f246b0d327f0ae14c65ff4beef"
+    },
+    {
+      "id": "country-btn",
+      "naturalEarthAdmin": "Bhutan",
+      "naturalEarthISO_A2": "BT",
+      "code": "bt",
+      "packageCountryName": "Bhutan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "05ff0d4d7258357823180eec1e53baa11846505234f51061a47c2f95641d1f43"
+    },
+    {
+      "id": "country-bwa",
+      "naturalEarthAdmin": "Botswana",
+      "naturalEarthISO_A2": "BW",
+      "code": "bw",
+      "packageCountryName": "Botswana",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "180bfa4e76b78fa7b52bf9f3c8e99d3c1b4aa520b97a239661a8953dc90658b3"
+    },
+    {
+      "id": "country-caf",
+      "naturalEarthAdmin": "Central African Republic",
+      "naturalEarthISO_A2": "CF",
+      "code": "cf",
+      "packageCountryName": "Central African Republic",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "1b58dc2035ff0039c82e4dfb16a536dcf74ee09ab4d95b75221d404ad616dc0f"
+    },
+    {
+      "id": "country-can",
+      "naturalEarthAdmin": "Canada",
+      "naturalEarthISO_A2": "CA",
+      "code": "ca",
+      "packageCountryName": "Canada",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "345ec9dac057e203f1331b2d3f9f473789864edaee1182a26bc261356bcf72f1"
+    },
+    {
+      "id": "country-che",
+      "naturalEarthAdmin": "Switzerland",
+      "naturalEarthISO_A2": "CH",
+      "code": "ch",
+      "packageCountryName": "Switzerland",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ac676cd39d7032988598ef2dd73f6bebcd767738e3e469705d6a437835ac485c"
+    },
+    {
+      "id": "country-chl",
+      "naturalEarthAdmin": "Chile",
+      "naturalEarthISO_A2": "CL",
+      "code": "cl",
+      "packageCountryName": "Chile",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "bcf0ccdf0999a1cd82061202988e1f6088c2070e3e76794d67cb375ef325ef76"
+    },
+    {
+      "id": "country-chn",
+      "naturalEarthAdmin": "China",
+      "naturalEarthISO_A2": "CN",
+      "code": "cn",
+      "packageCountryName": "China",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "981da9bdf82d48e31691f20578cefcb26cf7d0bd95e4ebd5c0df00bdfe988c1a"
+    },
+    {
+      "id": "country-civ",
+      "naturalEarthAdmin": "Ivory Coast",
+      "naturalEarthISO_A2": "CI",
+      "code": "ci",
+      "packageCountryName": "Côte d'Ivoire",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "4ecfea70e4e0860fdb49a523db7cd64431b4da8130ee9038cf87bfcc85c3806e"
+    },
+    {
+      "id": "country-cmr",
+      "naturalEarthAdmin": "Cameroon",
+      "naturalEarthISO_A2": "CM",
+      "code": "cm",
+      "packageCountryName": "Cameroon",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c9a327dc0e355739a9f2bc0a91e1293f8e08e13910e718bc63fda35a244acef5"
+    },
+    {
+      "id": "country-cod",
+      "naturalEarthAdmin": "Democratic Republic of the Congo",
+      "naturalEarthISO_A2": "CD",
+      "code": "cd",
+      "packageCountryName": "Democratic Republic of the Congo",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ad93c1afd68e6a7364d141e0989a798e81a202fe4674f21fece3ceea83fd167c"
+    },
+    {
+      "id": "country-cog",
+      "naturalEarthAdmin": "Republic of the Congo",
+      "naturalEarthISO_A2": "CG",
+      "code": "cg",
+      "packageCountryName": "Republic of the Congo",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "628dcfc7f00ab09cc9074b837863c31fe4472c7c3e17c30e233332d94c37585b"
+    },
+    {
+      "id": "country-cok",
+      "naturalEarthAdmin": "Cook Islands",
+      "naturalEarthISO_A2": "CK",
+      "code": "ck",
+      "packageCountryName": "Cook Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b17c039f7195b292265dd28b50f85b3668e28e490b48df760e953e3ab0bc3557"
+    },
+    {
+      "id": "country-col",
+      "naturalEarthAdmin": "Colombia",
+      "naturalEarthISO_A2": "CO",
+      "code": "co",
+      "packageCountryName": "Colombia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6bab3c96c1657510c6e49354dd40203c69401bee54da497392ab9267334e5fd4"
+    },
+    {
+      "id": "country-com",
+      "naturalEarthAdmin": "Comoros",
+      "naturalEarthISO_A2": "KM",
+      "code": "km",
+      "packageCountryName": "Comoros",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "81e1befbbdeab3b2a4ec451e060b161bbcc6de00b97ef9d99791bc5741dfddab"
+    },
+    {
+      "id": "country-cpv",
+      "naturalEarthAdmin": "Cabo Verde",
+      "naturalEarthISO_A2": "CV",
+      "code": "cv",
+      "packageCountryName": "Cabo Verde",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "2fa67e0a2477306f0427877b78d2276c58c496ff50faf4b3d69252350821e138"
+    },
+    {
+      "id": "country-cri",
+      "naturalEarthAdmin": "Costa Rica",
+      "naturalEarthISO_A2": "CR",
+      "code": "cr",
+      "packageCountryName": "Costa Rica",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "4775ef01d28b8a887cde3dbe2826466ed77c87aae4d00517c99d4977afdbdc20"
+    },
+    {
+      "id": "country-cub",
+      "naturalEarthAdmin": "Cuba",
+      "naturalEarthISO_A2": "CU",
+      "code": "cu",
+      "packageCountryName": "Cuba",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "15013e0bb414c074af963bab167806dc81b7e1bb6dabc05dac20b2583511e535"
+    },
+    {
+      "id": "country-cuw",
+      "naturalEarthAdmin": "Curaçao",
+      "naturalEarthISO_A2": "CW",
+      "code": "cw",
+      "packageCountryName": "Curaçao",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c845d0cad7f00344a2729257315afbf81c70c08bf0772211eb913a716b9aae7c"
+    },
+    {
+      "id": "country-cym",
+      "naturalEarthAdmin": "Cayman Islands",
+      "naturalEarthISO_A2": "KY",
+      "code": "ky",
+      "packageCountryName": "Cayman Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f2a145b4579d5339ff1ac21a1f17b52d9723c72a637a1222cb09e376d663a8c9"
+    },
+    {
+      "id": "country-cyp",
+      "naturalEarthAdmin": "Cyprus",
+      "naturalEarthISO_A2": "CY",
+      "code": "cy",
+      "packageCountryName": "Cyprus",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d2ddf86c24e9d4dc4e2f5cd298b189b9d04a08c0f6497c35249f07d6f1969e33"
+    },
+    {
+      "id": "country-cze",
+      "naturalEarthAdmin": "Czechia",
+      "naturalEarthISO_A2": "CZ",
+      "code": "cz",
+      "packageCountryName": "Czech Republic",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d601fcc2e5b1fd48b79d53c55108af4c0e90793f146db51f3ee449d8d69512bc"
+    },
+    {
+      "id": "country-deu",
+      "naturalEarthAdmin": "Germany",
+      "naturalEarthISO_A2": "DE",
+      "code": "de",
+      "packageCountryName": "Germany",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "efd480af5a154a7651f29da23ee0d09dbc892410fb4041898ddf8face336c575"
+    },
+    {
+      "id": "country-dji",
+      "naturalEarthAdmin": "Djibouti",
+      "naturalEarthISO_A2": "DJ",
+      "code": "dj",
+      "packageCountryName": "Djibouti",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "2a22d382f85cef20ba39a9abb6e6ecffdfa806d46afea3f6d26b8a23a5c12e43"
+    },
+    {
+      "id": "country-dma",
+      "naturalEarthAdmin": "Dominica",
+      "naturalEarthISO_A2": "DM",
+      "code": "dm",
+      "packageCountryName": "Dominica",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "0a4bf1a27390308c62675099f3fb7c86ac3098fce4e8c5e95046c7a15c54226d"
+    },
+    {
+      "id": "country-dnk",
+      "naturalEarthAdmin": "Denmark",
+      "naturalEarthISO_A2": "DK",
+      "code": "dk",
+      "packageCountryName": "Denmark",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d2847c0bd7a1fb97977ee51f2f618c5ebc5898dd66ef9804f187613c27bdca1a"
+    },
+    {
+      "id": "country-dom",
+      "naturalEarthAdmin": "Dominican Republic",
+      "naturalEarthISO_A2": "DO",
+      "code": "do",
+      "packageCountryName": "Dominican Republic",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c7aa5934de4a275abc039e8cbac9549c8d10f5c7e7b3aaecf550f1add14aac8c"
+    },
+    {
+      "id": "country-dza",
+      "naturalEarthAdmin": "Algeria",
+      "naturalEarthISO_A2": "DZ",
+      "code": "dz",
+      "packageCountryName": "Algeria",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "9ea0cf93222ab7b5e7b77b9576afcad80dad1eff33827e8e58dbfbb42aeb8213"
+    },
+    {
+      "id": "country-ecu",
+      "naturalEarthAdmin": "Ecuador",
+      "naturalEarthISO_A2": "EC",
+      "code": "ec",
+      "packageCountryName": "Ecuador",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "4472b0618e2f5e31d31d16c0d7d811310c33b07d5a101b54f60fcb7ec84d1d4d"
+    },
+    {
+      "id": "country-egy",
+      "naturalEarthAdmin": "Egypt",
+      "naturalEarthISO_A2": "EG",
+      "code": "eg",
+      "packageCountryName": "Egypt",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "a12e12117153b4e96ee31b759ee9ccc1cb4691e0929823e8ccb782bdf57b2beb"
+    },
+    {
+      "id": "country-eri",
+      "naturalEarthAdmin": "Eritrea",
+      "naturalEarthISO_A2": "ER",
+      "code": "er",
+      "packageCountryName": "Eritrea",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "64c98a80601fc019f9ca7a71f7dd384ca995da1403e7775edcbfd79118564e45"
+    },
+    {
+      "id": "country-esp",
+      "naturalEarthAdmin": "Spain",
+      "naturalEarthISO_A2": "ES",
+      "code": "es",
+      "packageCountryName": "Spain",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "1d60aebdd9ecfc669e11ea317a9f5ba8af6a9d6b98a841b9f70d8243e65b60eb"
+    },
+    {
+      "id": "country-est",
+      "naturalEarthAdmin": "Estonia",
+      "naturalEarthISO_A2": "EE",
+      "code": "ee",
+      "packageCountryName": "Estonia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "25642310e287fbdc02e1ac3e0e08fadca9a32eae195f67b6863bf0fc6247176b"
+    },
+    {
+      "id": "country-eth",
+      "naturalEarthAdmin": "Ethiopia",
+      "naturalEarthISO_A2": "ET",
+      "code": "et",
+      "packageCountryName": "Ethiopia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "43d5922fff81ae1accda75ed99b1b6e68dbebaa3d88a5d87f10a744f17cba34c"
+    },
+    {
+      "id": "country-fin",
+      "naturalEarthAdmin": "Finland",
+      "naturalEarthISO_A2": "FI",
+      "code": "fi",
+      "packageCountryName": "Finland",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "012edd984cf1879463c2855b7df02dea2f7de7f7a66b244fb1e22b4227f7aa65"
+    },
+    {
+      "id": "country-fji",
+      "naturalEarthAdmin": "Fiji",
+      "naturalEarthISO_A2": "FJ",
+      "code": "fj",
+      "packageCountryName": "Fiji",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "9619a6818d81d7a051081e97c18c34258b748320127986b7f8eed132354d18b8"
+    },
+    {
+      "id": "country-flk",
+      "naturalEarthAdmin": "Falkland Islands",
+      "naturalEarthISO_A2": "FK",
+      "code": "fk",
+      "packageCountryName": "Falkland Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "7dcfaf48ae6e09723365f3d6c24668e4942ce94527e168f432dc7832d6ae0219"
+    },
+    {
+      "id": "country-fra",
+      "naturalEarthAdmin": "France",
+      "naturalEarthISO_A2": "-99",
+      "code": "fr",
+      "packageCountryName": "France",
+      "basis": "Natural Earth ISO_A2_EH=FR; ISO_A2 is absent.",
+      "sha256": "8cdacc8d79bcf210cdca2777a2c0de1f9e5862526877bd3026c9d59ecdcd4578"
+    },
+    {
+      "id": "country-fro",
+      "naturalEarthAdmin": "Faroe Islands",
+      "naturalEarthISO_A2": "FO",
+      "code": "fo",
+      "packageCountryName": "Faroe Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ec85991b8a9255cae6ea4241413ae3bd836d8afd985cc3a6cc5f91a37a00a1b4"
+    },
+    {
+      "id": "country-fsm",
+      "naturalEarthAdmin": "Federated States of Micronesia",
+      "naturalEarthISO_A2": "FM",
+      "code": "fm",
+      "packageCountryName": "Federated States of Micronesia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "23db3e9fe582cc8dd5d3b9ad58aff1ef5cb359c330bbed59fc053d76355434de"
+    },
+    {
+      "id": "country-gab",
+      "naturalEarthAdmin": "Gabon",
+      "naturalEarthISO_A2": "GA",
+      "code": "ga",
+      "packageCountryName": "Gabon",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f7b775c474b0331222ed84a3d1b5a5d66af1c097c8565766db17a5cff5237c93"
+    },
+    {
+      "id": "country-gbr",
+      "naturalEarthAdmin": "United Kingdom",
+      "naturalEarthISO_A2": "GB",
+      "code": "gb",
+      "packageCountryName": "United Kingdom",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c8be1e7208798a4ae692ee1e937065d498bb29e741943f6172b29118b8ed8066"
+    },
+    {
+      "id": "country-geo",
+      "naturalEarthAdmin": "Georgia",
+      "naturalEarthISO_A2": "GE",
+      "code": "ge",
+      "packageCountryName": "Georgia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "0280a1279c3d1d772f1e885ee821e37a1cdb4aa085ca2870825fe10bad8d7ff1"
+    },
+    {
+      "id": "country-ggy",
+      "naturalEarthAdmin": "Guernsey",
+      "naturalEarthISO_A2": "GG",
+      "code": "gg",
+      "packageCountryName": "Guernsey",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ea806b4831074904a767c9744ca6defc2d8f44b8565c56528f5dcd1ecc54e9f5"
+    },
+    {
+      "id": "country-gha",
+      "naturalEarthAdmin": "Ghana",
+      "naturalEarthISO_A2": "GH",
+      "code": "gh",
+      "packageCountryName": "Ghana",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "53c55ca455293bceecfe6a5d6b12dc0bb670734c50bfd95cb21dc4ef12197405"
+    },
+    {
+      "id": "country-gib",
+      "naturalEarthAdmin": "Gibraltar",
+      "naturalEarthISO_A2": "GI",
+      "code": "gi",
+      "packageCountryName": "Gibraltar",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "483f5768d4c360c28a751dd121872ed9a2f6568fc358816a95378284526e1d0b"
+    },
+    {
+      "id": "country-gin",
+      "naturalEarthAdmin": "Guinea",
+      "naturalEarthISO_A2": "GN",
+      "code": "gn",
+      "packageCountryName": "Guinea",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ee01e7dd4abb0a995980ec8d0ba2bf314b564c73fcaba39fed8a5f48a7c49753"
+    },
+    {
+      "id": "country-gmb",
+      "naturalEarthAdmin": "Gambia",
+      "naturalEarthISO_A2": "GM",
+      "code": "gm",
+      "packageCountryName": "Gambia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "2aa3fad4e8820fb42386f62d3efee1d3923817a49ed2bb05ba364c58d0ca4d3f"
+    },
+    {
+      "id": "country-gnb",
+      "naturalEarthAdmin": "Guinea-Bissau",
+      "naturalEarthISO_A2": "GW",
+      "code": "gw",
+      "packageCountryName": "Guinea-Bissau",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6b81a234b51ceacb4b67e889bb5b7ccf5f1084ac34b4fded2b97af5336f4797e"
+    },
+    {
+      "id": "country-gnq",
+      "naturalEarthAdmin": "Equatorial Guinea",
+      "naturalEarthISO_A2": "GQ",
+      "code": "gq",
+      "packageCountryName": "Equatorial Guinea",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "61ddf0a98d1d4bf93c6ec53eec080662efceabc37d1361eda4e7d291e10976d8"
+    },
+    {
+      "id": "country-grc",
+      "naturalEarthAdmin": "Greece",
+      "naturalEarthISO_A2": "GR",
+      "code": "gr",
+      "packageCountryName": "Greece",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "a184070f7678b06777be8ac38cb05ba41829591a6dac9b64b2b72db66aec82f5"
+    },
+    {
+      "id": "country-grd",
+      "naturalEarthAdmin": "Grenada",
+      "naturalEarthISO_A2": "GD",
+      "code": "gd",
+      "packageCountryName": "Grenada",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "eecc1f130ed02b2166c6f185439b7c95cabfa4a41b33c1a834ca59ffe4780785"
+    },
+    {
+      "id": "country-grl",
+      "naturalEarthAdmin": "Greenland",
+      "naturalEarthISO_A2": "GL",
+      "code": "gl",
+      "packageCountryName": "Greenland",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "15a60b078ed13383947233241fd26f2a3a6e7e88658ef3b90f2bd6c4e658411e"
+    },
+    {
+      "id": "country-gtm",
+      "naturalEarthAdmin": "Guatemala",
+      "naturalEarthISO_A2": "GT",
+      "code": "gt",
+      "packageCountryName": "Guatemala",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "e718d6376e66bebff6eefaf5e4d45ca5b4a8cee525c8bc9a4c6869b1e153ae7d"
+    },
+    {
+      "id": "country-gum",
+      "naturalEarthAdmin": "Guam",
+      "naturalEarthISO_A2": "GU",
+      "code": "gu",
+      "packageCountryName": "Guam",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f49a02cc01b2c97d43e89260ed852e9bf7c5006fbbc384a2c786819ba6a6695f"
+    },
+    {
+      "id": "country-guy",
+      "naturalEarthAdmin": "Guyana",
+      "naturalEarthISO_A2": "GY",
+      "code": "gy",
+      "packageCountryName": "Guyana",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "5bd7a7b326efd9c28c3ec3b23118b241cb7643967fe9410611f392bc3deb65b0"
+    },
+    {
+      "id": "country-hkg",
+      "naturalEarthAdmin": "Hong Kong S.A.R.",
+      "naturalEarthISO_A2": "HK",
+      "code": "hk",
+      "packageCountryName": "Hong Kong",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d9d142b2b97ec3b8190bff3802072c1b4f15573a679eead89a0ce59986dcad0c"
+    },
+    {
+      "id": "country-hmd",
+      "naturalEarthAdmin": "Heard Island and McDonald Islands",
+      "naturalEarthISO_A2": "HM",
+      "code": "hm",
+      "packageCountryName": "Heard Island and McDonald Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b57fb521c08a8f80adf13aa96f151db87e192c9ea3d22e0918fa57a187b3792f"
+    },
+    {
+      "id": "country-hnd",
+      "naturalEarthAdmin": "Honduras",
+      "naturalEarthISO_A2": "HN",
+      "code": "hn",
+      "packageCountryName": "Honduras",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "67130fa043e9d30dda7691e0d59567ff32db435a0d72e4e57309bd439fd79995"
+    },
+    {
+      "id": "country-hrv",
+      "naturalEarthAdmin": "Croatia",
+      "naturalEarthISO_A2": "HR",
+      "code": "hr",
+      "packageCountryName": "Croatia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6c9bd3fa4533610a8c54cb1e9da4c894c86d273bde61c8e6c2eb887216cd53c6"
+    },
+    {
+      "id": "country-hti",
+      "naturalEarthAdmin": "Haiti",
+      "naturalEarthISO_A2": "HT",
+      "code": "ht",
+      "packageCountryName": "Haiti",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d5202cea57937dd3ed138e51f93f0c9f754f5ba9bbd8ee20e6ae078d9d7e6aad"
+    },
+    {
+      "id": "country-hun",
+      "naturalEarthAdmin": "Hungary",
+      "naturalEarthISO_A2": "HU",
+      "code": "hu",
+      "packageCountryName": "Hungary",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ffc4edd580d4b9789bee68f33cef24afe826ae571464350fe7b98c7a36b4ff8f"
+    },
+    {
+      "id": "country-idn",
+      "naturalEarthAdmin": "Indonesia",
+      "naturalEarthISO_A2": "ID",
+      "code": "id",
+      "packageCountryName": "Indonesia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "5cd3acc4939dd7eae6318c8d75df8c0d1733f650e2504a2635b0dbf3dfabb040"
+    },
+    {
+      "id": "country-imn",
+      "naturalEarthAdmin": "Isle of Man",
+      "naturalEarthISO_A2": "IM",
+      "code": "im",
+      "packageCountryName": "Isle of Man",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6e95ae2649e5bf6160934b0e6c34b6252b18ff94c1720a1e8244e57e117607f2"
+    },
+    {
+      "id": "country-ind",
+      "naturalEarthAdmin": "India",
+      "naturalEarthISO_A2": "IN",
+      "code": "in",
+      "packageCountryName": "India",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "91185efa1a9b52cdc0e470712518efeefc4e4d6a6555bae9de997ba71885bb98"
+    },
+    {
+      "id": "country-iot",
+      "naturalEarthAdmin": "British Indian Ocean Territory",
+      "naturalEarthISO_A2": "IO",
+      "code": "io",
+      "packageCountryName": "British Indian Ocean Territory",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "3b82705371d04eb663b1e477d24f91e55063f2a9ed4ffb542449abe90f2e12a2"
+    },
+    {
+      "id": "country-irl",
+      "naturalEarthAdmin": "Ireland",
+      "naturalEarthISO_A2": "IE",
+      "code": "ie",
+      "packageCountryName": "Ireland",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f82568d70bd1624ff7ce3ced8712a718a224ff2424fd2ade2da4339be3bba463"
+    },
+    {
+      "id": "country-irn",
+      "naturalEarthAdmin": "Iran",
+      "naturalEarthISO_A2": "IR",
+      "code": "ir",
+      "packageCountryName": "Iran",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "cb363e09bafbff6de7c2fba6a002ca33f0563dc83a2328d34adb492cf80ca629"
+    },
+    {
+      "id": "country-irq",
+      "naturalEarthAdmin": "Iraq",
+      "naturalEarthISO_A2": "IQ",
+      "code": "iq",
+      "packageCountryName": "Iraq",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "073b07113d582dfea58fbd7e7e63cd9626bfa4afc87b3446a2a798981e26a412"
+    },
+    {
+      "id": "country-isl",
+      "naturalEarthAdmin": "Iceland",
+      "naturalEarthISO_A2": "IS",
+      "code": "is",
+      "packageCountryName": "Iceland",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "4ef2de6fb25ff5a16789e8ffc3b68894527e68c89dce3b4e1118f5bbcc0bb7ae"
+    },
+    {
+      "id": "country-isr",
+      "naturalEarthAdmin": "Israel",
+      "naturalEarthISO_A2": "IL",
+      "code": "il",
+      "packageCountryName": "Israel",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "04a099ac4370b5e856f5f8d44ce0822ec47a6d3bc395a7d048d3a46d69274d68"
+    },
+    {
+      "id": "country-ita",
+      "naturalEarthAdmin": "Italy",
+      "naturalEarthISO_A2": "IT",
+      "code": "it",
+      "packageCountryName": "Italy",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "9fa88118818d9b64838f578e2babcca3d0630aed21b5c33b34aff7ac5ce506bc"
+    },
+    {
+      "id": "country-jam",
+      "naturalEarthAdmin": "Jamaica",
+      "naturalEarthISO_A2": "JM",
+      "code": "jm",
+      "packageCountryName": "Jamaica",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f837df1ac21a4c64be2c977e2faeb6d6593624703d7c61b71a857fa8355b7f47"
+    },
+    {
+      "id": "country-jey",
+      "naturalEarthAdmin": "Jersey",
+      "naturalEarthISO_A2": "JE",
+      "code": "je",
+      "packageCountryName": "Jersey",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "4718dabb2b0c6df88d3b8470c9f1535a2c0ef5def770de6a0c218ec31e258404"
+    },
+    {
+      "id": "country-jor",
+      "naturalEarthAdmin": "Jordan",
+      "naturalEarthISO_A2": "JO",
+      "code": "jo",
+      "packageCountryName": "Jordan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "e3a570d5c50c15f4aca73d27b2543ee335fd04151847e3d8ef2b42e5ac1ebe12"
+    },
+    {
+      "id": "country-jpn",
+      "naturalEarthAdmin": "Japan",
+      "naturalEarthISO_A2": "JP",
+      "code": "jp",
+      "packageCountryName": "Japan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "bfea80baf9989383dc4bf7ca594ed95be0df0ff125bfc88d0bfa878eb0198022"
+    },
+    {
+      "id": "country-kaz",
+      "naturalEarthAdmin": "Kazakhstan",
+      "naturalEarthISO_A2": "KZ",
+      "code": "kz",
+      "packageCountryName": "Kazakhstan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ce0f495ae2039b6ed850a21b0c9501bc13f29fa566c02b123ccafab4c6dbd693"
+    },
+    {
+      "id": "country-ken",
+      "naturalEarthAdmin": "Kenya",
+      "naturalEarthISO_A2": "KE",
+      "code": "ke",
+      "packageCountryName": "Kenya",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "699163d87382eb969d8a26d4ce1a99a00264e8b7b95276abf585476506f46e82"
+    },
+    {
+      "id": "country-kgz",
+      "naturalEarthAdmin": "Kyrgyzstan",
+      "naturalEarthISO_A2": "KG",
+      "code": "kg",
+      "packageCountryName": "Kyrgyzstan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "447742452890d698e2cceb8387daa53a19e553ac28542973e115867effcf9b93"
+    },
+    {
+      "id": "country-khm",
+      "naturalEarthAdmin": "Cambodia",
+      "naturalEarthISO_A2": "KH",
+      "code": "kh",
+      "packageCountryName": "Cambodia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "21a9681682a2158cab294bd1826a2dda2e3edf17aff891d692c6c976c3d9c874"
+    },
+    {
+      "id": "country-kir",
+      "naturalEarthAdmin": "Kiribati",
+      "naturalEarthISO_A2": "KI",
+      "code": "ki",
+      "packageCountryName": "Kiribati",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "01206661587925daf1e57d8b6a6eb85f07a8ccf2230b89ed9b6e3a39b83f0ce0"
+    },
+    {
+      "id": "country-kna",
+      "naturalEarthAdmin": "Saint Kitts and Nevis",
+      "naturalEarthISO_A2": "KN",
+      "code": "kn",
+      "packageCountryName": "Saint Kitts and Nevis",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "0832acb7396986c7ba99bdfdadc563df322363f91659775f14aeeeacdd546c7e"
+    },
+    {
+      "id": "country-kor",
+      "naturalEarthAdmin": "South Korea",
+      "naturalEarthISO_A2": "KR",
+      "code": "kr",
+      "packageCountryName": "South Korea",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "7a6cd5b51d0e2841ed8b79b1147ad8a66cf3c09f6344d4a63b5e4413ffa5d15b"
+    },
+    {
+      "id": "country-kos",
+      "naturalEarthAdmin": "Kosovo",
+      "naturalEarthISO_A2": "-99",
+      "code": "xk",
+      "packageCountryName": "Kosovo",
+      "basis": "Natural Earth ISO_A2_EH=XK and flag-icons xk identify Kosovo. XK is a user-assigned code, not an official ISO assignment.",
+      "sha256": "dac3f2a0d2af6a713c5263a72d7d9db470ccdfa7d7607b13493c5dd0733ec7c9"
+    },
+    {
+      "id": "country-kwt",
+      "naturalEarthAdmin": "Kuwait",
+      "naturalEarthISO_A2": "KW",
+      "code": "kw",
+      "packageCountryName": "Kuwait",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "172a4281fdaf4b168471afcffc9e9ea277d6b5e54acc1a18b2f8ddc0a255cd7c"
+    },
+    {
+      "id": "country-lao",
+      "naturalEarthAdmin": "Laos",
+      "naturalEarthISO_A2": "LA",
+      "code": "la",
+      "packageCountryName": "Laos",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "da591b989d90a90d03c736d8515fe567832eb9f24dcfa7a2870b1cf3196fdb05"
+    },
+    {
+      "id": "country-lbn",
+      "naturalEarthAdmin": "Lebanon",
+      "naturalEarthISO_A2": "LB",
+      "code": "lb",
+      "packageCountryName": "Lebanon",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "94b12b3f1dc43809f93516592f07bb4eb85dabbfdd6010b736f467fa64283e7f"
+    },
+    {
+      "id": "country-lbr",
+      "naturalEarthAdmin": "Liberia",
+      "naturalEarthISO_A2": "LR",
+      "code": "lr",
+      "packageCountryName": "Liberia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "69f2ce4b9490ab3c94ca30dc94862e5f1e8cb0f84344e5db0eb9300df5c66146"
+    },
+    {
+      "id": "country-lby",
+      "naturalEarthAdmin": "Libya",
+      "naturalEarthISO_A2": "LY",
+      "code": "ly",
+      "packageCountryName": "Libya",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "47d96b6e011cd540bdeb30155cbd7994f929cd2f5b84cffdd50936b876823f41"
+    },
+    {
+      "id": "country-lca",
+      "naturalEarthAdmin": "Saint Lucia",
+      "naturalEarthISO_A2": "LC",
+      "code": "lc",
+      "packageCountryName": "Saint Lucia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "99645e005699eba454a0c3bf052b84d161267b615d8be60c41acb41f9355e47d"
+    },
+    {
+      "id": "country-lie",
+      "naturalEarthAdmin": "Liechtenstein",
+      "naturalEarthISO_A2": "LI",
+      "code": "li",
+      "packageCountryName": "Liechtenstein",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "7f5ce788b77419b5c7ddb42cb953e57494eba84302e4a7253cb89f4b42ebd69c"
+    },
+    {
+      "id": "country-lka",
+      "naturalEarthAdmin": "Sri Lanka",
+      "naturalEarthISO_A2": "LK",
+      "code": "lk",
+      "packageCountryName": "Sri Lanka",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ed3eee24d19872d6adcecd589513c057c6ecfe4997af36e8d25ef9ed58660d23"
+    },
+    {
+      "id": "country-lso",
+      "naturalEarthAdmin": "Lesotho",
+      "naturalEarthISO_A2": "LS",
+      "code": "ls",
+      "packageCountryName": "Lesotho",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "83d2e4152ef06ed39f5792dd2d5b9aa9953e3cbfe645f0384449e87b73dc96fb"
+    },
+    {
+      "id": "country-ltu",
+      "naturalEarthAdmin": "Lithuania",
+      "naturalEarthISO_A2": "LT",
+      "code": "lt",
+      "packageCountryName": "Lithuania",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "dc0401993f6e14b3a58fa496d874b95dfcb58614052a868b14492166782c1006"
+    },
+    {
+      "id": "country-lux",
+      "naturalEarthAdmin": "Luxembourg",
+      "naturalEarthISO_A2": "LU",
+      "code": "lu",
+      "packageCountryName": "Luxembourg",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "a0a530e396ac2e2490d32d432a89c08a3d35081816ba089241b9b2b2a76a049e"
+    },
+    {
+      "id": "country-lva",
+      "naturalEarthAdmin": "Latvia",
+      "naturalEarthISO_A2": "LV",
+      "code": "lv",
+      "packageCountryName": "Latvia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "15d4e812a30208a1caaba6922a3f585db17827d67afae81626ffe4e1e9344ea7"
+    },
+    {
+      "id": "country-mac",
+      "naturalEarthAdmin": "Macao S.A.R",
+      "naturalEarthISO_A2": "MO",
+      "code": "mo",
+      "packageCountryName": "Macau",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "e1f783f6a43285a4338ee45cfe6f76db67801174968935b9f985d44d17914c83"
+    },
+    {
+      "id": "country-maf",
+      "naturalEarthAdmin": "Saint Martin",
+      "naturalEarthISO_A2": "MF",
+      "code": "mf",
+      "packageCountryName": "Saint Martin",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "137b371d2ccb0e2901e0eec84e9273cfc8b0b941fcb0e3239ab62a8af0eda649"
+    },
+    {
+      "id": "country-mar",
+      "naturalEarthAdmin": "Morocco",
+      "naturalEarthISO_A2": "MA",
+      "code": "ma",
+      "packageCountryName": "Morocco",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "28cfcdecf9675b0a14fbfae176324aea03711edab1a13592cfb7d58e6772b25c"
+    },
+    {
+      "id": "country-mco",
+      "naturalEarthAdmin": "Monaco",
+      "naturalEarthISO_A2": "MC",
+      "code": "mc",
+      "packageCountryName": "Monaco",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "690c23fe64b6ac71770657fd87f744b88196a7853abb28017b5bff54473ae0da"
+    },
+    {
+      "id": "country-mda",
+      "naturalEarthAdmin": "Moldova",
+      "naturalEarthISO_A2": "MD",
+      "code": "md",
+      "packageCountryName": "Moldova",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "987ca12a752ec2b3594c115923d50160343a7d30af8ea5e316ae04fb12b8e9dd"
+    },
+    {
+      "id": "country-mdg",
+      "naturalEarthAdmin": "Madagascar",
+      "naturalEarthISO_A2": "MG",
+      "code": "mg",
+      "packageCountryName": "Madagascar",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "59246c21300e2456c0c5170791698e43399b089de80a69474deeac00697d2b7b"
+    },
+    {
+      "id": "country-mdv",
+      "naturalEarthAdmin": "Maldives",
+      "naturalEarthISO_A2": "MV",
+      "code": "mv",
+      "packageCountryName": "Maldives",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "5546d527d669b3935bbff11e0344fb8522200cf5ea84eba730d8a7a0b1e86f15"
+    },
+    {
+      "id": "country-mex",
+      "naturalEarthAdmin": "Mexico",
+      "naturalEarthISO_A2": "MX",
+      "code": "mx",
+      "packageCountryName": "Mexico",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "bf69fcf0118ebf04d391c522883b36da521d44169163c290435192930d28a109"
+    },
+    {
+      "id": "country-mhl",
+      "naturalEarthAdmin": "Marshall Islands",
+      "naturalEarthISO_A2": "MH",
+      "code": "mh",
+      "packageCountryName": "Marshall Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "96d7c0b917a5c064636d11239b2a3031e574bc782e2445ec917208eeb051ccaa"
+    },
+    {
+      "id": "country-mkd",
+      "naturalEarthAdmin": "North Macedonia",
+      "naturalEarthISO_A2": "MK",
+      "code": "mk",
+      "packageCountryName": "North Macedonia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "22488dc890fe1e5f7a8bea423dfe2e74f8ccf04402e75090cdeca030b12ca010"
+    },
+    {
+      "id": "country-mli",
+      "naturalEarthAdmin": "Mali",
+      "naturalEarthISO_A2": "ML",
+      "code": "ml",
+      "packageCountryName": "Mali",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "49e84081981f2b8ec245dcc66ebf44521fc91b3eae6e9f10c925616f78951f14"
+    },
+    {
+      "id": "country-mlt",
+      "naturalEarthAdmin": "Malta",
+      "naturalEarthISO_A2": "MT",
+      "code": "mt",
+      "packageCountryName": "Malta",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "510cefcd264f28084f3fa7ad4bdc40d2c4e8329a3fb986a70f8c630d07145305"
+    },
+    {
+      "id": "country-mmr",
+      "naturalEarthAdmin": "Myanmar",
+      "naturalEarthISO_A2": "MM",
+      "code": "mm",
+      "packageCountryName": "Myanmar",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c0b2e23a7e202ff2ad69421ea1b528e58af4e541fc2f4b986479a9cdef7f18e0"
+    },
+    {
+      "id": "country-mne",
+      "naturalEarthAdmin": "Montenegro",
+      "naturalEarthISO_A2": "ME",
+      "code": "me",
+      "packageCountryName": "Montenegro",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "89fd2e5d72689b43968852e6a01155fce3015ad4e2250beb65960c7079ce463a"
+    },
+    {
+      "id": "country-mng",
+      "naturalEarthAdmin": "Mongolia",
+      "naturalEarthISO_A2": "MN",
+      "code": "mn",
+      "packageCountryName": "Mongolia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "92d5422514f63fc10800714e71e14b576437e69a22645cf74a7ac0f516d67a69"
+    },
+    {
+      "id": "country-mnp",
+      "naturalEarthAdmin": "Northern Mariana Islands",
+      "naturalEarthISO_A2": "MP",
+      "code": "mp",
+      "packageCountryName": "Northern Mariana Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "fffb725bb0e0cdcdfb548bcd43f3eb9e10201d48a050d1249ebd35419d5cabbe"
+    },
+    {
+      "id": "country-moz",
+      "naturalEarthAdmin": "Mozambique",
+      "naturalEarthISO_A2": "MZ",
+      "code": "mz",
+      "packageCountryName": "Mozambique",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6d34f261fa5621f8c591f2692450bc3a092e8cac1d1954b492e1846275ad22ca"
+    },
+    {
+      "id": "country-mrt",
+      "naturalEarthAdmin": "Mauritania",
+      "naturalEarthISO_A2": "MR",
+      "code": "mr",
+      "packageCountryName": "Mauritania",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ea338a9f7744fb25c3664f3cee5b2355e70bed7b0d79d952d246436cb600edb9"
+    },
+    {
+      "id": "country-msr",
+      "naturalEarthAdmin": "Montserrat",
+      "naturalEarthISO_A2": "MS",
+      "code": "ms",
+      "packageCountryName": "Montserrat",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c5d14004b158c9e4d8693b3cb50f4331b72516877a6af805316c0b54da6ae1fc"
+    },
+    {
+      "id": "country-mus",
+      "naturalEarthAdmin": "Mauritius",
+      "naturalEarthISO_A2": "MU",
+      "code": "mu",
+      "packageCountryName": "Mauritius",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "51f86810118855ca9a0b0501f3d363e0556fe74f429a66d1be9af5c027b3b593"
+    },
+    {
+      "id": "country-mwi",
+      "naturalEarthAdmin": "Malawi",
+      "naturalEarthISO_A2": "MW",
+      "code": "mw",
+      "packageCountryName": "Malawi",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "29a3e7057ec47f18bd8dd54312074335263b607c1543fcd969f89f14e307985f"
+    },
+    {
+      "id": "country-mys",
+      "naturalEarthAdmin": "Malaysia",
+      "naturalEarthISO_A2": "MY",
+      "code": "my",
+      "packageCountryName": "Malaysia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "bb30e84a099d2d9dc286ab091bdd40ae7a8e332eb49827f2df4f11803e613667"
+    },
+    {
+      "id": "country-nam",
+      "naturalEarthAdmin": "Namibia",
+      "naturalEarthISO_A2": "NA",
+      "code": "na",
+      "packageCountryName": "Namibia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "caa43fcdebb595ebf9808be7c5ba326a65bb40f78172182b1470102dd97a0182"
+    },
+    {
+      "id": "country-ncl",
+      "naturalEarthAdmin": "New Caledonia",
+      "naturalEarthISO_A2": "NC",
+      "code": "nc",
+      "packageCountryName": "New Caledonia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "962f9b9111d3efd559752fbf195f651bca7921b4fcd5f31126addd7e7c17652a"
+    },
+    {
+      "id": "country-ner",
+      "naturalEarthAdmin": "Niger",
+      "naturalEarthISO_A2": "NE",
+      "code": "ne",
+      "packageCountryName": "Niger",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "4b91653d53f76ddaf492a61adad3c1be86528ee9f23d7a18a6044c4eed165cad"
+    },
+    {
+      "id": "country-nfk",
+      "naturalEarthAdmin": "Norfolk Island",
+      "naturalEarthISO_A2": "NF",
+      "code": "nf",
+      "packageCountryName": "Norfolk Island",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c42c0423a879ba6131dc1342d42139a2fa5a714fa3c7c2cbb265ae1d85bb281c"
+    },
+    {
+      "id": "country-nga",
+      "naturalEarthAdmin": "Nigeria",
+      "naturalEarthISO_A2": "NG",
+      "code": "ng",
+      "packageCountryName": "Nigeria",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b7a2a45a6499095efce41592428ff558ec5bd83d2751858dfe5fa4589334b66f"
+    },
+    {
+      "id": "country-nic",
+      "naturalEarthAdmin": "Nicaragua",
+      "naturalEarthISO_A2": "NI",
+      "code": "ni",
+      "packageCountryName": "Nicaragua",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "7074c4767de56c1be61e2f6cb218bf06b724743a6b0360598e60b90480494eae"
+    },
+    {
+      "id": "country-niu",
+      "naturalEarthAdmin": "Niue",
+      "naturalEarthISO_A2": "NU",
+      "code": "nu",
+      "packageCountryName": "Niue",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "835c94f3f7aa08d717e2f4254234947bfab26eaa925cbd50871b1de3d31676c5"
+    },
+    {
+      "id": "country-nld",
+      "naturalEarthAdmin": "Netherlands",
+      "naturalEarthISO_A2": "NL",
+      "code": "nl",
+      "packageCountryName": "Netherlands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "8f691f17fe70894537af8e92f2ca47761d353639b0defc15cbe561eb503ab010"
+    },
+    {
+      "id": "country-nor",
+      "naturalEarthAdmin": "Norway",
+      "naturalEarthISO_A2": "-99",
+      "code": "no",
+      "packageCountryName": "Norway",
+      "basis": "Natural Earth ISO_A2_EH=NO; ISO_A2 is absent.",
+      "sha256": "ceea17af051dceefd5759a824213eb40ac8a8095aa88a6874a7bbc8de637357a"
+    },
+    {
+      "id": "country-npl",
+      "naturalEarthAdmin": "Nepal",
+      "naturalEarthISO_A2": "NP",
+      "code": "np",
+      "packageCountryName": "Nepal",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b84c02e2fa659d0be6fc6b5963d5e9fbd25c3a6ab4d469aa61f1e3cdbd3f4637"
+    },
+    {
+      "id": "country-nru",
+      "naturalEarthAdmin": "Nauru",
+      "naturalEarthISO_A2": "NR",
+      "code": "nr",
+      "packageCountryName": "Nauru",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f1de4b06479d454bb0a23a1bfee221e97d68e0a128002bfef1a1b3ea4c88ad46"
+    },
+    {
+      "id": "country-nzl",
+      "naturalEarthAdmin": "New Zealand",
+      "naturalEarthISO_A2": "NZ",
+      "code": "nz",
+      "packageCountryName": "New Zealand",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "794a2c8c09796090ab748a74bc35aed825e701eaddc46b138f300401ac9a25cd"
+    },
+    {
+      "id": "country-omn",
+      "naturalEarthAdmin": "Oman",
+      "naturalEarthISO_A2": "OM",
+      "code": "om",
+      "packageCountryName": "Oman",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "10bee5c93392a8f215049a83630cee06d6deea9c90da6cf7c954e58a17a8aed0"
+    },
+    {
+      "id": "country-pak",
+      "naturalEarthAdmin": "Pakistan",
+      "naturalEarthISO_A2": "PK",
+      "code": "pk",
+      "packageCountryName": "Pakistan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "89e851c0d541d8166b297e13bed97e0cb500bdb4ae48fd83a86b606a078352a8"
+    },
+    {
+      "id": "country-pan",
+      "naturalEarthAdmin": "Panama",
+      "naturalEarthISO_A2": "PA",
+      "code": "pa",
+      "packageCountryName": "Panama",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6181586e499d3bafb6190e0304904662dc31fc878ec8efcfab879455c15e83c4"
+    },
+    {
+      "id": "country-pcn",
+      "naturalEarthAdmin": "Pitcairn Islands",
+      "naturalEarthISO_A2": "PN",
+      "code": "pn",
+      "packageCountryName": "Pitcairn",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ed92ecdf0f75b10bd6d7435087a06d32b12796591231325e46065fa8220e4dce"
+    },
+    {
+      "id": "country-per",
+      "naturalEarthAdmin": "Peru",
+      "naturalEarthISO_A2": "PE",
+      "code": "pe",
+      "packageCountryName": "Peru",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "e9dd299d453d9c173203e60f69623ef2148dbee24b2a1763328e94d4dfece05f"
+    },
+    {
+      "id": "country-phl",
+      "naturalEarthAdmin": "Philippines",
+      "naturalEarthISO_A2": "PH",
+      "code": "ph",
+      "packageCountryName": "Philippines",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "c3bd5e08ddc5f6dbdfa899af9efb45577e3841402e6a7f5d00fef754816b2884"
+    },
+    {
+      "id": "country-plw",
+      "naturalEarthAdmin": "Palau",
+      "naturalEarthISO_A2": "PW",
+      "code": "pw",
+      "packageCountryName": "Palau",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "a61ab9d94f2968304eaf62d838e0ba1674977da8a5056beae5776fe912a8e233"
+    },
+    {
+      "id": "country-png",
+      "naturalEarthAdmin": "Papua New Guinea",
+      "naturalEarthISO_A2": "PG",
+      "code": "pg",
+      "packageCountryName": "Papua New Guinea",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "43e492331c192a947d9bd72ac6e1f4edcab1d86af097b8840faa9ac24e439d97"
+    },
+    {
+      "id": "country-pol",
+      "naturalEarthAdmin": "Poland",
+      "naturalEarthISO_A2": "PL",
+      "code": "pl",
+      "packageCountryName": "Poland",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "369bb3e14ee718df1ee15fd2fb3ad0dae713f78f622e277710fb2b30a313f2aa"
+    },
+    {
+      "id": "country-pri",
+      "naturalEarthAdmin": "Puerto Rico",
+      "naturalEarthISO_A2": "PR",
+      "code": "pr",
+      "packageCountryName": "Puerto Rico",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "968c343f7074f4312871383337f26454040aaa84f304460d518da549b2549f8d"
+    },
+    {
+      "id": "country-prk",
+      "naturalEarthAdmin": "North Korea",
+      "naturalEarthISO_A2": "KP",
+      "code": "kp",
+      "packageCountryName": "North Korea",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f79bc8b6502445b51fd6db4bb9b6fa9d49f7fbe00da77b6af4d052b6d9fec4d3"
+    },
+    {
+      "id": "country-prt",
+      "naturalEarthAdmin": "Portugal",
+      "naturalEarthISO_A2": "PT",
+      "code": "pt",
+      "packageCountryName": "Portugal",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "79fb7f58a45dcef3f1149742fab8817068d962ebeb3179308b72c3ed1f73d4e4"
+    },
+    {
+      "id": "country-pry",
+      "naturalEarthAdmin": "Paraguay",
+      "naturalEarthISO_A2": "PY",
+      "code": "py",
+      "packageCountryName": "Paraguay",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "94d13e3c892d50d79fba60cd425381bd553db6f2c3c12ea9d3b8927a92511947"
+    },
+    {
+      "id": "country-psx",
+      "naturalEarthAdmin": "Palestine",
+      "naturalEarthISO_A2": "PS",
+      "code": "ps",
+      "packageCountryName": "State of Palestine",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "3045c52bc43a85c05306d2fd0393aec7f54de8e59ae9642ea0abec53952dcab4"
+    },
+    {
+      "id": "country-pyf",
+      "naturalEarthAdmin": "French Polynesia",
+      "naturalEarthISO_A2": "PF",
+      "code": "pf",
+      "packageCountryName": "French Polynesia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "67391766bf25f74433f1de41d7c2370215b23a375064b1345b12f9d0e0b6d35c"
+    },
+    {
+      "id": "country-qat",
+      "naturalEarthAdmin": "Qatar",
+      "naturalEarthISO_A2": "QA",
+      "code": "qa",
+      "packageCountryName": "Qatar",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "fb955ef352ff3ba1ea980090c31d5cf15257729d32949d04b18402651e93b986"
+    },
+    {
+      "id": "country-rou",
+      "naturalEarthAdmin": "Romania",
+      "naturalEarthISO_A2": "RO",
+      "code": "ro",
+      "packageCountryName": "Romania",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "17a3a747fc5e63302aaa670a667e5812f3676f46768e5a3e87b254bd41762840"
+    },
+    {
+      "id": "country-rus",
+      "naturalEarthAdmin": "Russia",
+      "naturalEarthISO_A2": "RU",
+      "code": "ru",
+      "packageCountryName": "Russia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "7100aaae51ff3b6a2bf0ca932b3bc518bdc760814725e7cca31d821a26c3dd7c"
+    },
+    {
+      "id": "country-rwa",
+      "naturalEarthAdmin": "Rwanda",
+      "naturalEarthISO_A2": "RW",
+      "code": "rw",
+      "packageCountryName": "Rwanda",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "9512100aa3e8079ed3780e8b3d6cd6a49639d0986ad78a709f81e9d0827b65b2"
+    },
+    {
+      "id": "country-sah",
+      "naturalEarthAdmin": "Western Sahara",
+      "naturalEarthISO_A2": "EH",
+      "code": "eh",
+      "packageCountryName": "Western Sahara",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "a957f2aedbb4178a79710d178de3fdb77ebdd3b441ef8fb59e51d9b11966b06b"
+    },
+    {
+      "id": "country-sau",
+      "naturalEarthAdmin": "Saudi Arabia",
+      "naturalEarthISO_A2": "SA",
+      "code": "sa",
+      "packageCountryName": "Saudi Arabia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "a199a6b3737f1de2dfc91edf67c168202b7962a648624c0e56715e6c29cbfcde"
+    },
+    {
+      "id": "country-sdn",
+      "naturalEarthAdmin": "Sudan",
+      "naturalEarthISO_A2": "SD",
+      "code": "sd",
+      "packageCountryName": "Sudan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "25b3fa24693ccbb80991235e235e9370895f182c509c687e96824faf6b65809a"
+    },
+    {
+      "id": "country-sds",
+      "naturalEarthAdmin": "South Sudan",
+      "naturalEarthISO_A2": "SS",
+      "code": "ss",
+      "packageCountryName": "South Sudan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f7ac7017201841eee0b261f66be6787200a80fbeadbb869dc6e8823e3b2ec220"
+    },
+    {
+      "id": "country-sen",
+      "naturalEarthAdmin": "Senegal",
+      "naturalEarthISO_A2": "SN",
+      "code": "sn",
+      "packageCountryName": "Senegal",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6437db13c13fa5cc1b121e6b59739902c6583be6db361260873ce2664f666478"
+    },
+    {
+      "id": "country-sgp",
+      "naturalEarthAdmin": "Singapore",
+      "naturalEarthISO_A2": "SG",
+      "code": "sg",
+      "packageCountryName": "Singapore",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "25de9044c2e2775f7ccf9c1df02dd02342f915715b22c43248452b7ae24079a5"
+    },
+    {
+      "id": "country-sgs",
+      "naturalEarthAdmin": "South Georgia and the Islands",
+      "naturalEarthISO_A2": "GS",
+      "code": "gs",
+      "packageCountryName": "South Georgia and the South Sandwich Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "e9075c837d538eb089589f7f01eb4f4b97ffa7335a5677ba0fc31723d1af7483"
+    },
+    {
+      "id": "country-shn",
+      "naturalEarthAdmin": "Saint Helena",
+      "naturalEarthISO_A2": "SH",
+      "code": "sh",
+      "packageCountryName": "Saint Helena, Ascension and Tristan da Cunha",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "559acea1c3e57186410e4058e3eca3a51c6b54744342434fdf6a74d71f0c2383"
+    },
+    {
+      "id": "country-slb",
+      "naturalEarthAdmin": "Solomon Islands",
+      "naturalEarthISO_A2": "SB",
+      "code": "sb",
+      "packageCountryName": "Solomon Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b34eabf373af639cec1d7de7c0dff84df6487737f04510efcc356810147c2cfa"
+    },
+    {
+      "id": "country-sle",
+      "naturalEarthAdmin": "Sierra Leone",
+      "naturalEarthISO_A2": "SL",
+      "code": "sl",
+      "packageCountryName": "Sierra Leone",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d0c384b03a037f4eeb6c967346e3faafb4a09a3706667ac762999e54b55bc647"
+    },
+    {
+      "id": "country-slv",
+      "naturalEarthAdmin": "El Salvador",
+      "naturalEarthISO_A2": "SV",
+      "code": "sv",
+      "packageCountryName": "El Salvador",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f8fa62ba7be43dd2fca06ca2799fa0abe77f300db58fe2d95e1112308d169415"
+    },
+    {
+      "id": "country-smr",
+      "naturalEarthAdmin": "San Marino",
+      "naturalEarthISO_A2": "SM",
+      "code": "sm",
+      "packageCountryName": "San Marino",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "fc3388637c187533a086e1a25253cd96ce657bd7d105886624d21addb380af16"
+    },
+    {
+      "id": "country-som",
+      "naturalEarthAdmin": "Somalia",
+      "naturalEarthISO_A2": "SO",
+      "code": "so",
+      "packageCountryName": "Somalia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "249e1acb87efcd0ef0f685285f14f5063f0bf260e0d28ca462e713c3f6178e7d"
+    },
+    {
+      "id": "country-spm",
+      "naturalEarthAdmin": "Saint Pierre and Miquelon",
+      "naturalEarthISO_A2": "PM",
+      "code": "pm",
+      "packageCountryName": "Saint Pierre and Miquelon",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "10cc79ca2b0f93864b6b16599a55f82c6b1c3af3f2b6be81ecde99031fc5f5f2"
+    },
+    {
+      "id": "country-srb",
+      "naturalEarthAdmin": "Republic of Serbia",
+      "naturalEarthISO_A2": "RS",
+      "code": "rs",
+      "packageCountryName": "Serbia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b11ea9d481e9ff9316aabcb9ec99831dff650f2c32199ee2300ff67c7ddd9359"
+    },
+    {
+      "id": "country-stp",
+      "naturalEarthAdmin": "São Tomé and Principe",
+      "naturalEarthISO_A2": "ST",
+      "code": "st",
+      "packageCountryName": "Sao Tome and Principe",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "880c17f94cb564b1818f604b764ac8c3b87e019d97724a7ebb9e69aa96821238"
+    },
+    {
+      "id": "country-sur",
+      "naturalEarthAdmin": "Suriname",
+      "naturalEarthISO_A2": "SR",
+      "code": "sr",
+      "packageCountryName": "Suriname",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "5194a6af4e0d8a350ba7c1f66873725a9e1c91f2054fb9e85fc59cf7f7f2c0f2"
+    },
+    {
+      "id": "country-svk",
+      "naturalEarthAdmin": "Slovakia",
+      "naturalEarthISO_A2": "SK",
+      "code": "sk",
+      "packageCountryName": "Slovakia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "578d0693bc95214334248b47c5719dd01cfc9839bd909a726df045d499fabbb6"
+    },
+    {
+      "id": "country-svn",
+      "naturalEarthAdmin": "Slovenia",
+      "naturalEarthISO_A2": "SI",
+      "code": "si",
+      "packageCountryName": "Slovenia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "3a5e0cac44baaea6b6d8e91054844b6ea72764f6dbe363c11ea11fd81203733a"
+    },
+    {
+      "id": "country-swe",
+      "naturalEarthAdmin": "Sweden",
+      "naturalEarthISO_A2": "SE",
+      "code": "se",
+      "packageCountryName": "Sweden",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b3b5071e6c1d4a0e3db828bab5c7dfd68d0e90fcf3b25b15e9a2c4f96c1f79c9"
+    },
+    {
+      "id": "country-swz",
+      "naturalEarthAdmin": "eSwatini",
+      "naturalEarthISO_A2": "SZ",
+      "code": "sz",
+      "packageCountryName": "Eswatini",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "5d6399c149d143306981f386048047b984586b2f85b0cf11fd7aeaa5757a81e9"
+    },
+    {
+      "id": "country-sxm",
+      "naturalEarthAdmin": "Sint Maarten",
+      "naturalEarthISO_A2": "SX",
+      "code": "sx",
+      "packageCountryName": "Sint Maarten",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6fab58b976fa11fe5e5529a89f7b593ef2c90b44f2936cea0aaed108d56344de"
+    },
+    {
+      "id": "country-syc",
+      "naturalEarthAdmin": "Seychelles",
+      "naturalEarthISO_A2": "SC",
+      "code": "sc",
+      "packageCountryName": "Seychelles",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "30cdbe42a1aed2dab0b26cb7b510901813cad3289835ef58e07d5ff1b554ec61"
+    },
+    {
+      "id": "country-syr",
+      "naturalEarthAdmin": "Syria",
+      "naturalEarthISO_A2": "SY",
+      "code": "sy",
+      "packageCountryName": "Syria",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "04c5e853ade8f2e5585a3c42e9c1a1a80248125acf6a44afa85e9bbf36cd96c5"
+    },
+    {
+      "id": "country-tca",
+      "naturalEarthAdmin": "Turks and Caicos Islands",
+      "naturalEarthISO_A2": "TC",
+      "code": "tc",
+      "packageCountryName": "Turks and Caicos Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b8d8c6898f888af85d64bb33aeaf1c507f28489215fae298d8a152f1d0156961"
+    },
+    {
+      "id": "country-tcd",
+      "naturalEarthAdmin": "Chad",
+      "naturalEarthISO_A2": "TD",
+      "code": "td",
+      "packageCountryName": "Chad",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "19a278fbd88e7fa245b44b40a829bd2bc83f4a2b5521feb665cee8d629e2f026"
+    },
+    {
+      "id": "country-tgo",
+      "naturalEarthAdmin": "Togo",
+      "naturalEarthISO_A2": "TG",
+      "code": "tg",
+      "packageCountryName": "Togo",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "f52b955fb48669d149991f511db818761589e8d45ce4dcc84478737cc0156d75"
+    },
+    {
+      "id": "country-tha",
+      "naturalEarthAdmin": "Thailand",
+      "naturalEarthISO_A2": "TH",
+      "code": "th",
+      "packageCountryName": "Thailand",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "329cc0d520536d6eb4b9304105f23650c2d02bbdba8f8696e996dbf166de6f2e"
+    },
+    {
+      "id": "country-tjk",
+      "naturalEarthAdmin": "Tajikistan",
+      "naturalEarthISO_A2": "TJ",
+      "code": "tj",
+      "packageCountryName": "Tajikistan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "cd1afa9808833e4983986fa8818b73a9e1640f42c827692123a9639220c4a720"
+    },
+    {
+      "id": "country-tkm",
+      "naturalEarthAdmin": "Turkmenistan",
+      "naturalEarthISO_A2": "TM",
+      "code": "tm",
+      "packageCountryName": "Turkmenistan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "378178e3d5c91c62dafd0416b3f2b789f9505d26db0aef93dab8f5979ad60841"
+    },
+    {
+      "id": "country-tls",
+      "naturalEarthAdmin": "East Timor",
+      "naturalEarthISO_A2": "TL",
+      "code": "tl",
+      "packageCountryName": "Timor-Leste",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "09c763aa3e5a48e2092348367b0bc93b1bc0536f5b527b31175e493132c55e19"
+    },
+    {
+      "id": "country-ton",
+      "naturalEarthAdmin": "Tonga",
+      "naturalEarthISO_A2": "TO",
+      "code": "to",
+      "packageCountryName": "Tonga",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "b351703fccc1e08a13d2d57260dd71bee8280e393030b879b9df1c7ccd3a9538"
+    },
+    {
+      "id": "country-tto",
+      "naturalEarthAdmin": "Trinidad and Tobago",
+      "naturalEarthISO_A2": "TT",
+      "code": "tt",
+      "packageCountryName": "Trinidad and Tobago",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "04c13dcd0b3690f91e752680653def1c2bbe5b4553b9e5dc75748b9339636749"
+    },
+    {
+      "id": "country-tun",
+      "naturalEarthAdmin": "Tunisia",
+      "naturalEarthISO_A2": "TN",
+      "code": "tn",
+      "packageCountryName": "Tunisia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "8e0274e5762a4d5f783e64f1206dd69008454f750de21d3ba61439d0af3c577c"
+    },
+    {
+      "id": "country-tur",
+      "naturalEarthAdmin": "Turkey",
+      "naturalEarthISO_A2": "TR",
+      "code": "tr",
+      "packageCountryName": "Türkiye",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "256a1d6afbedb9f731566982331a1cd1ad14aba211b8a61d338855879505e74f"
+    },
+    {
+      "id": "country-tuv",
+      "naturalEarthAdmin": "Tuvalu",
+      "naturalEarthISO_A2": "TV",
+      "code": "tv",
+      "packageCountryName": "Tuvalu",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "d94fa5f107cbacdba29731226bc5ad06edc95784e3d29c20e1ea41fe384530b7"
+    },
+    {
+      "id": "country-twn",
+      "naturalEarthAdmin": "Taiwan",
+      "naturalEarthISO_A2": "CN-TW",
+      "code": "tw",
+      "packageCountryName": "Taiwan",
+      "basis": "Natural Earth ISO_A2_EH=TW; raw ISO_A2=CN-TW is not an ISO 3166-1 alpha-2 code.",
+      "sha256": "931757f06b9ee751fd1a0cc8dd7cf862e21fdcaf894d10ed7bcc68dabcca59ad"
+    },
+    {
+      "id": "country-tza",
+      "naturalEarthAdmin": "United Republic of Tanzania",
+      "naturalEarthISO_A2": "TZ",
+      "code": "tz",
+      "packageCountryName": "Tanzania",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "fd317abae009fa3629c51b82a6b9f1c529a7254406478047734bb52de83611cd"
+    },
+    {
+      "id": "country-uga",
+      "naturalEarthAdmin": "Uganda",
+      "naturalEarthISO_A2": "UG",
+      "code": "ug",
+      "packageCountryName": "Uganda",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ab6aa03e1324d54ffbed5ea4560f757797f4729da58fc977527cedd586e928a5"
+    },
+    {
+      "id": "country-ukr",
+      "naturalEarthAdmin": "Ukraine",
+      "naturalEarthISO_A2": "UA",
+      "code": "ua",
+      "packageCountryName": "Ukraine",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "2d869c23ebfefb2ae0a633297c11dee06fcb666ce7b3ca75eba09b7a1a3a03ac"
+    },
+    {
+      "id": "country-umi",
+      "naturalEarthAdmin": "United States Minor Outlying Islands",
+      "naturalEarthISO_A2": "UM",
+      "code": "um",
+      "packageCountryName": "United States Minor Outlying Islands",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "60a633301685f6e5218db358980dadd36a6994034ab5edfbebf24422ee7ce27b"
+    },
+    {
+      "id": "country-ury",
+      "naturalEarthAdmin": "Uruguay",
+      "naturalEarthISO_A2": "UY",
+      "code": "uy",
+      "packageCountryName": "Uruguay",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "47656c0bf4961a1f7233841eb78756cd45d074e7d4061b8a1217bba7754a30fe"
+    },
+    {
+      "id": "country-usa",
+      "naturalEarthAdmin": "United States of America",
+      "naturalEarthISO_A2": "US",
+      "code": "us",
+      "packageCountryName": "United States of America",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "e7be4240cf57987926673708f09233be1ab6bdf35acc7b86bd32a263f197a2a7"
+    },
+    {
+      "id": "country-uzb",
+      "naturalEarthAdmin": "Uzbekistan",
+      "naturalEarthISO_A2": "UZ",
+      "code": "uz",
+      "packageCountryName": "Uzbekistan",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "62ce6f1073416e8d3d599639ec8b105f4de167c0730f036e47c650e686c4ff5d"
+    },
+    {
+      "id": "country-vat",
+      "naturalEarthAdmin": "Vatican",
+      "naturalEarthISO_A2": "VA",
+      "code": "va",
+      "packageCountryName": "Holy See",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "307697cb13ff83dc1932623816ac58d3ae1d69e8255e64dcd8a76614857cdef0"
+    },
+    {
+      "id": "country-vct",
+      "naturalEarthAdmin": "Saint Vincent and the Grenadines",
+      "naturalEarthISO_A2": "VC",
+      "code": "vc",
+      "packageCountryName": "Saint Vincent and the Grenadines",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "4e0a86447af4924dc11f26179f5cbb91195451ae766b2f777effe9c5f7cbc8f6"
+    },
+    {
+      "id": "country-ven",
+      "naturalEarthAdmin": "Venezuela",
+      "naturalEarthISO_A2": "VE",
+      "code": "ve",
+      "packageCountryName": "Venezuela",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "5712f1c63ba0bfa25a853c100cdebfd6698cce98fc2e0ba8d3fab35df541efa1"
+    },
+    {
+      "id": "country-vgb",
+      "naturalEarthAdmin": "British Virgin Islands",
+      "naturalEarthISO_A2": "VG",
+      "code": "vg",
+      "packageCountryName": "Virgin Islands (British)",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "512cdd9599f67ebd9ae5fcd34c1309c1022738d46c309c113bd6d81da4c5229b"
+    },
+    {
+      "id": "country-vir",
+      "naturalEarthAdmin": "United States Virgin Islands",
+      "naturalEarthISO_A2": "VI",
+      "code": "vi",
+      "packageCountryName": "Virgin Islands (U.S.)",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "69e264ecc5c61b1750863f7863d74860a8f3ef152167c0537deb633eadced21f"
+    },
+    {
+      "id": "country-vnm",
+      "naturalEarthAdmin": "Vietnam",
+      "naturalEarthISO_A2": "VN",
+      "code": "vn",
+      "packageCountryName": "Vietnam",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "2355037201315d74581ab0ad60b5587a29a087d26b0525bdeb8676e64fae5b86"
+    },
+    {
+      "id": "country-vut",
+      "naturalEarthAdmin": "Vanuatu",
+      "naturalEarthISO_A2": "VU",
+      "code": "vu",
+      "packageCountryName": "Vanuatu",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "57d3b67abf0e57ef73b71822b7982abc49a9461883e8b60cbc85cf86dab28959"
+    },
+    {
+      "id": "country-wlf",
+      "naturalEarthAdmin": "Wallis and Futuna",
+      "naturalEarthISO_A2": "WF",
+      "code": "wf",
+      "packageCountryName": "Wallis and Futuna",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "ad34db05b0badcbab865a0cbcd45cd0251479a20aa505173f276ca4a45b4fc6e"
+    },
+    {
+      "id": "country-wsm",
+      "naturalEarthAdmin": "Samoa",
+      "naturalEarthISO_A2": "WS",
+      "code": "ws",
+      "packageCountryName": "Samoa",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "6b1a7ebcce97d75020af84da13b918875ba38ba4535b4d990b2be8985a67b8ad"
+    },
+    {
+      "id": "country-yem",
+      "naturalEarthAdmin": "Yemen",
+      "naturalEarthISO_A2": "YE",
+      "code": "ye",
+      "packageCountryName": "Yemen",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "4ad43705cb40095dc7dd16d6981eb2a3f46dcebe879eed54b188c62cf48e9c65"
+    },
+    {
+      "id": "country-zaf",
+      "naturalEarthAdmin": "South Africa",
+      "naturalEarthISO_A2": "ZA",
+      "code": "za",
+      "packageCountryName": "South Africa",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "1755a5e16f1c9f5120e4871e8454bdee663beb4fb4827012bcd02cb9044249c2"
+    },
+    {
+      "id": "country-zmb",
+      "naturalEarthAdmin": "Zambia",
+      "naturalEarthISO_A2": "ZM",
+      "code": "zm",
+      "packageCountryName": "Zambia",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "2753554062cd3761e53a180c3c8f8e245af622fb6ecf1c02020c79db0ff2d644"
+    },
+    {
+      "id": "country-zwe",
+      "naturalEarthAdmin": "Zimbabwe",
+      "naturalEarthISO_A2": "ZW",
+      "code": "zw",
+      "packageCountryName": "Zimbabwe",
+      "basis": "Exact Natural Earth ISO_A2 to flag-icons country code.",
+      "sha256": "eb9effc6218a3086517cadca940382f9e0619183e7b71db568bd96502dcc1557"
+    }
+  ],
+  "gaps": [
+    {
+      "id": "country-afg",
+      "name": "Afghanistan",
+      "reason": "Pinned package af.svg depicts the Afghan republic tricolour; it must not be presented as the flag of the present de facto authority."
+    },
+    {
+      "id": "country-ata",
+      "name": "Antarctica",
+      "reason": "Antarctica has no single official national flag; the package illustration is an unofficial design."
+    },
+    {
+      "id": "country-atc",
+      "name": "Ashmore and Cartier Islands",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-bjn",
+      "name": "Bajo Nuevo Bank (Petrel Is.)",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-bri",
+      "name": "Brazilian Island",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-brt",
+      "name": "Bir Tawil",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-clp",
+      "name": "Clipperton Island",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-cnm",
+      "name": "Cyprus No Mans Area",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-csi",
+      "name": "Coral Sea Islands",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-cyn",
+      "name": "Northern Cyprus",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-esb",
+      "name": "Dhekelia Sovereign Base Area",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-ioa",
+      "name": "Indian Ocean Territories",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-kab",
+      "name": "Baykonur Cosmodrome",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-kas",
+      "name": "Siachen Glacier",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-pga",
+      "name": "Spratly Islands",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-scr",
+      "name": "Scarborough Reef",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-ser",
+      "name": "Serranilla Bank",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-sol",
+      "name": "Somaliland",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-spi",
+      "name": "Southern Patagonian Ice Field",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-usg",
+      "name": "US Naval Base Guantanamo Bay",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    },
+    {
+      "id": "country-wsb",
+      "name": "Akrotiri Sovereign Base Area",
+      "reason": "No direct supported country/territory alpha-2 identity; no sovereign-flag substitution."
+    }
+  ]
+}

@@ -1,0 +1,1311 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "redirects": [
+      {
+        "from": "File:Flag of the Soviet Union (1955-1980).svg",
+        "to": "File:Flag of the Soviet Union (dark version).svg"
+      },
+      {
+        "from": "File:Flag of Russia (1896–1917).svg",
+        "to": "File:Flag of Russia (1896–1918).svg"
+      }
+    ],
+    "pages": {
+      "164318165": {
+        "pageid": 164318165,
+        "ns": 6,
+        "title": "File:Byzantine imperial flag, 14th century.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14668,
+            "width": 900,
+            "height": 648,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Byzantine_imperial_flag%2C_14th_century.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Byzantine_imperial_flag,_14th_century.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=164318165",
+            "sha1": "94bfd57e5d61113d6a9b5bc80786e639869dde09",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-01 19:28:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Byzantine imperial flag, 14th century",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Navy of the Byzantine Empire|License migration redundant|Self-published work|Path text SVG|Derivative versions|Invalid SVG created with Inkscape:Flags|Flags with 1 yellow cross|Flag of Constantinople from the Book of All Kingdoms|Flags of the Palaiologos dynasty|SVG historical flags|Yellow on flags with red fields",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The <a href=\"https://en.wikipedia.org/wiki/Byzantine_Empire\" class=\"extiw\" title=\"w:Byzantine Empire\">Byzantine</a> imperial ensign (βασιλικόν φλάμουλον), <a rel=\"nofollow\" class=\"external text\" href=\"http://flagspot.net/flags/gr_byz.html\">as depicted</a> in the 14th-century <a href=\"https://en.wikipedia.org/wiki/Crown_of_Castile\" class=\"extiw\" title=\"w:Crown of Castile\">Castilian</a> <i>Book of All Kingdoms</i>, and described in the <i>Treatise on Offices</i> by the mid 14th-century Byzantine writer <a href=\"https://en.wikipedia.org/wiki/Pseudo-Kodinos\" class=\"extiw\" title=\"w:Pseudo-Kodinos\">Pseudo-Kodinos</a> as being hoisted on imperial naval vessels. It features the tetragrammic cross with the four \"B\"s that is attested in contemporary portolans, on coins and reliefs.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-08-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<p><a href=\"//commons.wikimedia.org/wiki/User:Cplakidas\" title=\"User:Cplakidas\">Cplakidas</a>\n</p>\nThis file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Byzantine_imperial_flag,_14th_century_(firesteels_vesion).svg\" title=\"File:Byzantine imperial flag, 14th century (firesteels vesion).svg\">Byzantine imperial flag, 14th century (firesteels vesion).svg</a><br>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "39922650": {
+        "pageid": 39922650,
+        "ns": 6,
+        "title": "File:Flag of China (1889–1912).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 181984,
+            "width": 512,
+            "height": 341,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_China_%281889%E2%80%931912%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_China_(1889%E2%80%931912).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39922650",
+            "sha1": "1fa7ab71045f183034233831f5c3bab78dd69694",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-18 20:20:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of China (1889–1912)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-PRC-exempt|Official text of the Republic of China|PD-ROC-official|CC-PD-Mark|Valid SVG created with Inkscape:Flags|Flags with Chinese dragons|PD Old (assumed) expired|Vectorizations|Blue, red, white, yellow flags of China|PD-old missing SDC copyright status|Flags with centered animals|National flag of the Qing Dynasty|SVG flags of the Qing Dynasty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flag of the Chinese Empire under the Qing dynasty (1889-1912), details per the restoration of Beiyang fleet researcher <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://web.archive.org/web/20170407183830/http://img.univs.cn/20140430/1/201404300753451203180850.jpg\">[1]</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-05-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Original:</div> <div style=\"display:inline-block;padding:3px 0;\"><a href=\"https://pl.wikipedia.org/wiki/zh:%E6%B8%85%E6%9C%9D%E6%94%BF%E5%BA%9C\" class=\"extiw\" title=\"pl:zh:清朝政府\">zh:清朝政府</a></div> <div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Vector: </div> <div style=\"display:inline-block;\"><a href=\"//commons.wikimedia.org/wiki/User:Sodacan\" title=\"User:Sodacan\">Sodacan</a></div>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "3670631": {
+        "pageid": 3670631,
+        "ns": 6,
+        "title": "File:Flag of Ethiopia (1897–1974).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 58797,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Ethiopia_%281897%E2%80%931974%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia_(1897%E2%80%931974).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3670631",
+            "sha1": "ee414b9e8090013c8fb790db90f2a790809ea37a",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-09-08 22:42:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of Ethiopia (1897–1974)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With insignia|Valid SVG created with Inkscape|Files with derivative versions|Rastafari flags|Flags with lions facing forward|PD-Ethiopia|SVG historical national flags of Ethiopia|Files not protected by international copyright agreements|Flags with 1 yellow cross|Flags with three horizontal stripes of green, yellow and red color combination|SVG flags of Ethiopia - aspect ratio of 3:2|SVG Christian flags|Flags with red banners|Flags of Ethiopian Empire|Flags with the Lion of Judah|Flags with yellow banners|Flags with green banners|Black, brown, green, red, yellow flags|Flags with figures holding flags|Flags with lions holding objects|Flags with 1 crowned lion (centered)|Flags with brown lions",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The flag of the <a href=\"https://en.wikipedia.org/wiki/Ethiopian_Royal_Standard\" class=\"extiw\" title=\"en:Ethiopian Royal Standard\">Ethiopian Empire</a> with the <a href=\"https://en.wikipedia.org/wiki/Lion_of_Judah\" class=\"extiw\" title=\"en:Lion of Judah\">Lion of Judah</a> in the center",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "7 March 2007 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>SVG version of <a href=\"//commons.wikimedia.org/w/index.php?title=File:Flag_of_Ethiopia_(1897).png&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"File:Flag of Ethiopia (1897).png (page does not exist)\">Image:Flag of Ethiopia (1897).png</a>\n</p>\n<b>Based on these images: <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?partid=1&amp;assetid=599129001&amp;objectid=579590\">[1]</a><a rel=\"nofollow\" class=\"external autonumber\" href=\"https://c8.alamy.com/comp/PNG9WE/flags-interior-holy-trinity-cathedral-aka-in-amharic-as-kidist-selassie-ethiopian-orthodox-tewahedo-church-resting-place-of-emperor-haile-selassi-PNG9WE.jpg\">[2]</a><a rel=\"nofollow\" class=\"external autonumber\" href=\"https://st2.depositphotos.com/6068930/10151/i/950/depositphotos_101516232-stock-photo-flag-of-the-lion-of.jpg\">[3]</a><a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.ethiopiancrown.org/pics/Students99.JPG\">[4]</a></b>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Oren_neu_dag\" title=\"User:Oren neu dag\">Oren neu dag</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in <a href=\"https://en.wikipedia.org/wiki/Ethiopia\" class=\"extiw\" title=\"en:Ethiopia\">Ethiopia</a> because its copyright protection has expired or it is exempted from copyright by virtue of the <i><a rel=\"nofollow\" class=\"external text\" href=\"http://www.wipo.int/wipolex/en/details.jsp?id=5306\">Proclamation No. 410/2004 on Copyright and Neighboring Rights Protection</a></i>, enacted 2004 (<a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Ethiopia\" title=\"Commons:Copyright rules by territory/Ethiopia\">details</a>). The work meets one of the following criteria:<br>\n<div style=\"font-size:85%;\">\n<ul><li>It is an anonymous, pseudonymous or posthumous work and 50 years have passed since the date of its publication</li>\n<li>It is a collective or audiovisual work and 50 years have passed since the date of its publication</li>\n<li>It is a photographic work, and 25 years have passed since the date of its creation (or publication, whatever date is the latest)</li>\n<li>It is another kind of work, and 50 years have passed since the year of death of the author (or last-surviving author)</li>\n<li>It is \"any official text of a legislative, administrative or of legal nature, as well as official translations thereof\"</li>\n<li>It is \"Any idea, procedures, system, method of operation, concept, formula, numerical tables and forms of general use, principle, discovery or mere date, even if expressed, described, explained, illustrated or embodied in a work\"</li></ul>\n<small><i><b>Important note:</b> Works prepared by the Government of Ethiopia and its employees are prepared in a fashion for general news format and noncommercial publication and for public dissemination freely an equivalent to how laws and non-laws at the legislative and administrative ministerial positions are free and public in a general distributable format: and as such copyright laws usually do not legally apply for such a basis</i></small></div>\n</td>\n<td><figure class=\"mw-halign-right mw-image-border\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Flag_of_Ethiopia.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/120px-Flag_of_Ethiopia.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"40\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/250px-Flag_of_Ethiopia.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1200\" data-file-height=\"600\"></a><figcaption></figcaption></figure>\n</td></tr></tbody></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate\">\n<tbody><tr>\n<td style=\"border:none; width:64px;\"><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Ethiopia\" title=\"Copyright notes\"><img alt=\"Copyright notes\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Unfree_image.svg/120px-Unfree_image.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Unfree_image.svg/250px-Unfree_image.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></a><figcaption>Copyright notes</figcaption></figure><br><br><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Ethiopia\" title=\"Copyright notes\"><img alt=\"Copyright notes\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/120px-Flag_of_Ethiopia.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"32\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/250px-Flag_of_Ethiopia.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1200\" data-file-height=\"600\"></a><figcaption>Copyright notes</figcaption></figure>\n</td>\n<td style=\"border:none;\">Per <a href=\"//commons.wikimedia.org/wiki/File:U.S._Copyright_Office_circular_38a.pdf\" title=\"File:U.S. Copyright Office circular 38a.pdf\">U.S. Circ. 38a</a>, the following countries are not participants in the <a href=\"https://en.wikipedia.org/wiki/en:Berne_Convention\" class=\"extiw\" title=\"w:en:Berne Convention\">Berne Convention</a> or <a href=\"https://en.wikipedia.org/wiki/en:Universal_Copyright_Convention\" class=\"extiw\" title=\"w:en:Universal Copyright Convention\"><span title=\"1952 international copyright treaty that requires copyright notices\">Universal Copyright Convention</span></a> and there is no presidential proclamation restoring U.S. copyright protection to works of these countries on the basis of reciprocal treatment of the works of U.S. nationals or domiciliaries:\n<ul><li><i>Eritrea, Ethiopia, Iran, Iraq, Marshall Islands, Palau, Somalia, Somaliland, and South Sudan</i>.</li></ul>\n<p>As such, works published by citizens of these countries in these countries are usually not subject to copyright protection outside of these countries. Hence, such works may be in the public domain in most other countries worldwide.\n</p><p><b>However:</b>\n</p>\n<ul><li>Works published in these countries by citizens or permanent residents of other countries that are signatories to the Berne Convention or any other treaty on copyright will still be protected in their home country and internationally as well as locally by local copyright law (if it exists).</li>\n<li>Similarly, works published outside of these countries within 30 days of publication within these countries will also usually be subject to protection in the foreign country of publication. When works are subject to copyright outside of these countries, the term of such copyright protection may exceed the term of copyright inside them.</li>\n<li>Unpublished works from these countries may be fully copyrighted.</li>\n<li>A work from one of these countries may become copyrighted in the United States under the <a href=\"https://en.wikipedia.org/wiki/URAA\" class=\"extiw\" title=\"w:URAA\">URAA</a> if the work's home country enters a copyright treaty or agreement with the United States and the work is still under copyright in its home country.</li></ul>\n<hr><b>Ethiopia</b> has enacted a copyright law as published in the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wipo.int/edocs/lexdocs/laws/am/et/et001am.pdf\">Official Gazette</a> (<a rel=\"nofollow\" class=\"external text\" href=\"http://www.wipo.int/edocs/lexdocs/laws/en/et/et001en.pdf\">unofficial English (WIPO) translation</a>) which came into force on 19 July 2004.\n</td></tr></tbody></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate restriction-insignia\">\n<tbody><tr>\n<td style=\"border:none; width:64px;\"><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Insignia\"><img alt=\"Insignia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/120px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"77\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/250px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"609\" data-file-height=\"731\"></a><figcaption>Insignia</figcaption></figure>\n</td>\n<td style=\"border:none;\">This image shows a <a href=\"https://en.wikipedia.org/wiki/flag\" class=\"extiw\" title=\"w:flag\">flag</a>, a <a href=\"https://en.wikipedia.org/wiki/coat_of_arms\" class=\"extiw\" title=\"w:coat of arms\">coat of arms</a>, a <a href=\"https://en.wikipedia.org/wiki/seal_(emblem)\" class=\"extiw\" title=\"w:seal (emblem)\">seal</a> or some other official <b><a href=\"https://en.wikipedia.org/wiki/insignia\" class=\"extiw\" title=\"w:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries. These restrictions are independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"w:copyright\">copyright</a> status.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "60739584": {
+        "pageid": 60739584,
+        "ns": 6,
+        "title": "File:Flag of France.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 193,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60739584",
+            "sha1": "66bdc8e9edf0515a0742b58a4f04fa1103084d56",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-25 13:23:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of France",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "SVG flags of Clipperton Island|SVG flags of Saint-Pierre and Miquelon|PD shape|With insignia|Vector images using elements from other vector images|PD France|SVG flags of Mayotte|SVG flags of France - aspect ratio of 3:2|SVG national flag of France|Vectorizations|Valid SVG created with Text Editor:Flags|PD flag|Illustrations used in Salute, Jonathan!",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Flag_of_France\" class=\"extiw\" title=\"w:Flag of France\">Flag of France</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1794",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This SVG flag includes elements that have been taken or adapted from this flag:",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Original:</div> <div style=\"display:inline-block;padding:3px 0;\">Unknown</div> <div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Vector: </div> <div style=\"display:inline-block;\"><a href=\"//commons.wikimedia.org/wiki/User:SKopp\" title=\"User:SKopp\">SKopp</a></div>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "433235": {
+        "pageid": 433235,
+        "ns": 6,
+        "title": "File:Flag of Portugal.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13091,
+            "width": 600,
+            "height": 400,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=433235",
+            "sha1": "8638595006e5e7b402055a0c784f43955e8ebee7",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-06-01 04:09:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of Portugal",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "With insignia|PD-EUGov|Files with derivative versions|File accuracy disputes|SVG flags of Portugal - aspect ratio of 3:2|SVG national flag of Portugal|CC-PD-Mark|PD-old-95-expired|Valid SVG created with CorelDRAW:Flags|Vectorizations|Flags with invalid colors",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flag of Portugal, created by Columbano Bordalo Pinheiro (1857–1929), officially adopted by Portuguese government in June 30th 1911 (in use since about November 1910). Color shades matching the RGB values officially reccomended <a rel=\"nofollow\" class=\"external text\" href=\"http://jorgesampaio.arquivo.presidencia.pt/pt/republica/simbolos/bandeiras/index.html\">here</a>. (PMS values should be used for direct ink or textile; CMYK for 4-color offset printing on paper; this is an image for screen display, RGB should be used.)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1910-10-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"http://jorgesampaio.arquivo.presidencia.pt/pt/republica/simbolos/bandeiras/index.html#imgs\">http://jorgesampaio.arquivo.presidencia.pt/pt/republica/simbolos/bandeiras/index.html#imgs</a>\n</p>\n<ul><li>see <a href=\"//commons.wikimedia.org/wiki/File:Diagrama_da_bandeira_nacional_de_Portugal_(pt%27.).png\" title=\"File:Diagrama da bandeira nacional de Portugal (pt'.).png\">construction sheet.</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Original:</div> <div style=\"display:inline-block;padding:3px 0;\">Columbano Bordalo Pinheiro (1910; generic design)</div> <div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Vector: </div> <div style=\"display:inline-block;\">Vítor Luís Rodrigues; António Martins-Tuválkin (2004; this specific vector set: see sources)</div>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The original of this vector set was contracted by the Portuguese Presidential Office in June 2004 to Vítor Luís Rodrigues and António Martins-Tuválkin expressly to be released in public domain.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1537573": {
+        "pageid": 1537573,
+        "ns": 6,
+        "title": "File:Flag of Portugal (1830–1910).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 219701,
+            "width": 2100,
+            "height": 1400,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flag_of_Portugal_%281830%E2%80%931910%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal_(1830%E2%80%931910).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1537573",
+            "sha1": "0bcc922cc3305450c34a0e13238c7f03d16fd6f4",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-17 19:36:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of Portugal (1830–1910)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portuguese Civil War|Author died more than 100 years ago public domain images|With insignia|Self-published work|PD-self|CC-PD-Mark|Invalid SVG created with Inkscape:Flags|SVG national flag of Portugal (1830–1910)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flag of Portugal, land use (1830-1910).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-01-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "XVII century",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tonyjeff\" class=\"mw-redirect\" title=\"User:Tonyjeff\">Tonyjeff</a>, based on ancient national symbol. <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Coimbra_Sala_do_Exame_Privado_929.jpg\" class=\"mw-file-description\" title=\"https://commons.wikimedia.org/wiki/File:Coimbra_Sala_do_Exame_Privado_929.jpg\"><img alt=\"https://commons.wikimedia.org/wiki/File:Coimbra_Sala_do_Exame_Privado_929.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Coimbra_Sala_do_Exame_Privado_929.jpg/120px-Coimbra_Sala_do_Exame_Privado_929.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"150\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Coimbra_Sala_do_Exame_Privado_929.jpg/250px-Coimbra_Sala_do_Exame_Privado_929.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3264\" data-file-height=\"4896\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>I, the copyright holder of this work, release this work into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</td></tr></tbody></table>\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td rowspan=\"2\"><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate restriction-insignia\">\n<tbody><tr>\n<td style=\"border:none; width:64px;\"><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Insignia\"><img alt=\"Insignia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/120px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"77\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/250px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"609\" data-file-height=\"731\"></a><figcaption>Insignia</figcaption></figure>\n</td>\n<td style=\"border:none;\">This image shows a <a href=\"https://en.wikipedia.org/wiki/flag\" class=\"extiw\" title=\"w:flag\">flag</a>, a <a href=\"https://en.wikipedia.org/wiki/coat_of_arms\" class=\"extiw\" title=\"w:coat of arms\">coat of arms</a>, a <a href=\"https://en.wikipedia.org/wiki/seal_(emblem)\" class=\"extiw\" title=\"w:seal (emblem)\">seal</a> or some other official <b><a href=\"https://en.wikipedia.org/wiki/insignia\" class=\"extiw\" title=\"w:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries. These restrictions are independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"w:copyright\">copyright</a> status.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "480250": {
+        "pageid": 480250,
+        "ns": 6,
+        "title": "File:Flag of Russia (1858–1896).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 179,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Russia_%281858%E2%80%931896%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia_(1858%E2%80%931896).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=480250",
+            "sha1": "84fc3c9af71b1f4deb4af62709de383cc6f24a49",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-17 21:11:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of Russia (1858–1896)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "House of Romanov|Black-yellow-white flag of the Russian Empire (1858-1896)|PD-old-100-expired|Argent, or, sable in heraldry|SVG flags of Russia - aspect ratio of 3:2|Black, white, yellow flags of Russia|CC-PD-Mark|Tincture palette not specified|PD-RU-exempt (flags)|PD flag|Valid SVG created with Text Editor code|SVG simplified flags-stripes only|Flags of dynasties|SVG flags of the Russian Empire|SVG national flag of Russia (1858–1896)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flag of the Russian Empire (1858–1896)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "From 23 June 1858 to 1883; with limited use until 1896",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li><ul class=\"gallery mw-gallery-nolines\"></ul>\n\t\t</li><li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Alexander%27s_II_Order(Ukase)_11_june_1858_-_flag.jpg\" class=\"mw-file-description\" title=\"Alexander's II Order(Ukase) 11 june 1858 - flag.jpg\"><img alt=\"Alexander's II Order(Ukase) 11 june 1858 - flag.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Alexander%27s_II_Order%28Ukase%29_11_june_1858_-_flag.jpg/120px-Alexander%27s_II_Order%28Ukase%29_11_june_1858_-_flag.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Alexander%27s_II_Order%28Ukase%29_11_june_1858_-_flag.jpg/250px-Alexander%27s_II_Order%28Ukase%29_11_june_1858_-_flag.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1655\" data-file-height=\"2628\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:Alexander%27s_II_Order(Ukase)_11_june_1858_-_flag.jpg\" title=\"File:Alexander's II Order(Ukase) 11 june 1858 - flag.jpg\">Alexander's II Order(Ukase) 11 june 1858 - flag.jpg</a></div></div>\n\t\t</li>\n</ul>\n<ul><li>See also:</li></ul>\n<ul class=\"gallery mw-gallery-nolines\">\n\t\t<li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:National_flags_of_Russia.jpg\" class=\"mw-file-description\" title=\"National flags of Russia.jpg\"><img alt=\"National flags of Russia.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/National_flags_of_Russia.jpg/120px-National_flags_of_Russia.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/National_flags_of_Russia.jpg/250px-National_flags_of_Russia.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"450\" data-file-height=\"672\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:National_flags_of_Russia.jpg\" title=\"File:National flags of Russia.jpg\">National flags of Russia.jpg</a></div></div>\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%B5_%D0%BE_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B8_%D0%9A%D0%B0%D1%80%D1%81%D0%B0.jpg\" class=\"mw-file-description\" title=\"Известие о взятии Карса.jpg\"><img alt=\"Известие о взятии Карса.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%B5_%D0%BE_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B8_%D0%9A%D0%B0%D1%80%D1%81%D0%B0.jpg/120px-%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%B5_%D0%BE_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B8_%D0%9A%D0%B0%D1%80%D1%81%D0%B0.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"96\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%B5_%D0%BE_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B8_%D0%9A%D0%B0%D1%80%D1%81%D0%B0.jpg/250px-%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%B5_%D0%BE_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B8_%D0%9A%D0%B0%D1%80%D1%81%D0%B0.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2402\" data-file-height=\"3000\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%B5_%D0%BE_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B8_%D0%9A%D0%B0%D1%80%D1%81%D0%B0.jpg\" title=\"File:Известие о взятии Карса.jpg\">Известие о взятии Карса.jpg</a></div></div>\n\t\t</li>\n\t\t<li class=\"gallerybox\" style=\"width: 125px\">\n\t\t\t<div class=\"thumb\" style=\"width: 120px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Alexander_II_of_Russia_and_Naser_al-Din_Shah_Qajar_by_M.Zichy_(1874,_Hermitage).jpg\" class=\"mw-file-description\" title=\"Alexander II of Russia and Naser al-Din Shah Qajar by M.Zichy (1874, Hermitage).jpg\"><img alt=\"Alexander II of Russia and Naser al-Din Shah Qajar by M.Zichy (1874, Hermitage).jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Alexander_II_of_Russia_and_Naser_al-Din_Shah_Qajar_by_M.Zichy_%281874%2C_Hermitage%29.jpg/120px-Alexander_II_of_Russia_and_Naser_al-Din_Shah_Qajar_by_M.Zichy_%281874%2C_Hermitage%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"86\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Alexander_II_of_Russia_and_Naser_al-Din_Shah_Qajar_by_M.Zichy_%281874%2C_Hermitage%29.jpg/250px-Alexander_II_of_Russia_and_Naser_al-Din_Shah_Qajar_by_M.Zichy_%281874%2C_Hermitage%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1476\" data-file-height=\"1057\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><div class=\"center\"><a href=\"//commons.wikimedia.org/wiki/File:Alexander_II_of_Russia_and_Naser_al-Din_Shah_Qajar_by_M.Zichy_(1874,_Hermitage).jpg\" title=\"File:Alexander II of Russia and Naser al-Din Shah Qajar by M.Zichy (1874, Hermitage).jpg\">Alexander II of Russia and Naser al-Din Shah Qajar by M.Zichy (1874, Hermitage).jpg</a></div></div>\n\t\t</li>\n</ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://ru.wikipedia.org/wiki/%D0%9A%D1%91%D0%BD%D0%B5,_%D0%91%D0%B5%D1%80%D0%BD%D0%B3%D0%B0%D1%80%D0%B4_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87\" class=\"extiw\" title=\"ru:Кёне, Бернгард Васильевич\">Кёне, Бернгард Васильевич</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<small><b>Comment</b> – This license tag <i><b>is</b></i> also applicable to official documents, state symbols and signs of the <i><a href=\"https://en.wikipedia.org/wiki/Russian_SFSR\" class=\"extiw\" title=\"w:Russian SFSR\">Russian Soviet Federative Socialist Republic</a></i> and the <i><a href=\"https://en.wikipedia.org/wiki/USSR\" class=\"extiw\" title=\"w:USSR\">Union of Soviet Socialist Republics</a></i> (union level<sup id=\"cite_ref-union-note_1-0\" class=\"reference\"><a href=\"#cite_note-union-note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>).\n</small><p><b>Warning</b> – This license tag <i><b>is not</b></i> applicable to drafts of official documents, proposed official symbols and signs, which can be copyrighted.\n</p><p><b>Warning</b> – This Russian official document, state symbol or sign (postage stamps, coins and banknotes mainly) may incorporate one or more works that can be copyrightable if separated from this document, symbol or sign. In such a case, this work is not an object of copyright if reused <i>in its entirety</i> but, at the same time, extracting specific portions from this work could constitute copyright infringement. For example, the <a href=\"https://en.wikipedia.org/wiki/Postage_stamp\" class=\"extiw\" title=\"en:Postage stamp\">denomination and country name</a> must be preserved on postage stamps.\n</p>\n<hr>\n<div class=\"reflist\" style=\"list-style-type: decimal;\">\n<ol class=\"references\">\n<li id=\"cite_note-union-note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-union-note_1-0\">↑</a></span> <span class=\"reference-text\">Official documents, state symbols and signs of 14 other <a href=\"https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union\" class=\"extiw\" title=\"w:Republics of the Soviet Union\">Soviet Republics</a> are the subject of law of their legal successors. See <a href=\"//commons.wikimedia.org/wiki/Category:PD-exUSSR-exempt_license_tags\" title=\"Category:PD-exUSSR-exempt license tags\">respective license tags</a>.</span>\n</li>\n</ol></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "2534294": {
+        "pageid": 2534294,
+        "ns": 6,
+        "title": "File:Flag of Spain (1785–1873, 1875–1931).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 212066,
+            "width": 1200,
+            "height": 800,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain_(1785%E2%80%931873,_1875%E2%80%931931).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2534294",
+            "sha1": "b5c58dbc522b00211e16b7e6b73124d6522fac47",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-19 15:02:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of Spain (1785–1873, 1875–1931)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|CC-BY-SA-2.5,2.0,1.0|License migration redundant|Self-published work|Flags with castles|Naval ensigns of Spain|Flags with lions facing left|SVG historical national flags of Spain|Flags with three horizontal stripes, one yellow, two red|Valid SVG created with Inkscape:Flags|Red and yellow flags of Spain|Flags in the Spanish Empire|Flags with coats of arms from Spain|Flags of the Kingdom of Spain (Bourbon Restoration)|SVG flags of Viceroyalty of the Río de la Plata|Flags with 1 crowned red lion",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flag of Spain (1785-1873 and 1875-1931)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "May 28, 1785",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "self-made, based on <a href=\"//commons.wikimedia.org/wiki/File:Bandera_naval_desde_1785.png\" title=\"File:Bandera naval desde 1785.png\">Image:Bandera naval desde 1785.png</a> ; <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.armada.mde.es/ArmadaPortal/page/Portal/ArmadaEspannola/conocenos_historia/03_bandera_armada--06_carlos_iii\">[1]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "previous version <a href=\"//commons.wikimedia.org/wiki/User:Ignaciogavira\" title=\"User:Ignaciogavira\">User:Ignaciogavira</a> ; current version <a href=\"//commons.wikimedia.org/wiki/User:HansenBCN\" title=\"User:HansenBCN\">HansenBCN</a>, designs from <a href=\"//commons.wikimedia.org/wiki/User:SanchoPanzaXXI\" title=\"User:SanchoPanzaXXI\">SanchoPanzaXXI</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "7112828": {
+        "pageid": 7112828,
+        "ns": 6,
+        "title": "File:Flag of the Ottoman Empire (1844–1922).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 489,
+            "width": 1200,
+            "height": 800,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Ottoman_Empire_(1844%E2%80%931922).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7112828",
+            "sha1": "f94cd07a56e664ec196965335687620a62f6ca3c",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-03-14 05:47:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of the Ottoman Empire (1844–1922)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Red and white flags|With insignia|Self-published work|PD-self|PD Tr|Files by User:Dsmurat from tr.wikipedia|PD-Ottoman|SVG flags of Turkey - aspect ratio of 3:2|SVG flags of the Ottoman Empire|Flags with one white five-pointed star and 1 white crescent|One white five-pointed star and 1 white crescent on flags of Turkey",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The <a href=\"https://en.wikipedia.org/wiki/Ottoman_flag\" class=\"extiw\" title=\"w:Ottoman flag\">Ottoman flag</a> and  <a href=\"https://en.wikipedia.org/wiki/Flag_of_Turkey\" class=\"extiw\" title=\"w:Flag of Turkey\">Turkey</a> Republic Flag of 1844–1935. Late Ottoman flag which was made based on the historical documents listed in the Source section. Note that a five-pointed star was rarely used in the crescent-and-star symbol before the 19th century.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a href=\"//commons.wikimedia.org/wiki/File:German_soldiers_celebrate_Christmas_in_Ottoman_Empire_during_WW1.jpg\" title=\"File:German soldiers celebrate Christmas in Ottoman Empire during WW1.jpg\">File:German soldiers celebrate Christmas in Ottoman Empire during WW1.jpg</a>\n<a href=\"//commons.wikimedia.org/wiki/File:Nordenfelt_submarine_Abd%C3%BClhamid.jpg\" title=\"File:Nordenfelt submarine Abdülhamid.jpg\">File:Nordenfelt submarine Abdülhamid.jpg</a> Ottoman submarine Abdülhamid (1886)\n<a href=\"//commons.wikimedia.org/wiki/File:Declaration_of_the_1908_Revolution_in_Ottoman_Empire.png\" title=\"File:Declaration of the 1908 Revolution in Ottoman Empire.png\">File:Declaration of the 1908 Revolution in Ottoman Empire.png</a> Photo from 1908\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.tayyareci.com/digerucaklar/turkiye/preww1/Bleriot%20XI%20b%20TuAF.jpg\">http://www.tayyareci.com/digerucaklar/turkiye/preww1/Bleriot%20XI%20b%20TuAF.jpg</a> - Photo from 1912\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.manorhouse.clara.net/book2/chapter18.htm\">http://www.manorhouse.clara.net/book2/chapter18.htm</a> (<a rel=\"nofollow\" class=\"external text\" href=\"http://www.manorhouse.clara.net/book2/jihad.jpg\">image</a>), <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/inanc2/1360902178/sizes/o/in/photostream\">alternative link</a> - Photo from 1914\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.manorhouse.clara.net/book2/chapter21.htm\">http://www.manorhouse.clara.net/book2/chapter21.htm</a> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.manorhouse.clara.net/book2/crowd.jpg\">image</a> - Photo from 1914\n<br><a href=\"//commons.wikimedia.org/wiki/File:SultanahmetMitingi.jpg\" title=\"File:SultanahmetMitingi.jpg\">File:SultanahmetMitingi.jpg</a> Photo from 1919\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.tayyareci.com/digerucaklar/turkiye/ww1/gothawd12.jpg\">http://www.tayyareci.com/digerucaklar/turkiye/ww1/gothawd12.jpg</a> - Photo from 1915\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.tayyareci.com/digerucaklar/turkiye/ww1/gothawd2.jpg\">http://www.tayyareci.com/digerucaklar/turkiye/ww1/gothawd2.jpg</a> - Photo from 1915\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.tayyareci.com/digerucaklar/turkiye/ww1/gothawd13.jpg\">http://www.tayyareci.com/digerucaklar/turkiye/ww1/gothawd13.jpg</a> - Photo from 1915\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.tayyareci.com/digerucaklar/turkiye/ww1/sakir_feyzi_resimleri2.jpg\">http://www.tayyareci.com/digerucaklar/turkiye/ww1/sakir_feyzi_resimleri2.jpg</a> - Photo from 1915\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.tayyareci.com/digerucaklar/turkiye/ww1/S.P.A.D13.JPG\">http://www.tayyareci.com/digerucaklar/turkiye/ww1/S.P.A.D13.JPG</a> - Photo from 1918\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.tayyareci.com/digerucaklar/turkiye/kurtulus/fiat-r2.jpg\">http://www.tayyareci.com/digerucaklar/turkiye/kurtulus/fiat-r2.jpg</a> - Photo from 1920\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.tayyareci.com/digerucaklar/turkiye/kurtulus/breguet14b2.jpg\">http://www.tayyareci.com/digerucaklar/turkiye/kurtulus/breguet14b2.jpg</a> - Photo from 1922\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.tayyareci.com/digerucaklar/turkiye/kurtulus/nieuport27-2.jpg\">http://www.tayyareci.com/digerucaklar/turkiye/kurtulus/nieuport27-2.jpg</a> - Photo from 1922\n<br><a href=\"//commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-2005-0086,_Kaiser_Wilhelm_II_in_Konstantinopel.jpg\" title=\"File:Bundesarchiv Bild 146-2005-0086, Kaiser Wilhelm II in Konstantinopel.jpg\">File:Bundesarchiv Bild 146-2005-0086, Kaiser Wilhelm II in Konstantinopel.jpg</a>\n<br><a href=\"//commons.wikimedia.org/wiki/File:Ceremony_to_decolate_the_flag_of_27th_Regiment_with_Imtiyaz_Medals.jpg\" class=\"mw-redirect\" title=\"File:Ceremony to decolate the flag of 27th Regiment with Imtiyaz Medals.jpg\">File:Ceremony to decolate the flag of 27th Regiment with Imtiyaz Medals.jpg</a>\n<br><a href=\"//commons.wikimedia.org/wiki/File:Ottoman_troops_with_flag.jpg\" title=\"File:Ottoman troops with flag.jpg\">File:Ottoman troops with flag.jpg</a>\n<br><a href=\"//commons.wikimedia.org/wiki/File:Ottoman_Navy_at_the_Golden_Horn.jpg\" title=\"File:Ottoman Navy at the Golden Horn.jpg\">File:Ottoman Navy at the Golden Horn.jpg</a> - Postcard from 1914\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.osmanzengin.com/ESKi__iSTANBUL/kararkoy02.jpg\">http://www.osmanzengin.com/ESKi__iSTANBUL/kararkoy02.jpg</a> - Postcard from 1920\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.osmanzengin.com/ESKi__iSTANBUL/tepebasi.jpg\">http://www.osmanzengin.com/ESKi__iSTANBUL/tepebasi.jpg</a> - Postcard from 1920\n<br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.vicmart.com/ext/en/exrw/item=1416\">http://www.vicmart.com/ext/en/exrw/item=1416</a> - Ottoman medal from 1850\n<br><a href=\"//commons.wikimedia.org/wiki/File:Aff_ciwl_orient_express4_jw.jpg\" title=\"File:Aff ciwl orient express4 jw.jpg\">File:Aff_ciwl_orient_express4_jw.jpg</a> - 1888-1889 season timetable of the <a href=\"//commons.wikimedia.org/wiki/Orient_Express\" title=\"Orient Express\">Orient Express</a>\n<br><a href=\"//commons.wikimedia.org/wiki/File:Ottoman_conquests.jpg\" title=\"File:Ottoman conquests.jpg\">File:Ottoman conquests.jpg</a> - Ottoman map from 1914\n</p>\n<br>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Orwellianist\" title=\"User:Orwellianist\">User:Orwellianist</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate restriction-insignia\">\n<tbody><tr>\n<td style=\"border:none; width:64px;\"><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Insignia\"><img alt=\"Insignia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/120px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"77\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/250px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"609\" data-file-height=\"731\"></a><figcaption>Insignia</figcaption></figure>\n</td>\n<td style=\"border:none;\">This image shows a <a href=\"https://en.wikipedia.org/wiki/flag\" class=\"extiw\" title=\"w:flag\">flag</a>, a <a href=\"https://en.wikipedia.org/wiki/coat_of_arms\" class=\"extiw\" title=\"w:coat of arms\">coat of arms</a>, a <a href=\"https://en.wikipedia.org/wiki/seal_(emblem)\" class=\"extiw\" title=\"w:seal (emblem)\">seal</a> or some other official <b><a href=\"https://en.wikipedia.org/wiki/insignia\" class=\"extiw\" title=\"w:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries. These restrictions are independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"w:copyright\">copyright</a> status.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "549904": {
+        "pageid": 549904,
+        "ns": 6,
+        "title": "File:Flag of the Soviet Union (1936 – 1955).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12111,
+            "width": 1000,
+            "height": 500,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Flag_of_the_Soviet_Union_%281936_%E2%80%93_1955%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union_(1936_%E2%80%93_1955).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=549904",
+            "sha1": "b4d45224eabe3f55f8f456da2b54e5bbb7291467",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-10-06 09:27:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of the Soviet Union (1936 – 1955)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-Russia|Files allowed to be overwritten by everyone|Russian militarism symbols|SVG flags with an aspect ratio of 2:1|Flags with hammer and sickle|Red star as a symbol of communism|Communist symbols|Yellow on flags with red fields|Flags with one red five-pointed star|Yellow on flags with red fields (upper-left)|SVG national flag of the Soviet Union (1936–1955)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "this is the flag of the <a href=\"//commons.wikimedia.org/wiki/Soviet_Union\" class=\"mw-redirect\" title=\"Soviet Union\">Soviet Union</a> in 1936. It was later replaced by <a href=\"//commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union_(1955%E2%80%931980).svg\" class=\"mw-redirect\" title=\"File:Flag of the Soviet Union (1955–1980).svg\">File:Flag of the Soviet Union (1955–1980).svg</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1936-12-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" data-mw-original-href=\"http://www.marxists.org/history/ussr/government/1928/sufds/pictures/flag.jpg\" href=\"https://www.marxists.org/history/ussr/government/1928/sufds/pictures/flag.jpg\">[1]</a>, <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://meshok.ru/item/28749159_%D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_%D1%84%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2_%D0%B8_%D0%B2%D1%8B%D0%BC%D0%BF%D0%B5%D0%BB%D0%BE%D0%B2_1925\">[2]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "created by <a href=\"//commons.wikimedia.org/wiki/User:Rotemliss\" title=\"User:Rotemliss\">rotemliss</a> from <a href=\"//commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union.svg\" title=\"File:Flag of the Soviet Union.svg\">Image:Flag of the Soviet Union.svg</a>.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<b>This work is in the <a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a> in <a href=\"https://en.wikipedia.org/wiki/Russia\" class=\"extiw\" title=\"w:Russia\">Russia</a></b> according to article 1281 of the Civil Code of the Russian Federation, articles 5 and 6 of Law No. 231-FZ of the Russian Federation of December 18, 2006 (the Implementation Act for Book IV of the Civil Code of the Russian Federation).\n<p>This usually means that one of the following conditions is fulfilled.\n</p>\n<ol><li>The author of this work died:<sup>[1]</sup><sup>[2]</sup>\n<ul><li>(a) before January 1, 1952 or</li>\n<li>(b) between January 1, 1952 and January 1, 1956, did not work during the <a href=\"https://en.wikipedia.org/wiki/Great_Patriotic_War_(term)\" class=\"extiw\" title=\"w:Great Patriotic War (term)\">Great Patriotic War</a> and did not participate in it.</li></ul></li>\n<li>This work was originally published anonymously or under a pseudonym:\n<ul><li>(a) before January 1, 1943 and the name of the author did not become known during 50 years after publication, counted from January 1 of the year following the year of publication, or</li>\n<li>(b) between January 1, 1943 and January 1, 1956, and the name of the author did not become known during 70 years after publication, counted from January 1 of the year following the year of publication.</li></ul></li>\n<li>This work is a film (a video fragment or a single shot from it):\n<ul><li>(a) which was first shown before January 1, 1943<sup>[2]</sup> or</li>\n<li>(b) which was created by <i>legal entity</i> between January 1, 1929 and January 1, 1956, provided that it was first shown in the stated period or was not shown until August 3, 1993.</li></ul></li>\n<li>This work is an information report (including photo report), which was created by an employee of <i><a href=\"https://en.wikipedia.org/wiki/TASS\" class=\"extiw\" title=\"en:TASS\">TASS</a></i>, <i><a href=\"https://en.wikipedia.org/wiki/ROSTA\" class=\"extiw\" title=\"en:ROSTA\">ROSTA</a></i>, or <i><a href=\"https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D1%84%D0%B8%D0%BD%D0%A2%D0%90%D0%93\" class=\"extiw\" title=\"ru:КарелфинТАГ\">KarelfinTAG</a></i> as part of that person’s official duties between July 10, 1925<sup>[3]</sup> and January 1, 1956, provided that it was first released in the stated period or was not released until August 3, 1993.</li></ol>\n<hr>\n<div style=\"font-size:85%;\"><sup>[1]</sup> If the work was first published after the death of the author and the author of this work was not subjected to repression, copyright term is counted from January 1 of the year following the year of publication, provided that the work was published within 50 years after the death of the author who died before January 1, 1943, or within 70 years after the death of the author who died between January 1, 1943 and January 1, 1956.<br>\n<p><sup>[2]</sup> If the author of this work was subjected to repression and <a href=\"https://en.wikipedia.org/wiki/Rehabilitation_(Soviet)\" class=\"extiw\" title=\"en:Rehabilitation (Soviet)\">rehabilitated</a> posthumously, copyright term is counted from January 1 of the year following the year of rehabilitation.<br>If the work was first published after the posthumous rehabilitation of the author, copyright term is counted from January 1 of the year following the year of publication, provided that the work was published within 50 years after the posthumous rehabilitation of the author who was posthumously rehabilitated before January 1, 1943, or within 70 years after the posthumous rehabilitation of the author who rehabilitated posthumously between January 1, 1943 years before January 1, 1956.<br>\n<sup>[3]</sup> Amateur films which were first shown on January 1, 1943 or later are subjects of points 1-2 of this template.<br>\n</p>\n<sup>[4]</sup> <i>ROSTA</i> reports created before July 10, 1925 are subjects of points 1-2 of this template.</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "communist|rusmilitarism",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "347935": {
+        "pageid": 347935,
+        "ns": 6,
+        "title": "File:Flag of the United Kingdom (1-2).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 641,
+            "width": 1200,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(1-2).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=347935",
+            "sha1": "574dcaf9b0f699c967fffb99499f89b92b75f8be",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-09-16 11:11:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of the United Kingdom (1-2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|With insignia|UK Government artistic works|Valid SVG created with Text Editor|Flags with the cross of Saint George|SVG national flag of the United Kingdom|CC-PD-Mark|SVG historical national flags of Canada|Naval jacks of the United Kingdom|Valid SVG created with Inkscape-hand:Flags|SVG flags of the United Kingdom - aspect ratio of 2:1|Vectorizations|SVG naval rank flags of the United Kingdom|Flags with crosses and saltires",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Flag_of_the_United_Kingdom\" class=\"extiw\" title=\"w:Flag of the United Kingdom\">Flag of the United Kingdom</a>, <a href=\"https://en.wikipedia.org/wiki/Union_Jack\" class=\"extiw\" title=\"w:Union Jack\">Union Jack</a> or Union Flag in a 1:2 ratio (typical on British warships and also the rank flag of an admiral of the fleet).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1801-01-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>Own work based on: <a rel=\"nofollow\" class=\"external text\" href=\"http://flagspot.net/flags/gb.html\">United Kingdom</a> at Flag of the World\n</p>\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flaginstitute.org/wp/flags/unionflag/\">United Kingdom Flag</a> at the Flag Institute</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Original:</div> <div style=\"display:inline-block;padding:3px 0;\"><a href=\"https://en.wikipedia.org/wiki/Acts_of_Union_1800\" class=\"extiw\" title=\"w:Acts of Union 1800\">Acts of Union 1800</a></div> <div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Vector: </div> <div style=\"display:inline-block;\"><a href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\">Zscout370</a></div>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate restriction-insignia\">\n<tbody><tr>\n<td style=\"border:none; width:64px;\"><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Insignia\"><img alt=\"Insignia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/120px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"77\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/250px-Coat-elements-2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"609\" data-file-height=\"731\"></a><figcaption>Insignia</figcaption></figure>\n</td>\n<td style=\"border:none;\">This image shows a <a href=\"https://en.wikipedia.org/wiki/flag\" class=\"extiw\" title=\"w:flag\">flag</a>, a <a href=\"https://en.wikipedia.org/wiki/coat_of_arms\" class=\"extiw\" title=\"w:coat of arms\">coat of arms</a>, a <a href=\"https://en.wikipedia.org/wiki/seal_(emblem)\" class=\"extiw\" title=\"w:seal (emblem)\">seal</a> or some other official <b><a href=\"https://en.wikipedia.org/wiki/insignia\" class=\"extiw\" title=\"w:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries. These restrictions are independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"w:copyright\">copyright</a> status.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "7253375": {
+        "pageid": 7253375,
+        "ns": 6,
+        "title": "File:Flag of Russia (1896–1918).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 252,
+            "width": 450,
+            "height": 300,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Russia_%281896%E2%80%931918%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia_(1896%E2%80%931918).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7253375",
+            "sha1": "3cc87aae955c04b25a57a96f064f965a8991ffde",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-08-14 21:51:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of Russia (1896–1918)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Superseded|Russian Empire at the 1908 Summer Olympics|PD-RusEmpire|PD-Russia|Russian Empire at the 1912 Summer Olympics|Russian Empire at the 1900 Summer Olympics|With insignia|Images with major inaccuracies|SVG flags of Russia - aspect ratio of 3:2|CC-PD-Mark|PD Old (assumed)|SVG special or fictional flags of Russia|Valid SVG created with Text Editor:Flags|SVG flags of the Russian Empire|SVG national flag of Russia (1896–1918)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old flag of Russia from the Tsarist era. A modified variant is still used today.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1896",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sports9494\" title=\"User:Sports9494\">Sports9494</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "2332437": {
+        "pageid": 2332437,
+        "ns": 6,
+        "title": "File:Flag of the Soviet Union (dark version).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3441,
+            "width": 1200,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_the_Soviet_Union_%28dark_version%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union_(dark_version).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2332437",
+            "sha1": "6bbf16d6ac3fadf933886fd57c4b166264bb125c",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-04 12:25:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of the Soviet Union (dark version)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|FAL|License migration redundant|Self-published work|Russian militarism symbols|SVG flags with an aspect ratio of 2:1|Valid SVG created with Other tools:Flags|Red star as a symbol of communism|Communist symbols|Yellow on flags with red fields|Flags with one red five-pointed star|Flags with pickhammer and sickle|SVG national flag of the Soviet Union|Yellow on flags with red fields (upper-left)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The flag of the <a href=\"//commons.wikimedia.org/wiki/Soviet_Union\" class=\"mw-redirect\" title=\"Soviet Union\">Soviet Union</a> (1955-1991) using a darker shade of red. <figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Flag_the_USSR_schema_Sbornik_zakonov_1938-1956.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_the_USSR_schema_Sbornik_zakonov_1938-1956.svg/250px-Flag_the_USSR_schema_Sbornik_zakonov_1938-1956.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"200\" height=\"122\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_the_USSR_schema_Sbornik_zakonov_1938-1956.svg/500px-Flag_the_USSR_schema_Sbornik_zakonov_1938-1956.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1459\" data-file-height=\"888\"></a><figcaption>Schematic of the flag as adopted in 1955.</figcaption></figure>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-07-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "self-made from <a href=\"//commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union.svg\" title=\"File:Flag of the Soviet Union.svg\">Flag of the Soviet Union.svg</a> using background color from <a href=\"//commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union_1923.svg\" class=\"mw-redirect\" title=\"File:Flag of the Soviet Union 1923.svg\">Flag of the Soviet Union 1923.svg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cmapm\" title=\"User:Cmapm\">Cmapm</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "I, <a href=\"//commons.wikimedia.org/wiki/User:Cmapm\" title=\"User:Cmapm\">Cmapm</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "communist|rusmilitarism",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "343059": {
+        "pageid": 343059,
+        "ns": 6,
+        "title": "File:Flag of France (1974–2020).svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 249,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_France_%281974%E2%80%932020%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_France_(1974%E2%80%932020).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=343059",
+            "sha1": "58e49fd93326491eaf3f22cdc75a0e39376c352a",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-02 02:55:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flag of France (1974–2020)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Flag_of_France\" class=\"extiw\" title=\"en:Flag of France\">Flag of France</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2005-09-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/*/http://www.diplomatie.gouv.fr/de/frankreich_3/frankreich-entdecken_244/portrat-frankreichs_247/die-symbole-der-franzosischen-republik_260/trikolore-die-nationalfahne_114.html\">https://web.archive.org/web/*/http://www.diplomatie.gouv.fr/de/frankreich_3/frankreich-entdecken_244/portrat-frankreichs_247/die-symbole-der-franzosischen-republik_260/trikolore-die-nationalfahne_114.html</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "This graphic was drawn by <a href=\"//commons.wikimedia.org/wiki/User:SKopp\" title=\"User:SKopp\">SKopp</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "insignia",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

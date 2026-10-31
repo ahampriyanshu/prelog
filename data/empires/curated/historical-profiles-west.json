@@ -1,0 +1,1677 @@
+{
+  "Akkadian Empire": {
+    "aliases": [
+      "Akkad",
+      "Agade"
+    ],
+    "start": -2334,
+    "end": -2154,
+    "summary": "Sargon’s dynasty united Mesopotamian cities and extended royal control into neighboring regions, creating an early territorial empire.",
+    "capital": "Akkad (Agade); its archaeological location has not been identified.",
+    "currency": null,
+    "rulers": "Selected ruler: Naram-Sin, c. 2254–2218 BCE.",
+    "economy": "Royal centralization accompanied more standardized weights, measures, calendars and administrative archives.",
+    "military": "Successive conquests brought Mesopotamian city-states and neighboring territories under Akkadian kings.",
+    "contributions": "Standardized administrative practices and cuneiform writing across a large territorial state.",
+    "origin": "Sargon consolidated previously separate Mesopotamian city-states under his dynasty.",
+    "decline": null,
+    "periodNote": "2334–2154 BCE follows the University of Chicago museum chronology; absolute dates and the empire’s final decades remain debated.",
+    "sources": [
+      {
+        "id": "akkad-uchicago",
+        "title": "Akkadian period (2334–2154 BC) — University of Chicago",
+        "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Membership/Akkadian%20period%20and%20gold%20leaf.pdf"
+      },
+      {
+        "id": "akkad-met",
+        "title": "Art of the Ancient Near East — The Met",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Art_of_the_Ancient_Near_East_A_Resource_for_Educators.pdf"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "akkad-uchicago"
+      ],
+      "start": [
+        "akkad-uchicago"
+      ],
+      "end": [
+        "akkad-uchicago"
+      ],
+      "capital": [
+        "akkad-uchicago"
+      ],
+      "economy": [
+        "akkad-uchicago"
+      ],
+      "military": [
+        "akkad-uchicago"
+      ],
+      "contributions": [
+        "akkad-uchicago"
+      ],
+      "origin": [
+        "akkad-uchicago"
+      ],
+      "periodNote": [
+        "akkad-uchicago"
+      ],
+      "rulers": [
+        "akkad-met"
+      ]
+    }
+  },
+  "Neo-Assyrian Empire": {
+    "aliases": [
+      "Assyrian Empire",
+      "Assyria"
+    ],
+    "start": -911,
+    "end": -612,
+    "summary": "A northern Mesopotamian empire that expanded through conquest, provincial administration, tribute and forced population transfers.",
+    "capital": "Ashur; Kalhu under Ashurnasirpal II; Dur-Sharrukin under Sargon II; Nineveh under Sennacherib and his successors.",
+    "currency": null,
+    "rulers": "Selected rulers: Ashurnasirpal II, 883–859 BCE; Sennacherib, 704–681 BCE; Ashurbanipal, 668–627 BCE.",
+    "economy": "Tribute and war booty flowed from conquered regions into Assyria’s capitals.",
+    "military": "Armies conducted sieges and cavalry campaigns across the Near East; conquered regions supplied tribute and were governed or subordinated to Assyria.",
+    "contributions": "Monumental palace reliefs, royal archives and Ashurbanipal’s collection preserved major works of Mesopotamian literature and scholarship.",
+    "origin": "Assyrian kings renewed territorial expansion from northern Mesopotamia during the early first millennium BCE.",
+    "decline": "Babylonian and Median forces destroyed Nineveh in 612 BCE; Assyrian resistance continued afterward.",
+    "periodNote": "612 BCE marks Nineveh’s fall, not the instantaneous end of every Assyrian force; sources use later endpoints for the remaining resistance.",
+    "sources": [
+      {
+        "id": "assyria-timeline",
+        "title": "Mesopotamia, 1000 BC–AD 1 — The Met",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html"
+      },
+      {
+        "id": "nineveh",
+        "title": "Nineveh — The Met",
+        "url": "https://www.metmuseum.org/essays/nineveh"
+      },
+      {
+        "id": "kalhu",
+        "title": "Kalhu, royal residence city — University of Pennsylvania / UCL project",
+        "url": "https://oracc.museum.upenn.edu/saao/aebp/essentials/cities/kalhu/index.html"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "assyria-timeline"
+      ],
+      "start": [
+        "assyria-timeline"
+      ],
+      "end": [
+        "assyria-timeline"
+      ],
+      "economy": [
+        "assyria-timeline"
+      ],
+      "origin": [
+        "assyria-timeline"
+      ],
+      "decline": [
+        "assyria-timeline"
+      ],
+      "capital": [
+        "nineveh"
+      ],
+      "rulers": [
+        "nineveh"
+      ],
+      "military": [
+        "nineveh"
+      ],
+      "contributions": [
+        "nineveh"
+      ],
+      "periodNote": [
+        "nineveh"
+      ]
+    }
+  },
+  "Achaemenid Empire": {
+    "aliases": [
+      "Persian Empire",
+      "Achaemenid Persia"
+    ],
+    "start": -550,
+    "end": -330,
+    "summary": "A Persian imperial monarchy joining territories from the eastern Mediterranean to Central and South Asia through satrapal government.",
+    "capital": "Pasargadae under Cyrus; Susa and Persepolis developed under Darius I. The court used multiple royal centers.",
+    "currency": "Gold daric and silver siglos; regional currencies also circulated.",
+    "rulers": "Selected rulers: Cyrus II, 559–530 BCE; Darius I, 522–486 BCE; Xerxes I, 486–465 BCE.",
+    "economy": "Provincial tribute and long-distance communications supported a monarchy governing diverse regional economies.",
+    "military": "Conquest incorporated Lydia, Babylonia and Egypt; campaigns against mainland Greek states encountered major defeats.",
+    "contributions": "Satrapal administration, imperial roads and monumental architecture connected diverse peoples across a large state.",
+    "origin": "Cyrus defeated the Median king Astyages in 550 BCE, then conquered neighboring kingdoms.",
+    "decline": "Alexander defeated Persian armies and seized provinces; Darius III was killed in 330 BCE.",
+    "periodNote": "550 BCE marks Cyrus’s conquest of Media. Sources sometimes use 331 BCE, the battle of Gaugamela, rather than Darius III’s death in 330.",
+    "sources": [
+      {
+        "id": "achaemenid",
+        "title": "The Achaemenid Persian Empire (550–330 BC) — The Met",
+        "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+      },
+      {
+        "id": "daric",
+        "title": "Daric — Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/daric/"
+      },
+      {
+        "id": "achaemenid-bm",
+        "title": "Achaemenid Dynasty — British Museum",
+        "url": "https://www.britishmuseum.org/collection/term/x108702"
+      },
+      {
+        "id": "pasargadae",
+        "title": "Pasargadae — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1106/"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "achaemenid"
+      ],
+      "start": [
+        "achaemenid"
+      ],
+      "end": [
+        "achaemenid"
+      ],
+      "capital": [
+        "achaemenid",
+        "pasargadae"
+      ],
+      "rulers": [
+        "achaemenid"
+      ],
+      "economy": [
+        "achaemenid"
+      ],
+      "military": [
+        "achaemenid"
+      ],
+      "contributions": [
+        "achaemenid"
+      ],
+      "origin": [
+        "achaemenid"
+      ],
+      "currency": [
+        "daric"
+      ],
+      "decline": [
+        "achaemenid"
+      ],
+      "periodNote": [
+        "achaemenid",
+        "achaemenid-bm"
+      ]
+    }
+  },
+  "Empire of Alexander the Great": {
+    "aliases": [
+      "Macedonian Empire",
+      "Alexander’s Empire",
+      "Alexander the Great"
+    ],
+    "start": -336,
+    "end": -323,
+    "summary": "Alexander’s Macedonian monarchy conquered the Achaemenid realm, linking Greece, Egypt and western Asia before fragmenting after his death.",
+    "capital": null,
+    "currency": "Silver drachm-based coinage, including tetradrachms issued in Alexander’s name.",
+    "rulers": "Selected ruler: Alexander III, 336–323 BCE.",
+    "economy": null,
+    "military": "Campaigns from 334 to 323 BCE carried Macedonian armies through the Persian Empire to northwestern South Asia.",
+    "contributions": "Conquest accelerated exchanges between Greek and other cultures that shaped the subsequent Hellenistic kingdoms.",
+    "origin": "Alexander inherited Macedonia’s throne in 336 BCE and launched the invasion of Persian territory in 334 BCE.",
+    "decline": "After Alexander died in 323 BCE, rival generals fought over and divided his territories.",
+    "periodNote": "Dates describe Alexander’s reign; the Asian conquests began in 334 BCE, and successor governments persisted after his death.",
+    "sources": [
+      {
+        "id": "alexander-ucl",
+        "title": "Alexander the Great — University College London",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/alexandergreat.html"
+      },
+      {
+        "id": "hellenistic",
+        "title": "Art of the Hellenistic Age — The Met",
+        "url": "https://www.metmuseum.org/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition"
+      },
+      {
+        "id": "alexander-coin",
+        "title": "Alexander III tetradrachm — Ashmolean Museum",
+        "url": "https://hcr.ashmus.ox.ac.uk/coin/hcr23656"
+      }
+    ],
+    "fieldSources": {
+      "start": [
+        "alexander-ucl"
+      ],
+      "end": [
+        "alexander-ucl"
+      ],
+      "rulers": [
+        "alexander-ucl"
+      ],
+      "origin": [
+        "alexander-ucl"
+      ],
+      "summary": [
+        "hellenistic"
+      ],
+      "military": [
+        "hellenistic"
+      ],
+      "contributions": [
+        "hellenistic"
+      ],
+      "decline": [
+        "hellenistic"
+      ],
+      "periodNote": [
+        "hellenistic"
+      ],
+      "currency": [
+        "alexander-coin"
+      ]
+    }
+  },
+  "Roman Republic": {
+    "aliases": [
+      "Republican Rome"
+    ],
+    "start": -509,
+    "end": -27,
+    "summary": "A Roman state governed through magistrates, assemblies and a powerful Senate that acquired an extensive Mediterranean empire before civil wars transformed its government.",
+    "capital": "Rome.",
+    "currency": "Bronze, silver and gold coinages, with the denarius a major silver denomination in the later Republic.",
+    "rulers": "Selected officeholder: Marcus Tullius Cicero, consul in 63 BCE. Republican authority was shared among magistrates and the Senate.",
+    "economy": "Conquest brought land, wealth and enslaved people into an agrarian state; the distribution of imperial gains intensified social conflict.",
+    "military": "Citizen armies and allied forces expanded Roman control; successful generals increasingly turned military power against domestic rivals.",
+    "contributions": "Republican magistracies, assemblies, law and military roads became influential institutional and infrastructural precedents.",
+    "origin": "Tradition dates the expulsion of Rome’s last king and establishment of the Republic to 509 BCE.",
+    "decline": "Civil wars, concentrated military power and political violence culminated in Octavian’s supremacy and the Augustan settlement of 27 BCE.",
+    "periodNote": "509 BCE is the traditional foundation date. Rome already possessed an empire while its constitutional government remained republican.",
+    "sources": [
+      {
+        "id": "roman-education",
+        "title": "Roman Art: A Resource for Educators — The Met",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+      },
+      {
+        "id": "rome-year-one",
+        "title": "The Year One: Art of the Ancient World — The Met",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Year_One_Art_of_the_Ancient_World_East_and_West.pdf"
+      },
+      {
+        "id": "roman-mint",
+        "title": "Minted coins — Bank of Italy",
+        "url": "https://www.bancaditalia.it/servizi-cittadino/musei-e-visite/museo-moneta/moneta-coniata/index.html?com.dotmarketing.htmlpage.language=1"
+      },
+      {
+        "id": "cicero",
+        "title": "Portrait of Marcus Tullius Cicero — National Trust Collections",
+        "url": "https://www.nationaltrustcollections.org.uk/object/852221"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "roman-education"
+      ],
+      "start": [
+        "roman-education"
+      ],
+      "end": [
+        "roman-education"
+      ],
+      "military": [
+        "roman-education"
+      ],
+      "contributions": [
+        "roman-education"
+      ],
+      "origin": [
+        "roman-education"
+      ],
+      "periodNote": [
+        "roman-education"
+      ],
+      "capital": [
+        "rome-year-one"
+      ],
+      "economy": [
+        "rome-year-one"
+      ],
+      "decline": [
+        "rome-year-one"
+      ],
+      "currency": [
+        "roman-mint"
+      ],
+      "rulers": [
+        "cicero",
+        "roman-education"
+      ]
+    }
+  },
+  "Roman Empire": {
+    "aliases": [
+      "Imperial Rome"
+    ],
+    "start": -27,
+    "end": 476,
+    "summary": "Rome’s imperial government dominated the Mediterranean world; its eastern continuation survived long after the western imperial office ended.",
+    "capital": "Rome initially; later imperial residences multiplied. Constantinople became a new imperial capital in 330 CE.",
+    "currency": "Gold aureus, silver denarius and bronze denominations in the early empire; later monetary systems changed.",
+    "rulers": "Selected rulers: Augustus, 27 BCE–14 CE; Constantine I, 306–337 CE.",
+    "economy": "Roads and sea routes circulated agricultural produce, people and other commodities across connected Mediterranean provinces.",
+    "military": "Imperial authority rested on extensive military power; conquest joined regions around the Mediterranean under Roman rule.",
+    "contributions": "Connected transport networks, urban architecture and Roman legal traditions shaped later Mediterranean and European societies.",
+    "origin": "Augustus established predominant personal authority after the late Republic’s civil wars.",
+    "decline": "The western emperor Romulus Augustus was deposed in 476; eastern Roman government continued from Constantinople.",
+    "periodNote": "476 CE is a conventional western endpoint. This record overlaps the Byzantine record because Byzantium was the eastern Roman continuation, not an unrelated new civilization.",
+    "sources": [
+      {
+        "id": "roman-world",
+        "title": "The Roman empire in a connected world — Smarthistory",
+        "url": "https://smarthistory.org/reframing-art-history/roman-empire-in-a-connected-world/"
+      },
+      {
+        "id": "byzantium",
+        "title": "Byzantium (c. 330–1453) — The Met",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      },
+      {
+        "id": "imperial-money",
+        "title": "Minted coins — Bank of Italy",
+        "url": "https://www.bancaditalia.it/servizi-cittadino/musei-e-visite/museo-moneta/moneta-coniata/index.html?com.dotmarketing.htmlpage.language=1"
+      },
+      {
+        "id": "augustus-dates",
+        "title": "Consular and Triumphal Capitoline Fasti — Capitoline Museums",
+        "url": "https://www.museicapitolini.org/en/opera/fasti-capitolini-consolari-e-trionfali?page=1"
+      },
+      {
+        "id": "roman-end",
+        "title": "Ancient Rome, an introduction — British Museum / Smarthistory",
+        "url": "https://smarthistory.org/introduction-to-ancient-rome/"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "roman-world"
+      ],
+      "start": [
+        "roman-world"
+      ],
+      "economy": [
+        "roman-world"
+      ],
+      "military": [
+        "roman-world"
+      ],
+      "contributions": [
+        "roman-world"
+      ],
+      "origin": [
+        "roman-world"
+      ],
+      "capital": [
+        "byzantium"
+      ],
+      "decline": [
+        "roman-end"
+      ],
+      "periodNote": [
+        "roman-end"
+      ],
+      "currency": [
+        "imperial-money"
+      ],
+      "rulers": [
+        "augustus-dates",
+        "byzantium"
+      ],
+      "end": [
+        "roman-end"
+      ]
+    }
+  },
+  "Byzantine Empire": {
+    "aliases": [
+      "Eastern Roman Empire",
+      "Byzantium"
+    ],
+    "start": 330,
+    "end": 1453,
+    "summary": "The Roman state centered on Constantinople, whose inhabitants called themselves Romans; its language, territory and institutions changed across more than a millennium.",
+    "capital": "Constantinople, except during the Latin occupation of 1204–1261, when rival Roman successor courts operated elsewhere.",
+    "currency": "Gold solidus in the early Byzantine period; coinage changed substantially over later centuries.",
+    "rulers": "Selected rulers: Constantine I, 306–337; Justinian I, 527–565.",
+    "economy": "Constantinople occupied a major intersection of east–west trade; taxes and army payments used imperial coinage.",
+    "military": "Justinian recovered western territories, but subsequent Persian, Arab, Latin and Turkish advances reduced imperial control.",
+    "contributions": "Preserved and transformed Roman law, Greek learning, Christian architecture, mosaics and manuscript traditions.",
+    "origin": "Constantine inaugurated Constantinople in 330; eastern Roman institutions continued through the collapse of western imperial government.",
+    "decline": "The Fourth Crusade fractured the empire in 1204; after restoration, a diminished state ended with the Ottoman capture of Constantinople in 1453.",
+    "periodNote": "330 is a conventional starting point, not a declaration of a new Byzantine state. The Latin occupation interrupted Constantinople-based rule in 1204–1261.",
+    "sources": [
+      {
+        "id": "byzantium",
+        "title": "Byzantium (c. 330–1453) — The Met",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      },
+      {
+        "id": "solidus",
+        "title": "Gold Solidus of Justinian I — The Met",
+        "url": "https://www.metmuseum.org/art/collection/search/469160"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "byzantium"
+      ],
+      "start": [
+        "byzantium"
+      ],
+      "end": [
+        "byzantium"
+      ],
+      "capital": [
+        "byzantium"
+      ],
+      "military": [
+        "byzantium"
+      ],
+      "contributions": [
+        "byzantium"
+      ],
+      "origin": [
+        "byzantium"
+      ],
+      "decline": [
+        "byzantium"
+      ],
+      "periodNote": [
+        "byzantium"
+      ],
+      "currency": [
+        "solidus"
+      ],
+      "rulers": [
+        "byzantium",
+        "solidus"
+      ],
+      "economy": [
+        "byzantium",
+        "solidus"
+      ]
+    }
+  },
+  "Rashidun Caliphate": {
+    "aliases": [
+      "Rightly Guided Caliphs"
+    ],
+    "start": 632,
+    "end": 661,
+    "summary": "The polity led by the first four caliphs after Muhammad’s death expanded from Arabia into Byzantine and Sasanian territories.",
+    "capital": "Medina initially; Kufa under Ali, who ruled in 656–661.",
+    "currency": null,
+    "rulers": "Selected rulers: Umar ibn al-Khattab, 634–644; Ali ibn Abi Talib, 656–661.",
+    "economy": null,
+    "military": "Arab armies conquered territories including Egypt, Syria and Iraq, taking advantage of weakened Byzantine and Sasanian power.",
+    "contributions": "Established the first caliphal governments outside Arabia and founded Fustat as an administrative center in Egypt.",
+    "origin": "Leadership of the Muslim community passed to caliphs following Muhammad’s death in 632.",
+    "decline": "Civil conflict and Ali’s assassination preceded Muawiya’s establishment of Umayyad dynastic rule in 661.",
+    "periodNote": "The conventional period ends in 661; succession and legitimacy were contested, and “Rightly Guided” is a traditional designation.",
+    "sources": [
+      {
+        "id": "rashidun-egypt",
+        "title": "Rashidun Caliphate — Egypt Ministry of Tourism and Antiquities",
+        "url": "https://egymonuments.gov.eg/en/historical-periods/rashidun-caliphs-dynasty/"
+      },
+      {
+        "id": "umayyad-met",
+        "title": "The Art of the Umayyad Period — The Met",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+      },
+      {
+        "id": "kufa",
+        "title": "Kufa — Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/kufa/"
+      }
+    ],
+    "fieldSources": {
+      "start": [
+        "rashidun-egypt"
+      ],
+      "end": [
+        "rashidun-egypt"
+      ],
+      "capital": [
+        "rashidun-egypt",
+        "kufa"
+      ],
+      "military": [
+        "rashidun-egypt"
+      ],
+      "contributions": [
+        "rashidun-egypt"
+      ],
+      "origin": [
+        "rashidun-egypt"
+      ],
+      "summary": [
+        "umayyad-met"
+      ],
+      "decline": [
+        "umayyad-met"
+      ],
+      "periodNote": [
+        "umayyad-met"
+      ],
+      "rulers": [
+        "rashidun-egypt",
+        "umayyad-met"
+      ]
+    }
+  },
+  "Umayyad Caliphate": {
+    "aliases": [
+      "Damascus Caliphate",
+      "Umayyads"
+    ],
+    "start": 661,
+    "end": 750,
+    "summary": "A dynastic caliphate centered on Damascus that expanded from the Atlantic region to the Indus Valley.",
+    "capital": "Damascus for most of the period; this entry does not include the later Umayyad state in Iberia.",
+    "currency": "Gold dinar and silver dirham, including the epigraphic coinage developed under Abd al-Malik.",
+    "rulers": "Selected rulers: Muawiya I, 661–680; Abd al-Malik, 685–705; al-Walid I, 705–715.",
+    "economy": "Unified coinage and administrative institutions strengthened central rule across diverse provincial economies.",
+    "military": "Successive conquests expanded caliphal territory across North Africa and into Iberia and South Asia.",
+    "contributions": "Arabic administration, reformed coinage and monuments including the Dome of the Rock helped shape early Islamic institutional and artistic traditions.",
+    "origin": "Muawiya established dynastic authority after the first civil war and Ali’s assassination.",
+    "decline": "The Abbasids replaced Umayyad rule in 750; a separate Umayyad dynasty later ruled in Iberia.",
+    "periodNote": "661–750 describes the Damascus-based caliphate, not the later emirate and caliphate of Córdoba.",
+    "sources": [
+      {
+        "id": "umayyad-met",
+        "title": "The Art of the Umayyad Period — The Met",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+      },
+      {
+        "id": "abd-al-malik",
+        "title": "Abd al-Malik ibn Marwan — The Met",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam/blog/characters/posts/abd-al-malik"
+      },
+      {
+        "id": "umayyad-money",
+        "title": "Umayyad coinage — Staatliche Museen zu Berlin",
+        "url": "https://ikmk.smb.museum/object?id=18205131"
+      },
+      {
+        "id": "abbasid-met",
+        "title": "The Art of the Abbasid Period — The Met",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "umayyad-met"
+      ],
+      "start": [
+        "umayyad-met"
+      ],
+      "end": [
+        "umayyad-met"
+      ],
+      "capital": [
+        "umayyad-met"
+      ],
+      "rulers": [
+        "umayyad-met"
+      ],
+      "military": [
+        "umayyad-met"
+      ],
+      "origin": [
+        "umayyad-met"
+      ],
+      "periodNote": [
+        "umayyad-met"
+      ],
+      "currency": [
+        "umayyad-money"
+      ],
+      "economy": [
+        "abd-al-malik"
+      ],
+      "contributions": [
+        "umayyad-met",
+        "abd-al-malik"
+      ],
+      "decline": [
+        "abbasid-met"
+      ]
+    }
+  },
+  "Abbasid Caliphate": {
+    "aliases": [
+      "Abbasids",
+      "Baghdad Caliphate"
+    ],
+    "start": 750,
+    "end": 1258,
+    "summary": "A caliphate centered in Iraq whose initial political empire later fragmented while Abbasid caliphs retained varying degrees of religious and regional authority.",
+    "capital": "Baghdad from 762; Samarra served as the principal capital in 836–892.",
+    "currency": "Gold dinars and silver dirhams; issues varied across periods and mints.",
+    "rulers": "Selected rulers: al-Mansur, 754–775; al-Mutawakkil, 847–861; al-Nasir, 1180–1225.",
+    "economy": "Baghdad and Samarra became important commercial and cultural centers connecting regional economies.",
+    "military": "Al-Mutasim established Samarra to accommodate an army including Turkish slave soldiers; later dynasties exercised much of the caliphate’s effective military authority.",
+    "contributions": "Patronage of scholarship, urban architecture and ceramic techniques had a lasting influence across the Islamic world.",
+    "origin": "The Abbasid dynasty replaced the Umayyads in 750 and shifted the political center from Syria to Iraq.",
+    "decline": "Provincial autonomy and military dynasties eroded central power; Mongol forces sacked Baghdad in 1258.",
+    "periodNote": "1258 ends the Baghdad caliphate. Later Abbasid caliphs in Mamluk Cairo held primarily nominal authority; caliphal claims do not equal continuous territorial control.",
+    "sources": [
+      {
+        "id": "abbasid-met",
+        "title": "The Art of the Abbasid Period — The Met",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+      },
+      {
+        "id": "abbasid-mit",
+        "title": "The Splendors of the Abbasids — MIT OpenCourseWare",
+        "url": "https://ocw.mit.edu/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/pages/lecture-notes/abbasids/"
+      },
+      {
+        "id": "abbasid-dirham",
+        "title": "Abbasid dirham — Staatliche Museen zu Berlin",
+        "url": "https://ikmk.smb.museum/object?id=18285938&lang=en"
+      },
+      {
+        "id": "abbasid-dinar",
+        "title": "Dinar, Abbasid, 944–945 — Smithsonian",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1866043"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "abbasid-met"
+      ],
+      "start": [
+        "abbasid-met"
+      ],
+      "end": [
+        "abbasid-met"
+      ],
+      "capital": [
+        "abbasid-met"
+      ],
+      "economy": [
+        "abbasid-met"
+      ],
+      "contributions": [
+        "abbasid-met"
+      ],
+      "origin": [
+        "abbasid-met"
+      ],
+      "decline": [
+        "abbasid-met"
+      ],
+      "periodNote": [
+        "abbasid-met"
+      ],
+      "rulers": [
+        "abbasid-mit",
+        "abbasid-met"
+      ],
+      "military": [
+        "abbasid-mit"
+      ],
+      "currency": [
+        "abbasid-dirham",
+        "abbasid-dinar"
+      ]
+    }
+  },
+  "Ottoman Empire": {
+    "aliases": [
+      "Ottoman State",
+      "Osmanlı"
+    ],
+    "start": 1299,
+    "end": 1922,
+    "summary": "A dynastic empire originating in northwestern Anatolia that governed diverse societies across southeastern Europe, western Asia and North Africa.",
+    "capital": "Bursa and Edirne preceded Constantinople/Istanbul, the imperial center after its conquest in 1453.",
+    "currency": "Silver akçe and copper coins initially; gold sultani from the late fifteenth century; kuruş and lira systems in later periods.",
+    "rulers": "Selected ruler: Suleiman I, 1520–1566.",
+    "economy": "Agriculture and commercial centers supported imperial society; Bursa’s bazaars and rural foundations illustrate the connection between trade, production and public institutions.",
+    "military": "Under Suleiman, Ottoman forces expanded into southeastern Europe and Iraq while competing with the Habsburg and Safavid states.",
+    "contributions": "Imperial architecture, court arts and legal institutions shaped societies across former Ottoman territories.",
+    "origin": "Osman’s Anatolian principality expanded through warfare and alliances into a territorial state.",
+    "decline": "Territorial losses and defeat in the First World War ended imperial power; the sultanate was abolished before the Turkish republic’s establishment.",
+    "periodNote": "1299 is a conventional foundation date. The sultanate ended in 1922; the republic began in 1923 and the caliphate was abolished in 1924.",
+    "sources": [
+      {
+        "id": "ottoman-ushmm",
+        "title": "The Dissolution of the Ottoman Empire — US Holocaust Memorial Museum",
+        "url": "https://encyclopedia.ushmm.org/content/en/map/the-dissolution-of-the-ottoman-empire-1807-1924"
+      },
+      {
+        "id": "ottoman-met",
+        "title": "Ottoman introduction — The Met",
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-five/chapter-two/introduction"
+      },
+      {
+        "id": "suleiman-met",
+        "title": "The Age of Süleyman the Magnificent — The Met",
+        "url": "https://www.metmuseum.org/essays/the-age-of-suleyman-the-magnificent-r-1520-1566"
+      },
+      {
+        "id": "sultanate-end",
+        "title": "Abolition of the Sultanate — Atatürk Encyclopedia",
+        "url": "https://ataturkansiklopedisi.gov.tr/detay/222/Saltanat%C4%B1n-Kald%C4%B1r%C4%B1lmas%C4%B1"
+      },
+      {
+        "id": "edirne",
+        "title": "Edirne — Türkiye Ministry of Culture and Tourism",
+        "url": "https://kulturportali.gov.tr/turkiye/Edirne/genelbilgiler"
+      },
+      {
+        "id": "bursa",
+        "title": "Bursa and Cumalıkızık — UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1452/"
+      },
+      {
+        "id": "ottoman-money",
+        "title": "History — Turkish State Mint",
+        "url": "https://en.darphane.gov.tr/history/"
+      },
+      {
+        "id": "ottoman-money-late",
+        "title": "2018 Annual Report — Turkish State Mint",
+        "url": "https://ms.hmb.gov.tr/uploads/sites/7/2019/09/Faaliyet_Raporu_2018.pdf"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "ottoman-ushmm"
+      ],
+      "start": [
+        "ottoman-ushmm"
+      ],
+      "origin": [
+        "ottoman-ushmm"
+      ],
+      "decline": [
+        "ottoman-ushmm"
+      ],
+      "capital": [
+        "edirne",
+        "bursa"
+      ],
+      "rulers": [
+        "suleiman-met"
+      ],
+      "military": [
+        "suleiman-met"
+      ],
+      "contributions": [
+        "suleiman-met"
+      ],
+      "periodNote": [
+        "ottoman-ushmm",
+        "sultanate-end"
+      ],
+      "end": [
+        "sultanate-end"
+      ],
+      "economy": [
+        "bursa"
+      ],
+      "currency": [
+        "ottoman-money",
+        "ottoman-money-late"
+      ]
+    }
+  },
+  "Spanish Empire": {
+    "aliases": [
+      "Spanish colonial empire",
+      "Hispanic Monarchy"
+    ],
+    "start": 1492,
+    "end": 1976,
+    "summary": "A composite monarchy and overseas colonial system connecting American, European, African and Asian territories through conquest, settlement and regulated trade.",
+    "capital": "Madrid from 1561; the royal court moved to Valladolid in 1601–1606.",
+    "currency": "Silver peso of eight reales was a major international trade coin; other currencies varied by territory and period.",
+    "rulers": "Selected ruler: Philip II, 1556–1598.",
+    "economy": "American silver, export agriculture and regulated shipping sustained imperial revenues; forced labor and slavery were integral to colonial production.",
+    "military": "Armed Atlantic convoys protected bullion shipments; colonial conquest depended on Spanish forces and Indigenous allies.",
+    "contributions": "Transatlantic and transpacific routes connected world trade; colonial rule also caused dispossession, coerced labor and profound demographic loss.",
+    "origin": "Crown-sponsored Atlantic voyages and conquest established American colonies, followed by expansion across the Pacific.",
+    "decline": "American independence movements dismantled most mainland rule; later decolonization reduced overseas possessions, including Spain’s withdrawal from Western Sahara in 1976.",
+    "periodNote": "1492–1976 is an overseas-imperial convention. The final date marks Spain’s withdrawal from Western Sahara, whose status remained unresolved; it is not a universal endpoint for all Spanish overseas possessions.",
+    "sources": [
+      {
+        "id": "spain-economy",
+        "title": "Colonial economy — Spain Ministry of Culture",
+        "url": "https://www.cultura.gob.es/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/imperio-espanol/economia.html"
+      },
+      {
+        "id": "silver-oxford",
+        "title": "Silver Trade and Transportation in the Spanish Atlantic — Oxford Research Encyclopedia",
+        "url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546351279"
+      },
+      {
+        "id": "philip-ii",
+        "title": "Madrid de los Austrias — Madrid City Council",
+        "url": "https://sede.madrid.es/UnidadesDescentralizadas/EducacionyJuventud/ActividadesEducativasComplementarias/MadridUnLibroAbierto/BibliotecaDigital/ficheros/H14MadridDeLosAustrias.pdf"
+      },
+      {
+        "id": "crossroads",
+        "title": "Crossroads: Empires and Emporia — The Met",
+        "url": "https://www.metmuseum.org/exhibitions/crossroads/empires-and-emporia"
+      },
+      {
+        "id": "spain-conquest",
+        "title": "Conquest of America — Spain Ministry of Culture",
+        "url": "https://www.cultura.gob.es/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/imperio-espanol/conquista-de-america.html"
+      },
+      {
+        "id": "western-sahara",
+        "title": "Western Sahara — United Nations and Decolonization",
+        "url": "https://www.un.org/dppa/decolonization/en/nsgt/western-sahara"
+      },
+      {
+        "id": "mexico-met",
+        "title": "Mexico, 1400–1600 — The Met",
+        "url": "https://www.metmuseum.org/toah/ht/08/canm.html"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "spain-economy",
+        "crossroads"
+      ],
+      "start": [
+        "spain-conquest"
+      ],
+      "end": [
+        "western-sahara"
+      ],
+      "capital": [
+        "philip-ii"
+      ],
+      "currency": [
+        "silver-oxford"
+      ],
+      "rulers": [
+        "philip-ii"
+      ],
+      "economy": [
+        "spain-economy"
+      ],
+      "military": [
+        "silver-oxford",
+        "mexico-met"
+      ],
+      "contributions": [
+        "crossroads",
+        "mexico-met"
+      ],
+      "origin": [
+        "spain-conquest",
+        "crossroads"
+      ],
+      "decline": [
+        "silver-oxford",
+        "western-sahara"
+      ],
+      "periodNote": [
+        "spain-conquest",
+        "western-sahara"
+      ]
+    }
+  },
+  "Portuguese Empire": {
+    "aliases": [
+      "Portuguese colonial empire"
+    ],
+    "start": 1415,
+    "end": 1999,
+    "summary": "A changing network of colonies, trading posts and maritime routes spanning Africa, Asia and the Americas under Portuguese rule.",
+    "capital": "Lisbon for most of the period; Rio de Janeiro replaced it as the imperial capital in 1808–1821.",
+    "currency": "Real in metropolitan Portugal, replaced by the escudo in 1911; colonial currencies differed by territory.",
+    "rulers": "Selected ruler: Manuel I, 1495–1521.",
+    "economy": "Maritime commerce, African gold, plantation production and the slave trade supported imperial connections; slavery was central to Portuguese America.",
+    "military": "Fortified trading posts and overseas conquests supported maritime expansion; military capacity and control varied sharply between territories.",
+    "contributions": "Oceanic routes linked previously separate trading systems and generated lasting cultural exchanges alongside slavery and colonial violence.",
+    "origin": "The conquest of Ceuta in 1415 preceded Atlantic expansion and the establishment of overseas settlements and trading posts.",
+    "decline": "Decolonization accelerated after the 1974 revolution; Portugal recognized African colonial independence in 1974–1975 and ended its administration of Macao in 1999.",
+    "periodNote": "1415 marks Ceuta’s conquest; 1999 marks the Macao handover. This umbrella record spans different regimes and does not imply uniformly controlled territory.",
+    "sources": [
+      {
+        "id": "portugal-cambridge",
+        "title": "Portuguese Oceanic Expansion, 1400–1800 — Cambridge University Press",
+        "url": "https://assets.cambridge.org/97805218/46448/excerpt/9780521846448_excerpt.pdf"
+      },
+      {
+        "id": "portugal-oxford",
+        "title": "The Portuguese Empire (1415–1822) — Oxford World History of Empire",
+        "url": "https://academic.oup.com/book/39071/chapter-abstract/338396805"
+      },
+      {
+        "id": "manuel-money",
+        "title": "Money Museum guide — Banco de Portugal",
+        "url": "https://www.museudodinheiro.pt/sites/default/files/2022-05/GuiaRoteiro_net_Actual%20abril%202020_compressed.pdf"
+      },
+      {
+        "id": "escudo",
+        "title": "The escudo replaced the real — Banco de Portugal archive",
+        "url": "https://www.bportugal.pt/sites/default/files/anexos/documentos-relacionados/ft0098_d100419_h120803-0098-cai-200912-cai_1.pdf"
+      },
+      {
+        "id": "portugal-democracy",
+        "title": "Construction of Democracy (1974–1976) — Portuguese Parliament",
+        "url": "https://www.parlamento.pt/Parlamento/Paginas/construcao-democracia_1974-1976.aspx"
+      },
+      {
+        "id": "macao-un",
+        "title": "Multilateral Treaties deposited with the Secretary-General, 1999 — United Nations",
+        "url": "https://treaties.un.org/doc/source/publications/MTDSG/1999-english-vol.1.pdf"
+      },
+      {
+        "id": "portugal-capital",
+        "title": "Paradoxes of modernity: imperial Rio de Janeiro, 1808–1821 — Geoforum",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0016718501000124"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "portugal-oxford"
+      ],
+      "start": [
+        "portugal-cambridge"
+      ],
+      "end": [
+        "macao-un"
+      ],
+      "currency": [
+        "escudo"
+      ],
+      "rulers": [
+        "manuel-money"
+      ],
+      "economy": [
+        "portugal-oxford",
+        "manuel-money"
+      ],
+      "military": [
+        "portugal-cambridge"
+      ],
+      "contributions": [
+        "portugal-oxford"
+      ],
+      "origin": [
+        "portugal-cambridge"
+      ],
+      "decline": [
+        "portugal-democracy",
+        "macao-un"
+      ],
+      "periodNote": [
+        "portugal-cambridge",
+        "macao-un"
+      ],
+      "capital": [
+        "portugal-capital"
+      ]
+    }
+  },
+  "British Empire": {
+    "aliases": [
+      "British colonial empire",
+      "English overseas empire"
+    ],
+    "start": 1607,
+    "end": 1997,
+    "summary": "A changing system of British colonies, protectorates, dominions and other dependencies, governed through different degrees of direct and indirect control.",
+    "capital": "London, the metropolitan center of imperial government.",
+    "currency": "Pound sterling and numerous territorial currencies; imperial territories did not share one uniform monetary system.",
+    "rulers": "Selected monarch: Victoria, 1837–1901; policy was also directed by ministers, Parliament and colonial administrations.",
+    "economy": "Imperial commerce and colonial resources supported industrial growth; exploitation and coercion shaped the distribution of economic benefits.",
+    "military": "British forces and colonial armies secured territories and trade routes; losing access to the Indian Army weakened Britain’s global military capacity after 1947.",
+    "contributions": null,
+    "origin": "Merchant charters, Atlantic settlement and overseas conquest produced an expanding imperial system; Jamestown became a permanent English settlement in 1607.",
+    "decline": "Independence movements and postwar political change dismantled most colonial rule; Hong Kong’s transfer to China in 1997 became a symbolic endpoint.",
+    "periodNote": "1607 begins this overseas-settlement convention; 1997 is a symbolic endpoint. Earlier English expansion preceded it, and British Overseas Territories remained afterward.",
+    "sources": [
+      {
+        "id": "british-hrp",
+        "title": "Queen Victoria’s role in the British Empire — Historic Royal Palaces",
+        "url": "https://www.hrp.org.uk/kensington-palace/history-and-stories/queen-victorias-role-in-the-british-empire/"
+      },
+      {
+        "id": "jamestown",
+        "title": "A Short History of Jamestown — US National Park Service",
+        "url": "https://www.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm"
+      },
+      {
+        "id": "india-independence",
+        "title": "Independence and Partition, 1947 — National Army Museum",
+        "url": "https://www.nam.ac.uk/explore/independence-and-partition-1947"
+      },
+      {
+        "id": "hong-kong",
+        "title": "Hong Kong and the Opium Wars — UK National Archives",
+        "url": "https://cdn.nationalarchives.gov.uk/documents/hong-kong-and-the-opium-wars.pdf"
+      },
+      {
+        "id": "victoria",
+        "title": "Victoria (r. 1837–1901) — Royal Household",
+        "url": "https://www.royal.uk/queen-victoria"
+      },
+      {
+        "id": "sterling",
+        "title": "Exchange control history, 1939–1945 — Bank of England",
+        "url": "https://www.bankofengland.co.uk/-/media/boe/files/archive/ww/boe-1939-1945-partii-chapterii.pdf"
+      },
+      {
+        "id": "commonwealth",
+        "title": "Our history — Commonwealth Secretariat",
+        "url": "https://thecommonwealth.org/history"
+      },
+      {
+        "id": "london",
+        "title": "What was life like in Victorian London? — London Museum",
+        "url": "https://www.londonmuseum.org.uk/collections/london-stories/life-in-victorian-london/"
+      },
+      {
+        "id": "overseas-territories",
+        "title": "2010 to 2015 government policy: UK Overseas Territories — UK Government",
+        "url": "https://www.gov.uk/government/publications/2010-to-2015-government-policy-uk-overseas-territories/2010-to-2015-government-policy-uk-overseas-territories"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "british-hrp",
+        "commonwealth"
+      ],
+      "start": [
+        "jamestown"
+      ],
+      "end": [
+        "hong-kong"
+      ],
+      "currency": [
+        "sterling"
+      ],
+      "rulers": [
+        "victoria"
+      ],
+      "economy": [
+        "british-hrp"
+      ],
+      "military": [
+        "india-independence"
+      ],
+      "origin": [
+        "british-hrp",
+        "jamestown"
+      ],
+      "decline": [
+        "india-independence",
+        "hong-kong"
+      ],
+      "periodNote": [
+        "hong-kong",
+        "british-hrp",
+        "overseas-territories"
+      ],
+      "capital": [
+        "london"
+      ]
+    }
+  },
+  "French Colonial Empire": {
+    "aliases": [
+      "French colonial empire",
+      "French overseas empire"
+    ],
+    "start": 1534,
+    "end": 1980,
+    "summary": "French colonies, protectorates and mandated territories formed through distinct waves of overseas expansion, with different systems of administration and citizenship.",
+    "capital": "Paris; Versailles was the principal royal seat of government from 1682 to 1789, with interruptions.",
+    "currency": "Currencies varied across territories; the CFA and CFP francs were created in 1945 within the colonial monetary system.",
+    "rulers": "Selected monarch: Louis XIV, 1643–1715. Later colonial rule continued under other monarchies and republics.",
+    "economy": "Caribbean plantation exports relied on enslaved labor; other territories supplied commodities and trading bases under changing colonial economic arrangements.",
+    "military": "French armed forces conducted colonial conquests, including Algeria from 1830 and extensive African campaigns during the late nineteenth century.",
+    "contributions": "Colonial encounters produced enduring cultural and linguistic exchanges while imposed rule and slavery reshaped colonized societies.",
+    "origin": "Commercial ventures, strategic rivalry and missionary objectives developed into state-directed overseas colonization.",
+    "decline": "Wars, independence movements and decolonization dismantled most imperial rule; Vanuatu’s independence ended the Anglo-French condominium in 1980.",
+    "periodNote": "1534 marks Cartier’s first voyage; 1980 marks Vanuatu’s independence, not the disappearance of French overseas territories. First and second colonial empires are often studied separately.",
+    "sources": [
+      {
+        "id": "french-bnf",
+        "title": "Politics: the first French colonial empire — Bibliothèque nationale de France",
+        "url": "https://heritage.bnf.fr/france-ameriques/en/politics-0"
+      },
+      {
+        "id": "cartier-bnf",
+        "title": "Jacques Cartier (1534–1542) — Bibliothèque nationale de France",
+        "url": "https://heritage.bnf.fr/france-ameriques/jacques-cartier-1534-1542"
+      },
+      {
+        "id": "french-archives",
+        "title": "The French colonial empire — Gard Departmental Archives",
+        "url": "https://archives.gard.fr/transmettre/pour-memoire/chroniques-passees/lempire-colonial-francais.html"
+      },
+      {
+        "id": "french-army",
+        "title": "The French Army and the second colonial empire — Ministry of Armed Forces",
+        "url": "https://www.cheminsdememoire.gouv.fr/sites/default/files/2020-08/L%E2%80%99Arm%C3%A9e%20fran%C3%A7aise%20et%20la%20constitution%20du%20%C2%AB%20second%20empire%20colonial%20%C2%BB%20%281971-1914%29.pdf"
+      },
+      {
+        "id": "versailles",
+        "title": "Key Dates — Palace of Versailles",
+        "url": "https://en.chateauversailles.fr/discover/history/key-dates"
+      },
+      {
+        "id": "franc-zone",
+        "title": "The franc zone from 1939 — French Treasury",
+        "url": "https://www.tresor.economie.gouv.fr/tresor-international/la-zone-franc/la-zone-franc-de-1939-a-aujourd-hui"
+      },
+      {
+        "id": "vanuatu",
+        "title": "Vanuatu — US Office of the Historian",
+        "url": "https://history.state.gov/countries/vanuatu"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "french-archives"
+      ],
+      "start": [
+        "cartier-bnf"
+      ],
+      "end": [
+        "vanuatu"
+      ],
+      "capital": [
+        "versailles"
+      ],
+      "currency": [
+        "franc-zone"
+      ],
+      "rulers": [
+        "versailles"
+      ],
+      "economy": [
+        "french-bnf",
+        "french-archives"
+      ],
+      "military": [
+        "french-army"
+      ],
+      "contributions": [
+        "french-bnf"
+      ],
+      "origin": [
+        "french-bnf"
+      ],
+      "decline": [
+        "french-archives",
+        "vanuatu"
+      ],
+      "periodNote": [
+        "cartier-bnf",
+        "vanuatu",
+        "french-archives"
+      ]
+    }
+  },
+  "Holy Roman Empire": {
+    "aliases": [
+      "Holy Roman Empire of the German Nation",
+      "HRE"
+    ],
+    "start": 962,
+    "end": 1806,
+    "summary": "An elective imperial framework joining a changing collection of kingdoms, principalities, ecclesiastical territories and cities in central Europe.",
+    "capital": null,
+    "currency": null,
+    "rulers": "Selected ruler: Francis II, emperor 1792–1806.",
+    "economy": null,
+    "military": "Imperial estates contributed troops or money under negotiated obligations; imperial defense depended on cooperation among territorial rulers.",
+    "contributions": "Imperial institutions provided a durable framework for political negotiation and legal order across fragmented central Europe.",
+    "origin": "Otto I’s imperial coronation in Rome in 962 joined German royal power to renewed claims of Roman imperial authority.",
+    "decline": "Napoleonic victories and political reorganization preceded Francis II’s abdication and dissolution of the empire in 1806.",
+    "periodNote": "962 follows the conventional chronology used by the German Historical Museum, beginning with Otto I’s imperial coronation. It describes this empire, rather than all earlier claims to Roman imperial succession.",
+    "sources": [
+      {
+        "id": "hre-dhm",
+        "title": "Holy Roman Empire of the German Nation: 962–1806 — German Historical Museum",
+        "url": "https://www.dhm.de/publikation/heiliges-roemisches-reich-deutscher-nation-962-1806/"
+      },
+      {
+        "id": "habsburg-empire",
+        "title": "The Habsburgs and the Empire — World of the Habsburgs",
+        "url": "https://www.habsburger.net/en/chapter/house-austria-habsburgs-and-empire"
+      },
+      {
+        "id": "francis-ii",
+        "title": "Franz II (I) — World of the Habsburgs",
+        "url": "https://www.habsburger.net/en/persons/habsburg-emperor/franz-ii-i"
+      },
+      {
+        "id": "hre-abdication",
+        "title": "Francis II’s abdication declaration — German History in Documents and Images",
+        "url": "https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/declaration-of-his-majesty-the-emperor-francis-ii-whereby-he-abdicates-the-german-imperial-throne-and-the-imperial-government"
+      },
+      {
+        "id": "hre-defense",
+        "title": "Paying for Protection: Defence Finance and Collective Action — German History",
+        "url": "https://academic.oup.com/gh/advance-article/doi/10.1093/gerhis/ghag036/8998760"
+      },
+      {
+        "id": "otto-coronation",
+        "title": "The Imperial Coronation of Otto I, 962 — University of Chicago, Source Book for Medieval History",
+        "url": "https://storage.lib.uchicago.edu/pres/2007/pres2007-0451.pdf"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "hre-dhm",
+        "habsburg-empire"
+      ],
+      "start": [
+        "hre-dhm"
+      ],
+      "end": [
+        "francis-ii"
+      ],
+      "rulers": [
+        "francis-ii"
+      ],
+      "military": [
+        "hre-defense"
+      ],
+      "contributions": [
+        "hre-dhm"
+      ],
+      "decline": [
+        "hre-abdication"
+      ],
+      "periodNote": [
+        "hre-dhm",
+        "otto-coronation"
+      ],
+      "origin": [
+        "otto-coronation"
+      ]
+    }
+  },
+  "Russian Empire": {
+    "aliases": [
+      "Imperial Russia",
+      "Rossijskaja Imperija"
+    ],
+    "start": 1721,
+    "end": 1917,
+    "summary": "The Russian monarchy after adoption of the imperial title, expanding and governing territories across Europe, the Caucasus and northern and central Asia.",
+    "capital": "Saint Petersburg for most of the imperial period.",
+    "currency": "Ruble, divided into 100 kopeks after Peter I’s monetary reforms.",
+    "rulers": "Selected rulers: Peter I, emperor 1721–1725; Catherine II, 1762–1796.",
+    "economy": "Peter’s military reforms stimulated industry and reorganized fiscal administration; economic conditions changed substantially over the empire’s two centuries.",
+    "military": "The Great Northern War drove army reform and Baltic expansion; subsequent rulers pursued further territorial enlargement.",
+    "contributions": "Imperial patronage developed major artistic collections and institutions, notably Catherine II’s collection that became the Hermitage.",
+    "origin": "Peter adopted the imperial title after victory in the Great Northern War in 1721.",
+    "decline": "The 1917 revolution overthrew the monarchy, ending imperial government and initiating contested successor regimes.",
+    "periodNote": "1721 marks adoption of the imperial title, not the beginning of the Russian state. Monarchical rule ended in March 1917.",
+    "sources": [
+      {
+        "id": "peter-museum",
+        "title": "Emperor Peter I — Tsarskoe Selo State Museum",
+        "url": "https://tzar.ru/en/objects/history/peterthegreat"
+      },
+      {
+        "id": "russia-va",
+        "title": "Magnificence of the Tsars, 1721–1917 — Victoria and Albert Museum",
+        "url": "https://media.vam.ac.uk/media/documents/legacy_documents/file_upload/50240_file.pdf"
+      },
+      {
+        "id": "petersburg-met",
+        "title": "Saint Petersburg — The Met",
+        "url": "https://www.metmuseum.org/essays/saint-petersburg"
+      },
+      {
+        "id": "ruble",
+        "title": "Russian ruble: milestones — Bank of Russia Museum",
+        "url": "https://museum.cbr.ru/online-exhibitions/museum/en/index.html"
+      },
+      {
+        "id": "catherine-coin",
+        "title": "Early modern gold coins — Deutsche Bundesbank",
+        "url": "https://www.bundesbank.de/resource/blob/607670/b52f7cb474e019a94f14ac3f768c99a2/472B63F073F071307366337C94F8C870/early-modern-gold-coins-data.pdf"
+      },
+      {
+        "id": "soviet-loc",
+        "title": "Soviet Union: A Country Study — Library of Congress",
+        "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/so/sovietunioncount00zick/sovietunioncount00zick.pdf"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "russia-va",
+        "soviet-loc"
+      ],
+      "start": [
+        "peter-museum"
+      ],
+      "end": [
+        "russia-va",
+        "soviet-loc"
+      ],
+      "capital": [
+        "petersburg-met",
+        "soviet-loc"
+      ],
+      "currency": [
+        "ruble"
+      ],
+      "rulers": [
+        "peter-museum",
+        "catherine-coin"
+      ],
+      "economy": [
+        "peter-museum"
+      ],
+      "military": [
+        "peter-museum",
+        "petersburg-met"
+      ],
+      "contributions": [
+        "petersburg-met"
+      ],
+      "origin": [
+        "peter-museum"
+      ],
+      "decline": [
+        "soviet-loc"
+      ],
+      "periodNote": [
+        "peter-museum",
+        "soviet-loc"
+      ]
+    }
+  },
+  "Soviet Union": {
+    "aliases": [
+      "USSR",
+      "Union of Soviet Socialist Republics"
+    ],
+    "start": 1922,
+    "end": 1991,
+    "summary": "A formally federal socialist state governed by the Communist Party that became a major industrial, military and diplomatic power.",
+    "capital": "Moscow.",
+    "currency": "Soviet ruble; chervonets-denominated banknotes also circulated before the 1947 monetary reform.",
+    "rulers": "Selected leader: Mikhail Gorbachev, 1985–1991; Communist Party general secretary until August 1991 and USSR president until December 1991.",
+    "economy": "State ownership and central planning dominated much of its history; forced industrialization and collectivization transformed production at enormous human cost.",
+    "military": "A nuclear superpower with large conventional forces, competing with the United States during the Cold War.",
+    "contributions": "Launched the first artificial satellite, Sputnik 1, in 1957 and the first human into space, Yuri Gagarin, in 1961.",
+    "origin": "Bolshevik victory in civil war preceded the union of Russia, Ukraine, Belarus and the Transcaucasian federation in December 1922.",
+    "decline": "Economic crisis, political reforms, republican independence movements and the failed August 1991 coup culminated in dissolution.",
+    "periodNote": "1922 marks formation of the USSR, distinct from the Bolshevik seizure of power in 1917. It dissolved in December 1991; it was formally a union, not a monarchy.",
+    "sources": [
+      {
+        "id": "ussr-treaty",
+        "title": "Treaty on the Creation of the Soviet Union — Library of Congress",
+        "url": "https://blogs.loc.gov/law/2013/01/treaty-on-the-creation-of-the-soviet-union-signed-sealed-and-delivered/"
+      },
+      {
+        "id": "ussr-internal",
+        "title": "Internal Workings of the Soviet Union — Library of Congress",
+        "url": "https://www.loc.gov/exhibits/archives/intn.html"
+      },
+      {
+        "id": "ussr-study",
+        "title": "Soviet Union: A Country Study — Library of Congress",
+        "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/so/sovietunioncount00zick/sovietunioncount00zick.pdf"
+      },
+      {
+        "id": "ussr-collapse",
+        "title": "The Collapse of the Soviet Union — US Office of the Historian",
+        "url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union"
+      },
+      {
+        "id": "sputnik",
+        "title": "Sputnik and the Dawn of the Space Age — NASA",
+        "url": "https://www.nasa.gov/wp-content/uploads/static/history/sputnik.html"
+      },
+      {
+        "id": "gagarin",
+        "title": "Man Enters Space — NASA",
+        "url": "https://science.nasa.gov/image-article/apod-1996-april-12-man-enters-space/"
+      },
+      {
+        "id": "ussr-money",
+        "title": "Money circulation in the Soviet era — Central Bank of Armenia",
+        "url": "https://www.cba.am/en/money-circulation-in-soviet-era"
+      },
+      {
+        "id": "gorbachev",
+        "title": "Mikhail Gorbachev: Biographical — Nobel Prize",
+        "url": "https://www.nobelprize.org/prizes/peace/1990/gorbachev/biographical/"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "ussr-study"
+      ],
+      "start": [
+        "ussr-treaty"
+      ],
+      "end": [
+        "ussr-collapse"
+      ],
+      "capital": [
+        "ussr-study"
+      ],
+      "economy": [
+        "ussr-internal"
+      ],
+      "military": [
+        "ussr-collapse"
+      ],
+      "contributions": [
+        "sputnik",
+        "gagarin"
+      ],
+      "origin": [
+        "ussr-study",
+        "ussr-treaty"
+      ],
+      "decline": [
+        "ussr-collapse"
+      ],
+      "periodNote": [
+        "ussr-treaty",
+        "ussr-collapse"
+      ],
+      "currency": [
+        "ussr-money"
+      ],
+      "rulers": [
+        "gorbachev"
+      ]
+    }
+  },
+  "Aztec Empire": {
+    "aliases": [
+      "Mexica Empire",
+      "Triple Alliance"
+    ],
+    "start": 1428,
+    "end": 1521,
+    "summary": "A tributary alliance led by Tenochtitlan that dominated much of central and southern Mexico while many subject communities retained local rulers.",
+    "capital": "Tenochtitlan was the dominant center; Texcoco and Tlacopan were the other Triple Alliance partners.",
+    "currency": "Cacao beans served as a medium of exchange; they were not a standardized minted coinage.",
+    "rulers": "Selected rulers of Tenochtitlan: Motecuhzoma I, 1440–1469; Ahuitzotl, 1486–1502; Motecuhzoma II, 1502–1520.",
+    "economy": "Tribute, agriculture and interregional trade supplied the capital with staples, labor and luxury goods.",
+    "military": "Conquest armies expanded tribute obligations, but independent rivals, including Tlaxcala and the Tarascan state, resisted imperial domination.",
+    "contributions": "Monumental sculpture, urban ceremonial architecture and specialized crafts developed within a densely connected tributary society.",
+    "origin": "Tenochtitlan allied with Texcoco and Tlacopan to defeat Azcapotzalco and establish regional dominance.",
+    "decline": "Spanish forces and Indigenous allies, including Tlaxcala, conquered Tenochtitlan in 1521; disease and colonial exploitation devastated populations.",
+    "periodNote": "The Triple Alliance is commonly dated 1428; The Met gives approximately 1427. The earlier city-state and the imperial alliance have different starting dates.",
+    "sources": [
+      {
+        "id": "aztec-met",
+        "title": "Mexico, 1400–1600 — The Met",
+        "url": "https://www.metmuseum.org/toah/ht/08/canm.html"
+      },
+      {
+        "id": "cacao-smithsonian",
+        "title": "Cocoa Beans — Smithsonian National Museum of American History",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1068722"
+      },
+      {
+        "id": "mexico-inah",
+        "title": "México: Grandeza y Diversidad — Instituto Nacional de Antropología e Historia",
+        "url": "https://mediateca.inah.gob.mx/islandora_74/islandora/object/libro%3A843/datastream/OBJ/view"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "aztec-met"
+      ],
+      "start": [
+        "mexico-inah"
+      ],
+      "end": [
+        "aztec-met"
+      ],
+      "capital": [
+        "aztec-met"
+      ],
+      "rulers": [
+        "aztec-met"
+      ],
+      "economy": [
+        "aztec-met"
+      ],
+      "military": [
+        "aztec-met"
+      ],
+      "contributions": [
+        "aztec-met"
+      ],
+      "origin": [
+        "aztec-met"
+      ],
+      "decline": [
+        "aztec-met"
+      ],
+      "periodNote": [
+        "aztec-met",
+        "mexico-inah"
+      ],
+      "currency": [
+        "cacao-smithsonian"
+      ]
+    }
+  },
+  "Inca Empire": {
+    "aliases": [
+      "Inka Empire",
+      "Tawantinsuyu",
+      "Tahuantinsuyu"
+    ],
+    "start": 1438,
+    "end": 1533,
+    "summary": "An Andean imperial state centered on Cusco that integrated diverse communities through administration, labor obligations, roads and regional redistribution.",
+    "capital": "Cusco.",
+    "currency": "No widespread coined currency; state obligations were principally organized around labor.",
+    "rulers": "Selected ruler: Pachakuti, conventionally c. 1438–1471; early Inca reign dates are reconstructed from later accounts.",
+    "economy": "Households supplied labor taxes; agricultural production, storage and redistribution supported state projects and armies.",
+    "military": "Inca rulers conquered neighboring territories from the fifteenth century, integrating extensive Andean regions.",
+    "contributions": "An extensive road network and sophisticated water engineering connected and sustained communities across difficult Andean terrain.",
+    "origin": "A Cusco-based kingdom began large-scale territorial expansion under Pachakuti around 1438.",
+    "decline": "Epidemics and succession war weakened imperial authority before Spanish invasion, Atahualpa’s capture and execution, and the occupation of Cusco.",
+    "periodNote": "1438 marks imperial expansion; 1533 marks the conquest phase that ended the main imperial government. A successor Inca state at Vilcabamba resisted until 1572.",
+    "sources": [
+      {
+        "id": "inka-smithsonian",
+        "title": "Inka Road History Timeline — Smithsonian National Museum of the American Indian",
+        "url": "https://americanindian.si.edu/nk360/inka-water/timeline/timeline"
+      },
+      {
+        "id": "inca-met",
+        "title": "Central and Southern Andes, 1400–1600 — The Met",
+        "url": "https://www.metmuseum.org/toah/ht/08/sanc.html"
+      },
+      {
+        "id": "inka-yale",
+        "title": "Inka summary — Yale Human Relations Area Files",
+        "url": "https://ehrafarchaeology.yale.edu/traditions/se80/summary"
+      },
+      {
+        "id": "inca-economy",
+        "title": "Labor and Power in the Incan Economy — Michigan Journal of Economics",
+        "url": "https://sites.lsa.umich.edu/mje/2022/12/19/labor-and-power-in-the-incan-economy/"
+      },
+      {
+        "id": "vilcabamba",
+        "title": "Vilcabamba and the Archaeology of Inca Resistance — Smithsonian Libraries record",
+        "url": "https://www.si.edu/object/vilcabamba-and-archaeology-inca-resistance-brian-s-bauer-javier-fonseca-santa-cruz-miriam-araoz%3Asiris_sil_1062614"
+      }
+    ],
+    "fieldSources": {
+      "summary": [
+        "inka-smithsonian",
+        "inka-yale"
+      ],
+      "start": [
+        "inka-smithsonian"
+      ],
+      "end": [
+        "inka-smithsonian",
+        "inca-met"
+      ],
+      "capital": [
+        "inka-smithsonian"
+      ],
+      "currency": [
+        "inca-economy"
+      ],
+      "economy": [
+        "inka-yale",
+        "inca-economy"
+      ],
+      "military": [
+        "inka-smithsonian"
+      ],
+      "contributions": [
+        "inka-smithsonian"
+      ],
+      "origin": [
+        "inca-met"
+      ],
+      "decline": [
+        "inka-smithsonian",
+        "inca-met"
+      ],
+      "periodNote": [
+        "inka-smithsonian",
+        "inca-met",
+        "vilcabamba"
+      ],
+      "rulers": [
+        "inca-met"
+      ]
+    }
+  }
+}

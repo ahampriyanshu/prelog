@@ -1,0 +1,618 @@
+[
+  {
+    "id": "hamas",
+    "name": "Hamas",
+    "type": "non-state",
+    "start": 1987,
+    "end": null,
+    "asOf": "2025-10-06",
+    "summary": "Palestinian Islamist political and armed movement. It took control of Gaza in 2007 and led the 7 October 2023 attacks against Israel.",
+    "capital": "No sovereign capital.",
+    "currency": null,
+    "rulers": null,
+    "economy": "Funding has included external support, donations and revenues collected under its Gaza administration.",
+    "military": "Political organization with an armed wing, the Izz al-Din al-Qassam Brigades.",
+    "contributions": null,
+    "origin": "Founded in Gaza during the first intifada, emerging from the Palestinian Muslim Brotherhood.",
+    "decline": "Severe leadership and military losses during the war beginning in 2023; the organization persisted as of the source date.",
+    "recognition": "A non-state movement, distinct from the State of Palestine. Designated a terrorist organization by the United States and several other governments.",
+    "sources": [
+      {
+        "title": "CFR: What Is Hamas?",
+        "url": "https://www.cfr.org/backgrounders/what-hamas",
+        "date": "2025-10-06"
+      },
+      {
+        "title": "CRS: Hamas: Background, Current Status, and U.S. Policy",
+        "url": "https://www.everycrsreport.com/reports/IF12549.html",
+        "date": "2024-10-23"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied"
+  },
+  {
+    "id": "houthis",
+    "name": "Houthis / Ansar Allah",
+    "type": "non-state",
+    "start": 2004,
+    "end": null,
+    "asOf": "2026-02-20",
+    "summary": "Yemeni political and armed movement rooted in Zaydi revivalism. It seized Sana’a in 2014 and remains a principal party to Yemen’s unresolved war.",
+    "capital": "No sovereign capital; Sana’a is the principal seat of its de facto administration.",
+    "currency": null,
+    "rulers": null,
+    "economy": null,
+    "military": "Armed movement with de facto governing institutions; receives support from Iran.",
+    "contributions": null,
+    "origin": "Grew from a northern Yemeni Zaydi movement into an insurgency against the central government.",
+    "decline": "Ongoing as of 2026-02-20.",
+    "recognition": "Distinct from Yemen’s internationally recognized government. The United States redesignated it a Foreign Terrorist Organization in March 2025.",
+    "sources": [
+      {
+        "title": "CRS: Yemen: Conflict, Red Sea Security, and U.S. Policy",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12581/IF12581.17.pdf",
+        "date": "2026-02-20"
+      },
+      {
+        "title": "US Treasury: Sanctions on instigators of the violent takeover of Yemen",
+        "url": "https://home.treasury.gov/news/press-releases/jl10021",
+        "date": "2015-04-14"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied",
+    "startBasis": "2004 marks the armed insurgency; the movement has earlier religious and political roots."
+  },
+  {
+    "id": "al-qaeda",
+    "name": "Al-Qaeda",
+    "type": "non-state",
+    "start": 1988,
+    "end": null,
+    "asOf": "2026-02-04",
+    "summary": "Transnational jihadist terrorist network established by Osama bin Laden, responsible for the 11 September 2001 attacks and sustained through regional affiliates.",
+    "capital": "No sovereign capital.",
+    "currency": null,
+    "rulers": null,
+    "economy": null,
+    "military": "Decentralized terrorist network with regional affiliates.",
+    "contributions": null,
+    "origin": "Formed from foreign veterans and support networks of the anti-Soviet war in Afghanistan.",
+    "decline": "Central leadership weakened by counterterrorism campaigns; affiliates remained active in the UN’s February 2026 assessment.",
+    "recognition": "Subject to the UN ISIL and Al-Qaida sanctions regime; not a state.",
+    "sources": [
+      {
+        "title": "CRS: Al Qaeda: Background, Current Status, and U.S. Policy",
+        "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF11854.web.html",
+        "date": "2024-05-06"
+      },
+      {
+        "title": "UN Security Council: Thirty-seventh ISIL and Al-Qaida monitoring report, S/2026/44",
+        "url": "https://afghanmission-un.org/wp-content/uploads/2026/03/37th-Report.pdf",
+        "date": "2026-02-04"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied",
+    "sourceCutoff": "The UN report considered information received through 2025-12-15."
+  },
+  {
+    "id": "isis",
+    "name": "Islamic State / ISIS",
+    "type": "non-state",
+    "start": 2004,
+    "end": null,
+    "asOf": "2026-02-04",
+    "summary": "Jihadist terrorist organization originating in al-Qaeda in Iraq. Its self-declared caliphate lost its final territorial stronghold in 2019; insurgent networks and affiliates persisted.",
+    "capital": "No sovereign capital; Raqqa served as a de facto administrative centre during its territorial rule.",
+    "currency": null,
+    "rulers": null,
+    "economy": null,
+    "military": "Insurgent and terrorist organization with regional affiliates.",
+    "contributions": null,
+    "origin": "Developed from Zarqawi’s Iraq-based organization amid war in Iraq, later expanding during Syria’s civil war.",
+    "decline": "Coalition and local forces dismantled its territorial rule in Iraq and Syria by 2019; the organization continued afterward.",
+    "recognition": "Its caliphate claim had no sovereign recognition. Subject to the UN ISIL and Al-Qaida sanctions regime.",
+    "sources": [
+      {
+        "title": "CRS: The Islamic State and Its Affiliates",
+        "url": "https://www.congress.gov/crs-product/IF10328",
+        "date": "2025-09-08"
+      },
+      {
+        "title": "UN Security Council: Thirty-seventh ISIL and Al-Qaida monitoring report, S/2026/44",
+        "url": "https://afghanmission-un.org/wp-content/uploads/2026/03/37th-Report.pdf",
+        "date": "2026-02-04"
+      },
+      {
+        "title": "US Department of State: Country Reports on Terrorism 2019",
+        "url": "https://2021-2025.state.gov/reports/country-reports-on-terrorism-2019/",
+        "date": null
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied",
+    "startBasis": "2004 marks al-Qaeda in Iraq; the ISIS name dates to 2013 and the caliphate claim to 2014.",
+    "sourceCutoff": "The UN report considered information received through 2025-12-15."
+  },
+  {
+    "id": "hezbollah",
+    "name": "Hezbollah",
+    "type": "non-state",
+    "start": 1982,
+    "end": null,
+    "asOf": "2026-04-17",
+    "summary": "Lebanese Shia political and armed organization backed by Iran. It combines participation in national politics with armed structures outside the Lebanese state.",
+    "capital": "No sovereign capital.",
+    "currency": null,
+    "rulers": "Naim Qassem, secretary-general from October 2024; verified in the April 2026 source.",
+    "economy": "Iranian financial support and associated organizational fundraising; no sovereign national economy.",
+    "military": "Party-linked armed organization with separate political, military and social-service structures.",
+    "contributions": null,
+    "origin": "Formed during Lebanon’s civil war and the 1982 Israeli invasion, with Iranian support.",
+    "decline": "Israeli operations severely weakened its leadership in 2024; it remained active in the renewed conflict described in April 2026.",
+    "recognition": "Designated a terrorist organization by the United States and several other governments; designation scope differs among jurisdictions.",
+    "sources": [
+      {
+        "title": "CFR: What Is Hezbollah?",
+        "url": "https://www.cfr.org/backgrounders/what-hezbollah",
+        "date": "2026-04-17"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied"
+  },
+  {
+    "id": "al-shabaab",
+    "name": "Al-Shabaab",
+    "type": "non-state",
+    "start": 2006,
+    "end": null,
+    "asOf": "2026-02-04",
+    "summary": "Somali Islamist insurgent and terrorist organization that emerged from the Islamic Courts movement and formally joined al-Qaeda in 2012.",
+    "capital": "No sovereign capital.",
+    "currency": null,
+    "rulers": null,
+    "economy": null,
+    "military": "Insurgent organization and al-Qaeda affiliate.",
+    "contributions": null,
+    "origin": "Emerged from Somalia’s Islamic Courts movement during the conflict surrounding the courts’ rise and defeat.",
+    "decline": "Continued insurgency and cross-border violence were documented in the February 2026 UN report.",
+    "recognition": "UN-sanctioned non-state organization; designated a Foreign Terrorist Organization by the United States in 2008.",
+    "sources": [
+      {
+        "title": "NCTC: Al-Shabaab background",
+        "url": "https://archive.dni.gov/nctc/groups/al_shabaab.html",
+        "date": null
+      },
+      {
+        "title": "CRS: Al Qaeda: Background, Current Status, and U.S. Policy",
+        "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF11854.web.html",
+        "date": "2024-05-06"
+      },
+      {
+        "title": "UN Security Council: Thirty-seventh ISIL and Al-Qaida monitoring report, S/2026/44",
+        "url": "https://afghanmission-un.org/wp-content/uploads/2026/03/37th-Report.pdf",
+        "date": "2026-02-04"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied",
+    "startBasis": "2006 marks its public emergence as the Islamic Courts movement’s armed wing; precursor networks were earlier.",
+    "sourceCutoff": "The UN report considered information received through 2025-12-15."
+  },
+  {
+    "id": "rsf",
+    "name": "Rapid Support Forces",
+    "type": "non-state",
+    "start": 2013,
+    "end": null,
+    "asOf": "2026-09-04",
+    "summary": "Sudanese paramilitary force led by Mohamed Hamdan Dagalo. Its war with the Sudanese Armed Forces began in April 2023 and has caused widespread civilian devastation.",
+    "capital": "No sovereign capital; its parallel government was reported based in Nyala in 2025–2026.",
+    "currency": null,
+    "rulers": "Mohamed Hamdan Dagalo (Hemedti), commander; verified in the September 2026 source.",
+    "economy": "Gold-linked businesses and external financial networks have supported the force.",
+    "military": "Paramilitary organization and allied armed groups.",
+    "contributions": null,
+    "origin": "Established in 2013 from Janjaweed-linked forces used in Sudanese counterinsurgency campaigns.",
+    "decline": "Ongoing as of 2026-09-04.",
+    "recognition": "A non-state belligerent in Sudan; its separate administration does not establish an internationally recognized new state.",
+    "sources": [
+      {
+        "title": "House of Commons Library: The conflict in Sudan",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12177/",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "EUAA: Rapid Support Forces and allies",
+        "url": "https://www.euaa.europa.eu/country-guidance-sudan/23-rapid-support-forces-rsf-and-allies",
+        "date": "2025-06"
+      },
+      {
+        "title": "US Treasury: Sudanese paramilitary leader and related companies",
+        "url": "https://home.treasury.gov/news/press-releases/jy2772",
+        "date": "2025-01-07"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied"
+  },
+  {
+    "id": "taiwan",
+    "name": "Taiwan / Republic of China",
+    "type": "disputed",
+    "start": 1949,
+    "end": null,
+    "asOf": "2026-02-24",
+    "summary": "Self-governing democracy administered by the Republic of China. The People’s Republic of China claims Taiwan, while the two governments maintain separate political and military institutions.",
+    "capital": "Taipei (seat of government).",
+    "currency": "New Taiwan dollar (TWD).",
+    "rulers": "Lai Ching-te, elected president in January 2024; verified by CRS in August 2025.",
+    "economy": "Export-oriented economy with a major role in semiconductor and technology supply chains.",
+    "military": "Separate armed forces under ROC civilian authorities.",
+    "contributions": "Semiconductor manufacturing and global electronics supply chains.",
+    "origin": "The ROC government relocated to Taiwan after its defeat on mainland China in 1949; political liberalization followed in the late twentieth century.",
+    "decline": "Ongoing as of 2026-02-24.",
+    "recognition": "Limited formal diplomatic recognition alongside extensive unofficial relations. The PRC claim and Taiwan’s self-government must be represented separately.",
+    "sources": [
+      {
+        "title": "CRS: Taiwan: Background and U.S. Relations",
+        "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF10275.web.html",
+        "date": "2025-08-15"
+      },
+      {
+        "title": "CRS: U.S.–Taiwan Trade and Economic Relations",
+        "url": "https://www.everycrsreport.com/files/2026-02-24_IF10256_aed5fbfa7e45eecffd552d3d40869b05b357c8eb.html",
+        "date": "2026-02-24"
+      },
+      {
+        "title": "New Taipei City: Currency information",
+        "url": "https://newtaipei.travel/en/plan/travel-info",
+        "date": null
+      },
+      {
+        "title": "House of Commons Library: Taiwan and the United States",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9265/",
+        "date": null
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied",
+    "startBasis": "1949 marks relocation of the ROC government to Taiwan, not the foundation of the ROC or Taiwan’s earlier history."
+  },
+  {
+    "id": "palestine",
+    "name": "State of Palestine",
+    "type": "disputed",
+    "start": 1988,
+    "end": null,
+    "asOf": "2026-09-24",
+    "summary": "State proclaimed in 1988 and a UN non-member observer state since 2012. Recognition, occupation and the extent of effective Palestinian administration are separate questions.",
+    "capital": "Jerusalem is the declared capital; sovereignty and administration are disputed.",
+    "currency": "Israeli new shekel, Jordanian dinar and US dollar; no national currency is issued.",
+    "rulers": null,
+    "economy": "War has devastated Gaza’s economy and infrastructure; movement restrictions and fiscal pressures also constrain economic activity in the West Bank.",
+    "military": null,
+    "contributions": null,
+    "origin": "Proclaimed by the Palestine National Council on 15 November 1988 as an expression of Palestinian self-determination.",
+    "decline": "Ongoing statehood and territorial dispute as of 2026-09-24.",
+    "recognition": "UN non-member observer state, recognized by many countries; not a UN member state. This record is separate from Hamas.",
+    "sources": [
+      {
+        "title": "United Nations: Non-member states",
+        "url": "https://www.un.org/en/about-us/non-member-states",
+        "date": null
+      },
+      {
+        "title": "UN General Assembly: 2026 Palestine participation resolution index",
+        "url": "https://www.un.org/unispal/data-collection/general-assembly/",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "Palestine National Council: Declaration of Independence",
+        "url": "https://www.un.org/unispal/document/auto-insert-178680/",
+        "date": "1988-11-15"
+      },
+      {
+        "title": "IMF dissemination standards: Palestinian Monetary Authority currency framework",
+        "url": "https://dsbb.imf.org/sdds/dqaf-base/country/WBG/category/EXR00",
+        "date": null
+      },
+      {
+        "title": "UNCTAD: Palestinian economic and fiscal conditions",
+        "url": "https://unctad.org/news/unctad-gaza-reconstruction-needs-reach-715-billion-palestinian-economy-and-public-finances",
+        "date": "2026-09-24"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied"
+  },
+  {
+    "id": "kosovo",
+    "name": "Kosovo",
+    "type": "disputed",
+    "start": 2008,
+    "end": null,
+    "asOf": "2026-04-01",
+    "summary": "Republic that declared independence from Serbia in 2008. It is recognized by many states, while Serbia and several other governments dispute its sovereignty.",
+    "capital": "Pristina.",
+    "currency": "Euro; unilateral use does not make Kosovo a euro-area member.",
+    "rulers": null,
+    "economy": "Growth relies partly on domestic demand, remittances and investment. The IMF estimated 3.6% real GDP growth for 2025 in April 2026.",
+    "military": "Kosovo Security Force; NATO-led KFOR has a separate international security mandate.",
+    "contributions": null,
+    "origin": "Independence followed the 1998–1999 war and a period of UN administration.",
+    "decline": "Ongoing as of 2026-04-01.",
+    "recognition": "Partially recognized state; EU institutions use a status-neutral designation. Recognition and territorial administration must not be conflated.",
+    "sources": [
+      {
+        "title": "European Commission: Kosovo 2025 Report",
+        "url": "https://enlargement.ec.europa.eu/document/download/127563ea-4c03-44a4-b56c-2d569afd86a5_en?filename=kosovo-report-2025.pdf",
+        "date": "2025-11-04"
+      },
+      {
+        "title": "CRS: Kosovo: Background and U.S. Policy",
+        "url": "https://www.everycrsreport.com/reports/R46175.html",
+        "date": "2021-04-08"
+      },
+      {
+        "title": "Council of the EU: The euro outside the euro area",
+        "url": "https://www.consilium.europa.eu/en/policies/the-euro-facts-and-figures/",
+        "date": null
+      },
+      {
+        "title": "IMF: 2026 Article IV consultation with Kosovo",
+        "url": "https://www.imf.org/en/news/articles/2026/04/01/pr-26101-kosovo-imf-executive-board-concludes-2026-art-iv-consult",
+        "date": "2026-04-01"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied"
+  },
+  {
+    "id": "somaliland",
+    "name": "Somaliland",
+    "type": "disputed",
+    "start": 1991,
+    "end": null,
+    "asOf": "2026-09-17",
+    "summary": "Self-governing polity that declared independence from Somalia in 1991. Israel recognized it in December 2025; Somalia rejects its secession.",
+    "capital": "Hargeisa.",
+    "currency": "Somaliland shilling; US dollars also circulate.",
+    "rulers": null,
+    "economy": "Livestock exports, remittances, services and trade through Berbera are significant.",
+    "military": null,
+    "contributions": null,
+    "origin": "Declared renewed independence in 1991 during the collapse of Somalia’s central government.",
+    "decline": "Ongoing as of 2026-09-17.",
+    "recognition": "Israel announced recognition on 26 December 2025. The UN Security Council continues to affirm Somalia’s sovereignty and territorial integrity.",
+    "sources": [
+      {
+        "title": "UN DPPA: Security Council briefing on Israel’s recognition of Somaliland",
+        "url": "https://dppa.dfs.un.org/en/mtg-sc-10084-asg-khiari-29-dec-2025",
+        "date": "2025-12-29"
+      },
+      {
+        "title": "Somaliland government: Economy and investment",
+        "url": "https://sl-gov.org/info/economy-and-investment",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "EUAA: Hargeisa socioeconomic indicators",
+        "url": "https://www.euaa.europa.eu/coi/somalia/2025/country-focus/22-hargeisa/223-socioeconomic-indicators",
+        "date": "2025-05"
+      },
+      {
+        "title": "Associated Press: Responses to Israel’s Somaliland recognition",
+        "url": "https://apnews.com/article/0643e819cc043163d7a81c91617232a9",
+        "date": "2025-12-27"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied"
+  },
+  {
+    "id": "northern-cyprus",
+    "name": "Northern Cyprus",
+    "type": "disputed",
+    "start": 1983,
+    "end": null,
+    "asOf": "2025-09-11",
+    "summary": "Self-declared Turkish Republic of Northern Cyprus, administering the island’s north. Only Türkiye recognizes it as an independent state; the Cyprus settlement remains unresolved.",
+    "capital": "North Nicosia / Lefkoşa (seat of the de facto administration).",
+    "currency": "Turkish lira; other currencies are also used.",
+    "rulers": null,
+    "economy": "Tourism, agriculture, services and cross-community trade; closely linked to Türkiye’s financial system.",
+    "military": "Local security forces alongside a Turkish military presence.",
+    "contributions": null,
+    "origin": "Proclaimed in 1983 after the island’s division following the 1974 conflict.",
+    "decline": "Ongoing as of 2025-09-11.",
+    "recognition": "Recognized only by Türkiye. The Republic of Cyprus is internationally recognized over the island, subject to the UK sovereign base areas.",
+    "sources": [
+      {
+        "title": "UK Parliament: Recognition of Northern Cyprus",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-02-24/32962/",
+        "date": "2025-03-06"
+      },
+      {
+        "title": "European Commission: 2025 aid programme for Turkish Cypriots",
+        "url": "https://cyprus.representation.ec.europa.eu/news/turkish-cypriot-community-receive-eu337-million-2025-eu-aid-programme-2025-09-11_en",
+        "date": "2025-09-11"
+      },
+      {
+        "title": "Turkish Cypriot MFA: Administrative factsheet",
+        "url": "https://mfa.gov.ct.tr/uploads/files/MTY5YTMwNGI1NTZkYWU.pdf",
+        "date": null
+      },
+      {
+        "title": "US Department of State: Cyprus investment climate, 2024",
+        "url": "https://2021-2025.state.gov/reports/2024-investment-climate-statements/cyprus/",
+        "date": null
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied"
+  },
+  {
+    "id": "abkhazia",
+    "name": "Abkhazia",
+    "type": "disputed",
+    "start": 1993,
+    "end": null,
+    "asOf": "2026-04-29",
+    "summary": "Breakaway polity on Georgia’s Black Sea coast, supported by Russia. Georgia and most states regard the territory as part of Georgia.",
+    "capital": "Sukhumi / Sukhum.",
+    "currency": null,
+    "rulers": null,
+    "economy": null,
+    "military": "De facto security structures with a Russian military presence.",
+    "contributions": null,
+    "origin": "The 1992–1993 war separated the territory from Georgian central government control.",
+    "decline": "Ongoing as of 2026-04-29.",
+    "recognition": "Recognized by Russia and a small number of other states; the EU supports Georgia’s internationally recognized borders.",
+    "sources": [
+      {
+        "title": "EEAS: Statement on the thirty-third consolidated report on the conflict in Georgia",
+        "url": "https://www.eeas.europa.eu/delegations/council-europe/eu-statement-secretary-general%E2%80%99s-thirty-third-consolidated-report-conflict-georgia_en",
+        "date": "2026-04-29"
+      },
+      {
+        "title": "SIPRI: Major international armed conflicts, October 1993",
+        "url": "https://www.sipri.org/sites/default/files/files/FS/SIPRIFS9310.pdf",
+        "date": "1993-10"
+      },
+      {
+        "title": "RUSI: Georgia–Russia conflict timeline",
+        "url": "https://www.rusi.org/explore-our-research/publications/commentary/georgia-russia-conflict-timeline-includes-south-ossetia-and-abkhazia",
+        "date": null
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied",
+    "startBasis": "1993 marks consolidated de facto separation after war; constitutional and independence declarations have different dates."
+  },
+  {
+    "id": "south-ossetia",
+    "name": "South Ossetia / Tskhinvali region",
+    "type": "disputed",
+    "start": 1992,
+    "end": null,
+    "asOf": "2026-09-23",
+    "summary": "Breakaway polity within Georgia’s internationally recognized borders. Its de facto institutions and security remain closely tied to Russia.",
+    "capital": "Tskhinvali.",
+    "currency": "Russian ruble (documented in the 2010 institutional study; a current currency review is pending).",
+    "rulers": null,
+    "economy": "Historically highly dependent on Russian financial assistance; current economic measures are not verified here.",
+    "military": "De facto security structures and Russian forces; no current deployment map is supplied.",
+    "contributions": null,
+    "origin": "Armed conflict during the Soviet collapse led to a 1992 ceasefire; the 2008 war deepened separation from Georgia.",
+    "decline": "Ongoing as of 2026-09-23.",
+    "recognition": "Recognized by Russia and a small number of other states. The EU rejects the legality of its separate presidential elections.",
+    "sources": [
+      {
+        "title": "EEAS: Statement on South Ossetian elections",
+        "url": "https://www.eeas.europa.eu/delegations/council-europe/eu-statement-so-called-presidential-elections-occupied-breakaway-region-south-ossetia_en?s=51",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "International Crisis Group: South Ossetia: The Burden of Recognition",
+        "url": "https://ciaotest.cc.columbia.edu/wps/icg/0019298/f_0019298_16507.pdf",
+        "date": "2010-06-07"
+      },
+      {
+        "title": "EEAS: Statement on the thirty-third consolidated report on the conflict in Georgia",
+        "url": "https://www.eeas.europa.eu/delegations/council-europe/eu-statement-secretary-general%E2%80%99s-thirty-third-consolidated-report-conflict-georgia_en",
+        "date": "2026-04-29"
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied",
+    "startBasis": "1992 marks the ceasefire consolidating de facto separation; earlier declarations and later Russian recognition are separate events."
+  },
+  {
+    "id": "transnistria",
+    "name": "Transnistria / Transdniestria",
+    "type": "disputed",
+    "start": 1990,
+    "end": null,
+    "asOf": "2026-09-24",
+    "summary": "Self-proclaimed polity centred on Tiraspol, internationally regarded as part of Moldova. De facto separation persisted after the 1992 war.",
+    "capital": "Tiraspol.",
+    "currency": "Transnistrian ruble (introduced in 1994; current monetary details require a newer source).",
+    "rulers": null,
+    "economy": "Industrial and trading economy with strong energy dependence; a severe energy shock in 2025 exposed the fragility of its economic model.",
+    "military": null,
+    "contributions": null,
+    "origin": "Local leaders proclaimed a separate republic in September 1990 amid disputes over language, sovereignty and the Soviet collapse.",
+    "decline": "Ongoing as of 2026-09-24.",
+    "recognition": "Not recognized by UN member states. International settlement efforts seek a solution within Moldova’s sovereignty and territorial integrity.",
+    "sources": [
+      {
+        "title": "Government of Moldova: Political representatives’ settlement meeting",
+        "url": "https://www.gov.md/index.php/en/comunicate-de-presa-bpr/new-working-meeting-political-representatives-negotiation-process-0",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "OSCE: Historical background to the Transdniestrian conflict",
+        "url": "https://cdn.osce.org/sites/default/files/f/documents/4/3/42308.pdf",
+        "date": null
+      },
+      {
+        "title": "German Marshall Fund: Transnistria: Pain-Free Reintegration?",
+        "url": "https://www.gmfus.org/news/transnistria-pain-free-reintegration",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "World Bank: Transnistrian economic review",
+        "url": "https://documents1.worldbank.org/curated/en/492631468773991051/pdf/multi0page.pdf",
+        "date": null
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied"
+  },
+  {
+    "id": "sadr",
+    "name": "Sahrawi Arab Democratic Republic / Western Sahara",
+    "type": "disputed",
+    "start": 1976,
+    "end": null,
+    "asOf": "2025-06-12",
+    "summary": "SADR claims independence for Western Sahara. Morocco administers most of the territory and claims sovereignty; the UN treats Western Sahara as a non-self-governing territory.",
+    "capital": "Laayoune / El Aaiún is claimed; the SADR administration operates in exile in Algeria.",
+    "currency": null,
+    "rulers": null,
+    "economy": null,
+    "military": "Polisario Front armed forces; territorial claims are distinct from effective control.",
+    "contributions": null,
+    "origin": "The Polisario Front proclaimed the SADR in 1976 as Spain withdrew from Western Sahara.",
+    "decline": "Ongoing dispute as of 2025-06-12; the 1991 ceasefire broke down in 2020.",
+    "recognition": "SADR is an African Union member recognized by some states. Western Sahara’s final status remains unresolved in the UN process.",
+    "sources": [
+      {
+        "title": "House of Commons Library: Western Sahara",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9906/",
+        "date": "2025-06-12"
+      },
+      {
+        "title": "African Union Pan-African Parliament: SADR profile",
+        "url": "https://pap.au.int/en/member-states/sahrawi",
+        "date": null
+      },
+      {
+        "title": "UN Decolonization: Western Sahara",
+        "url": "https://www.un.org/dppa/decolonization/en/nsgt/western-sahara",
+        "date": "2024-09-09"
+      },
+      {
+        "title": "UK FCDO: Western Sahara security context",
+        "url": "https://www.gov.uk/foreign-travel-advice/western-sahara/safety-and-security",
+        "date": null
+      }
+    ],
+    "geometry": null,
+    "geometryStatus": "No verified territorial geometry supplied"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "maurya-sarnath-capital.jpg": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sarnath_Lion_Capital.jpg",
+    "bytes": 6708106,
+    "sha256": "74d8fbd06807993dfc87338905ece27e8dd7db75ceb2be125914bdf7234470b2",
+    "mime": "image/jpeg"
+  },
+  "gupta-chandragupta-ii-coin.jpg": {
+    "url": "https://openaccess-cdn.clevelandart.org/1977.62.a/1977.62.a_web.jpg",
+    "bytes": 566444,
+    "sha256": "c18377c1b3b865db3b2c49fd9d817eeb69f34e4cb94699afa9b1369a7ae2a84a",
+    "mime": "image/jpeg"
+  },
+  "chola-rajendra-seal.png": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Seal_of_the_Chola_King_Rajendra_I_%28Extracted%29_%28Then_made_transparent%29.png",
+    "bytes": 1707891,
+    "sha256": "a4f8d5d1794a90a8bf6b958c1218720a529f9d8baebf04a1f68363a0b4db2fae",
+    "mime": "image/png"
+  },
+  "ming-wanli-dragon-robe.jpg": {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/1986_143.jpg",
+    "bytes": 199757,
+    "sha256": "e30a68ad012e3110110409b0d5877c0ee0afbf91445aac7af25a23806cc8034c",
+    "mime": "image/jpeg"
+  },
+  "yuan-imperial-paiza.jpg": {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DT7052.jpg",
+    "bytes": 1885200,
+    "sha256": "19b53a5e4a6f699e25c24971ca5de93c7c50787f3a423314630ad48438bb4d01",
+    "mime": "image/jpeg"
+  },
+  "qing-imperial-dragon-robe.jpg": {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP225672.jpg",
+    "bytes": 1956556,
+    "sha256": "43cdc21a216bd41c459563ea656e98affd9c25e3a7ef84eacc22c45b8077b888",
+    "mime": "image/jpeg"
+  },
+  "aksum-ezana-royal-coin.jpg": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ezana_-_single.jpg",
+    "bytes": 53227,
+    "sha256": "126b26eb58ba23730f4850b474eb82dbff06b69b455eb0c7a9056b3dd7ebefad",
+    "mime": "image/jpeg"
+  }
+}

@@ -1,0 +1,10 @@
+import * as south from './religion-south-additions.js';
+import * as west from './religion-west-additions.js';
+import * as world from './religion-world-additions.js';
+const additions=[south,west,world];
+export const additionRecords=additions.flatMap(pack=>pack.additionRecords);
+export const additionReadings=Object.assign({},...additions.map(pack=>pack.additionReadings));
+export const additionSpecs=Object.assign({},...additions.map(pack=>pack.additionSpecs));
+export const additionAreas=Object.assign({},...additions.map(pack=>pack.additionAreas));
+export const additionFamilies={};
+for(const pack of additions)for(const [family,ids] of Object.entries(pack.additionFamilies))(additionFamilies[family]??=[]).push(...ids);

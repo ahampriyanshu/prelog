@@ -1,0 +1,935 @@
+{
+  "Akkadian Empire": {
+    "atlasIds": [
+      "atlas-169"
+    ],
+    "profilePeriod": {
+      "start": -2334,
+      "end": -2154
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": -2334,
+      "end": -2154
+    },
+    "atlasNames": [
+      "𒀀𒅗𒁲𒆠",
+      "Akkadian Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Neo-Assyrian Empire": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": -911,
+      "end": -612
+    },
+    "match": "no-exact-scope-match",
+    "note": "No exact Neo-Assyrian record. Atlas-170 spans Assyria from 2025 to 609 BCE; the dossier covers the Neo-Assyrian phase 911–612 BCE. Do not overwrite the broad Assyrian record.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-neo-assyrian-empire",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-170",
+        "start": -2025,
+        "end": -609
+      }
+    ]
+  },
+  "Achaemenid Empire": {
+    "atlasIds": [
+      "atlas-27"
+    ],
+    "profilePeriod": {
+      "start": -550,
+      "end": -330
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": -550,
+      "end": -330
+    },
+    "atlasNames": [
+      "Xšāça",
+      "Achaemenid Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Empire of Alexander the Great": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": -336,
+      "end": -323
+    },
+    "match": "no-exact-scope-match",
+    "note": "No dedicated Alexander imperial polity for 336–323 BCE. Kingdom of Macedon (808–168 BCE) is much broader; Antigonid Macedon and the Seleucid Empire are later successor polities.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-alexander-empire",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-65",
+        "start": -808,
+        "end": -168
+      },
+      {
+        "id": "atlas-614",
+        "start": -306,
+        "end": -168
+      },
+      {
+        "id": "atlas-177",
+        "start": -312,
+        "end": -63
+      }
+    ]
+  },
+  "Roman Republic": {
+    "atlasIds": [
+      "atlas-1034"
+    ],
+    "profilePeriod": {
+      "start": -509,
+      "end": -27
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": -509,
+      "end": -27
+    },
+    "atlasNames": [
+      "Res Publica Romana",
+      "Roman Republic"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Roman Empire": {
+    "atlasIds": [
+      "atlas-1"
+    ],
+    "profilePeriod": {
+      "start": -27,
+      "end": 476
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": -27,
+      "end": 476
+    },
+    "atlasNames": [
+      "Imperium Romanum",
+      "Roman Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Byzantine Empire": {
+    "atlasIds": [
+      "atlas-11"
+    ],
+    "profilePeriod": {
+      "start": 330,
+      "end": 1453
+    },
+    "match": "same-polity-documented-date-convention",
+    "note": "Same continuing eastern Roman polity. The dossier begins at Constantinople’s foundation in 330; AtlasPI begins at the imperial division in 395. Preserve this start-date convention explicitly; do not attach to the city Constantinople or the Ghassanid Kingdom.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 395,
+      "end": 1453
+    },
+    "atlasNames": [
+      "Βασιλεία Ῥωμαίων",
+      "Byzantine Empire",
+      "Eastern Roman Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Rashidun Caliphate": {
+    "atlasIds": [
+      "atlas-492"
+    ],
+    "profilePeriod": {
+      "start": 632,
+      "end": 661
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 632,
+      "end": 661
+    },
+    "atlasNames": [
+      "الخلافة الراشدة",
+      "Rashidun Caliphate"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Umayyad Caliphate": {
+    "atlasIds": [
+      "atlas-173"
+    ],
+    "profilePeriod": {
+      "start": 661,
+      "end": 750
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 661,
+      "end": 750
+    },
+    "atlasNames": [
+      "الدولة الأموية",
+      "Umayyad Caliphate"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Abbasid Caliphate": {
+    "atlasIds": [
+      "atlas-31"
+    ],
+    "profilePeriod": {
+      "start": 750,
+      "end": 1258
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 750,
+      "end": 1258
+    },
+    "atlasNames": [
+      "الخلافة العباسية",
+      "Abbasid Caliphate"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Ottoman Empire": {
+    "atlasIds": [
+      "atlas-2"
+    ],
+    "profilePeriod": {
+      "start": 1299,
+      "end": 1922
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1299,
+      "end": 1922
+    },
+    "atlasNames": [
+      "Osmanlı İmparatorluğu",
+      "Ottoman Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Spanish Empire": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": 1492,
+      "end": 1976
+    },
+    "match": "no-exact-scope-match",
+    "note": "Atlas-28 ends in 1898, whereas the dossier extends through Spain’s withdrawal from Western Sahara in 1976. This materially different end scope needs a standalone dossier or an explicitly reviewed scope revision, not automatic enrichment. Spanish East Indies is only a constituent possession.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-spanish-empire",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-28",
+        "start": 1492,
+        "end": 1898
+      },
+      {
+        "id": "atlas-683",
+        "start": 1565,
+        "end": 1898
+      }
+    ]
+  },
+  "Portuguese Empire": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": 1415,
+      "end": 1999
+    },
+    "match": "no-exact-scope-match",
+    "note": "No overseas Portuguese Empire entity covering 1415–1999. Kingdom of Portugal ends in 1910, Estado Novo covers 1933–1974, and Colonial Brazil is a constituent possession; none matches the imperial umbrella.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-portuguese-empire",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-61",
+        "start": 1143,
+        "end": 1910
+      },
+      {
+        "id": "atlas-265",
+        "start": 1933,
+        "end": 1974
+      },
+      {
+        "id": "atlas-207",
+        "start": 1500,
+        "end": 1822
+      }
+    ]
+  },
+  "British Empire": {
+    "atlasIds": [
+      "atlas-29"
+    ],
+    "profilePeriod": {
+      "start": 1607,
+      "end": 1997
+    },
+    "match": "same-polity-documented-date-convention",
+    "note": "Same overseas imperial umbrella. AtlasPI starts with the 1583 Newfoundland claim; the dossier uses the 1607 Jamestown settlement convention. Both end symbolically with Hong Kong in 1997. Do not interpret either interval as dissolution of all dependencies.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1583,
+      "end": 1997
+    },
+    "atlasNames": [
+      "British Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "French Colonial Empire": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": 1534,
+      "end": 1980
+    },
+    "match": "no-exact-scope-match",
+    "note": "No colonial-imperial umbrella covering 1534–1980. The First French/Napoleonic Empire is a different scope; French West Africa, Indochina, Polynesia, and the Syrian/Lebanese mandate are constituent regions.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-french-colonial-empire",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-1037",
+        "start": 1804,
+        "end": 1815
+      },
+      {
+        "id": "atlas-259",
+        "start": 1895,
+        "end": 1958
+      },
+      {
+        "id": "atlas-261",
+        "start": 1887,
+        "end": 1954
+      },
+      {
+        "id": "atlas-321",
+        "start": 1842,
+        "end": null
+      },
+      {
+        "id": "atlas-502",
+        "start": 1920,
+        "end": 1946
+      }
+    ]
+  },
+  "Holy Roman Empire": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": 962,
+      "end": 1806
+    },
+    "match": "no-exact-scope-match",
+    "note": "Atlas-30 starts with Charlemagne in 800; the dossier explicitly starts with Otto I in 962. Atlas-89 is the Carolingian Empire 800–888 and must never match via the incidental alias Holy Roman Empire (early). Keep standalone until an explicit scope reconciliation is approved.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-holy-roman-empire",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-30",
+        "start": 800,
+        "end": 1806
+      },
+      {
+        "id": "atlas-89",
+        "start": 800,
+        "end": 888
+      }
+    ]
+  },
+  "Russian Empire": {
+    "atlasIds": [
+      "atlas-16"
+    ],
+    "profilePeriod": {
+      "start": 1721,
+      "end": 1917
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1721,
+      "end": 1917
+    },
+    "atlasNames": [
+      "Российская Империя",
+      "Russian Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Soviet Union": {
+    "atlasIds": [
+      "atlas-230"
+    ],
+    "profilePeriod": {
+      "start": 1922,
+      "end": 1991
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1922,
+      "end": 1991
+    },
+    "atlasNames": [
+      "Союз Советских Социалистических Республик",
+      "Soviet Union",
+      "USSR"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Aztec Empire": {
+    "atlasIds": [
+      "atlas-17"
+    ],
+    "profilePeriod": {
+      "start": 1428,
+      "end": 1521
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1428,
+      "end": 1521
+    },
+    "atlasNames": [
+      "Ēxcān Tlahtōlōyān",
+      "Aztec Empire",
+      "Triple Alliance"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Inca Empire": {
+    "atlasIds": [
+      "atlas-4"
+    ],
+    "profilePeriod": {
+      "start": 1438,
+      "end": 1533
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1438,
+      "end": 1533
+    },
+    "atlasNames": [
+      "Tawantinsuyu",
+      "Inca Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Mauryan Empire": {
+    "atlasIds": [
+      "atlas-37"
+    ],
+    "profilePeriod": {
+      "start": -321,
+      "end": -185
+    },
+    "match": "same-polity-documented-date-convention",
+    "note": "Same Mauryan imperial dynasty, ending in 185 BCE. AtlasPI starts in 322 BCE; the dossier uses approximately 321 BCE and documents approximate foundation dates.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": -322,
+      "end": -185
+    },
+    "atlasNames": [
+      "मौर्य साम्राज्य",
+      "Maurya Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Gupta Empire": {
+    "atlasIds": [
+      "atlas-109"
+    ],
+    "profilePeriod": {
+      "start": 320,
+      "end": 550
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 320,
+      "end": 550
+    },
+    "atlasNames": [
+      "गुप्त साम्राज्य",
+      "Gupta Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Chola Empire": {
+    "atlasIds": [
+      "atlas-110"
+    ],
+    "profilePeriod": {
+      "start": 850,
+      "end": 1279
+    },
+    "match": "same-polity-documented-date-convention",
+    "note": "Same medieval imperial Chola dynasty, ending in 1279. AtlasPI begins in 848; the dossier rounds the revival to approximately 850. Excludes Early Cholas / Sangam-era Chola, atlas-1040.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 848,
+      "end": 1279
+    },
+    "atlasNames": [
+      "சோழ நாடு",
+      "Chola Dynasty",
+      "Medieval Chola Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Delhi Sultanate": {
+    "atlasIds": [
+      "atlas-112"
+    ],
+    "profilePeriod": {
+      "start": 1206,
+      "end": 1526
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1206,
+      "end": 1526
+    },
+    "atlasNames": [
+      "دلّی سلطنت",
+      "Delhi Sultanate"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Mughal Empire": {
+    "atlasIds": [
+      "atlas-12"
+    ],
+    "profilePeriod": {
+      "start": 1526,
+      "end": 1857
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1526,
+      "end": 1857
+    },
+    "atlasNames": [
+      "مغلیہ سلطنت",
+      "Mughal Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Maratha Empire": {
+    "atlasIds": [
+      "atlas-111"
+    ],
+    "profilePeriod": {
+      "start": 1674,
+      "end": 1818
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1674,
+      "end": 1818
+    },
+    "atlasNames": [
+      "मराठा साम्राज्य",
+      "Maratha Empire",
+      "Maratha Confederacy"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Sikh Empire": {
+    "atlasIds": [
+      "atlas-400"
+    ],
+    "profilePeriod": {
+      "start": 1799,
+      "end": 1849
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1799,
+      "end": 1849
+    },
+    "atlasNames": [
+      "ਖ਼ਾਲਸਾ ਰਾਜ",
+      "Sikh Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Qin Empire": {
+    "atlasIds": [
+      "atlas-103"
+    ],
+    "profilePeriod": {
+      "start": -221,
+      "end": -206
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": -221,
+      "end": -206
+    },
+    "atlasNames": [
+      "秦朝",
+      "Qin Dynasty"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Han Empire": {
+    "atlasIds": [
+      "atlas-104"
+    ],
+    "profilePeriod": {
+      "start": -206,
+      "end": 220
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": -206,
+      "end": 220
+    },
+    "atlasNames": [
+      "漢朝",
+      "Han Dynasty",
+      "Western Han / Former Han",
+      "Eastern Han / Later Han"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Tang Empire": {
+    "atlasIds": [
+      "atlas-105"
+    ],
+    "profilePeriod": {
+      "start": 618,
+      "end": 907
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 618,
+      "end": 907
+    },
+    "atlasNames": [
+      "唐朝",
+      "Tang Dynasty"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Song Empire": {
+    "atlasIds": [
+      "atlas-106"
+    ],
+    "profilePeriod": {
+      "start": 960,
+      "end": 1279
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 960,
+      "end": 1279
+    },
+    "atlasNames": [
+      "宋朝",
+      "Song Dynasty",
+      "Northern Song",
+      "Southern Song"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Yuan Empire": {
+    "atlasIds": [
+      "atlas-107"
+    ],
+    "profilePeriod": {
+      "start": 1271,
+      "end": 1368
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1271,
+      "end": 1368
+    },
+    "atlasNames": [
+      "元朝",
+      "Yuan Dynasty"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Ming Empire": {
+    "atlasIds": [
+      "atlas-108"
+    ],
+    "profilePeriod": {
+      "start": 1368,
+      "end": 1644
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1368,
+      "end": 1644
+    },
+    "atlasNames": [
+      "明朝",
+      "Ming Dynasty",
+      "Great Ming"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Qing Empire": {
+    "atlasIds": [
+      "atlas-15"
+    ],
+    "profilePeriod": {
+      "start": 1644,
+      "end": 1912
+    },
+    "match": "same-polity-documented-date-convention",
+    "note": "Same Qing dynasty. AtlasPI begins at adoption of the Qing name in 1636; the dossier uses entry into Beijing in 1644 and explicitly documents 1636. Both end in 1912. Do not silently replace the AtlasPI start date.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1636,
+      "end": 1912
+    },
+    "atlasNames": [
+      "大清帝國",
+      "Qing Dynasty"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Mongol Empire": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": 1206,
+      "end": 1260
+    },
+    "match": "no-exact-scope-match",
+    "note": "Atlas-9 spans 1206–1368 and includes the successor-khanate era; the dossier deliberately covers only the united empire, 1206–1260. Do not overwrite the broader record or its successor entities.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-united-mongol-empire",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-9",
+        "start": 1206,
+        "end": 1368
+      }
+    ]
+  },
+  "Khmer Empire": {
+    "atlasIds": [
+      "atlas-19"
+    ],
+    "profilePeriod": {
+      "start": 802,
+      "end": 1431
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 802,
+      "end": 1431
+    },
+    "atlasNames": [
+      "អាណាចក្រខ្មែរ",
+      "Khmer Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Srivijaya": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": 670,
+      "end": 1300
+    },
+    "match": "no-exact-scope-match",
+    "note": "Atlas-42 spans 650–1377 and includes a late Palembang endpoint. The dossier intentionally uses approximately 670–1300 and states that later continuity is disputed. Identity is related, but the temporal scope is not sufficiently aligned for automatic attachment.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-srivijaya",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-42",
+        "start": 650,
+        "end": 1377
+      }
+    ]
+  },
+  "Majapahit Empire": {
+    "atlasIds": [
+      "atlas-41"
+    ],
+    "profilePeriod": {
+      "start": 1293,
+      "end": 1527
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1293,
+      "end": 1527
+    },
+    "atlasNames": [
+      "Majapahit",
+      "Majapahit Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Mali Empire": {
+    "atlasIds": [
+      "atlas-18"
+    ],
+    "profilePeriod": {
+      "start": 1230,
+      "end": 1600
+    },
+    "match": "same-polity-documented-date-convention",
+    "note": "Same Mali imperial polity, ending approximately 1600. AtlasPI begins in 1235; the dossier uses approximately 1230. This is a documented approximate foundation convention, not a different predecessor state.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1235,
+      "end": 1600
+    },
+    "atlasNames": [
+      "Manden Kurufaba",
+      "Mali Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Songhai Empire": {
+    "atlasIds": [
+      "atlas-22"
+    ],
+    "profilePeriod": {
+      "start": 1464,
+      "end": 1591
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1464,
+      "end": 1591
+    },
+    "atlasNames": [
+      "Songhai",
+      "Songhai Empire"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Kingdom of Aksum": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": 1,
+      "end": 800
+    },
+    "match": "no-exact-scope-match",
+    "note": "Atlas-51 spans 100–960; the dossier uses a first-through-eighth-century display range, 1–800. Aksum’s late transformation is disputed. These are substantially different temporal scopes; keep standalone pending an explicit chronology decision.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-aksum",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-51",
+        "start": 100,
+        "end": 960
+      }
+    ]
+  },
+  "Ethiopian Empire": {
+    "atlasIds": [
+      "atlas-24"
+    ],
+    "profilePeriod": {
+      "start": 1270,
+      "end": 1974
+    },
+    "match": "same-polity-and-period",
+    "note": "Exact polity identity and period. Selected by explicit record inspection, not alias substring matching.",
+    "needsStandalone": false,
+    "atlasPeriod": {
+      "start": 1270,
+      "end": 1974
+    },
+    "atlasNames": [
+      "የኢትዮጵያ ንጉሠ ነገሥት መንግሥት",
+      "Ethiopian Empire",
+      "Abyssinia"
+    ],
+    "preserveAtlasPeriod": true
+  },
+  "Zulu Kingdom": {
+    "atlasIds": [],
+    "profilePeriod": {
+      "start": 1816,
+      "end": 1879
+    },
+    "match": "no-exact-scope-match",
+    "note": "Atlas-34 ends in 1897; the dossier covers the independent kingdom through British conquest in 1879 and explicitly distinguishes later restricted restoration and annexation. Do not extend the independent-state dossier through the colonial era.",
+    "needsStandalone": true,
+    "suggestedStandaloneId": "curated-zulu-kingdom",
+    "rejectedCandidates": [
+      {
+        "id": "atlas-34",
+        "start": 1816,
+        "end": 1897
+      }
+    ]
+  }
+}

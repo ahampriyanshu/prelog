@@ -1,0 +1,147 @@
+{
+  "atlas-37": [
+    {
+      "kind": "symbol",
+      "label": "Ashoka’s Sarnath lion capital, c. 250 BCE",
+      "src": "/atlas/symbols/early-asian/maurya-sarnath-capital.jpg",
+      "start": -250,
+      "end": -232,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarnath_Lion_Capital.jpg",
+      "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Chrisi1964; Sarnath Museum; via Wikimedia Commons. Downloaded unchanged.",
+      "note": "Ancient architectural royal motif, not a Mauryan national flag or the modern Indian state emblem. Artifact dated c. 250 BCE; shown only from that approximate date to the end of Ashoka’s reign. Keep the lion heads and wheel visible; do not use a center-only crop.",
+      "display": "emblem",
+      "sha256": "74d8fbd06807993dfc87338905ece27e8dd7db75ceb2be125914bdf7234470b2",
+      "imageWidth": 2355,
+      "imageHeight": 4679,
+      "mapPresentation": "contain"
+    }
+  ],
+  "atlas-109": [
+    {
+      "kind": "symbol",
+      "label": "Garuda standard on Chandragupta II’s coin",
+      "src": "/atlas/symbols/early-asian/gupta-chandragupta-ii-coin.jpg",
+      "start": 380,
+      "end": 414,
+      "modernOnly": false,
+      "sourceUrl": "https://www.clevelandart.org/art/1977.62.a",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Cleveland Museum of Art, 1977.62.a, Cornelia Blakemore Warner Fund. Open Access image downloaded unchanged.",
+      "note": "Actual gold archer coin, c. 400 CE, showing the bird-topped Garuda standard beside the ruler. Range follows the museum’s 380–414 dating. Numismatic motif, not a reconstructed national flag.",
+      "display": "emblem",
+      "sha256": "c18377c1b3b865db3b2c49fd9d817eeb69f34e4cb94699afa9b1369a7ae2a84a",
+      "imageWidth": 893,
+      "imageHeight": 893,
+      "mapPresentation": "contain"
+    }
+  ],
+  "atlas-110": [
+    {
+      "kind": "emblem",
+      "label": "Royal seal of Rajendra Chola I",
+      "src": "/atlas/symbols/early-asian/chola-rajendra-seal.png",
+      "start": 1012,
+      "end": 1044,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Chola_King_Rajendra_I_(Extracted)_(Then_made_transparent).png",
+      "license": "Public domain — LACMA Public Domain High Resolution Image release; https://www.lacma.org/about/contact-us/terms-use",
+      "attribution": "Los Angeles County Museum of Art, M.87.272.5, Anonymous gift. Commons extraction by AlvaKedak; transparent crop, slight rotation and saturation by Theevu. This PNG downloaded unchanged.",
+      "note": "Actual copper-alloy royal seal dated 1012–1044 by LACMA, with tiger, paired fish and bow. The transparent photograph is an artifact emblem, not a modern redrawn Chola flag. Preserve the complete seal.",
+      "display": "emblem",
+      "sha256": "a4f8d5d1794a90a8bf6b958c1218720a529f9d8baebf04a1f68363a0b4db2fae",
+      "imageWidth": 958,
+      "imageHeight": 971,
+      "mapPresentation": "contain"
+    }
+  ],
+  "atlas-107": [
+    {
+      "kind": "symbol",
+      "label": "Yuan imperial-authority pass (paiza)",
+      "src": "/atlas/symbols/early-asian/yuan-imperial-paiza.jpg",
+      "start": 1271,
+      "end": 1299,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/39624",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, 1993.256, Purchase, Bequest of Dorothy Graham Bennett, 1993. Open Access image downloaded unchanged.",
+      "note": "Actual iron-and-silver pass invoking the Khan’s authority, late 13th century. Museum API range 1267–1299 is clipped to the catalogue’s Yuan start, 1271. Not a national flag. Keep the full inscription visible; do not center-crop the text.",
+      "display": "emblem",
+      "sha256": "19b53a5e4a6f699e25c24971ca5de93c7c50787f3a423314630ad48438bb4d01",
+      "imageWidth": 2978,
+      "imageHeight": 3722,
+      "mapPresentation": "contain"
+    }
+  ],
+  "atlas-108": [
+    {
+      "kind": "symbol",
+      "label": "Dragon motif on a Wanli-period robe",
+      "src": "/atlas/symbols/early-asian/ming-wanli-dragon-robe.jpg",
+      "start": 1573,
+      "end": 1620,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/42123",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, 1986.143. Purchase, Mrs. Vincent Astor, Jeanie Cayne, Robert Hatfield Ellsworth, Joseph E. Hotung, Dr. and Mrs. John C. Weber and Anonymous Gifts, 1986. Open Access image downloaded unchanged.",
+      "note": "Actual robe fragments dated to the Wanli period, 1573–1620. Courtly dragon textile motif, not a dynastic flag. The surrounding border was added in the 18th century; use only the central red dragon field for a map imprint.",
+      "display": "emblem",
+      "sha256": "e30a68ad012e3110110409b0d5877c0ee0afbf91445aac7af25a23806cc8034c",
+      "imageWidth": 478,
+      "imageHeight": 900,
+      "mapPresentation": "contain",
+      "mapCrop": [
+        0.14644351464435146,
+        0.4222222222222222,
+        0.7112970711297071,
+        0.4
+      ]
+    }
+  ],
+  "atlas-15": [
+    {
+      "kind": "symbol",
+      "label": "Five-clawed dragons on a Qing imperial robe",
+      "src": "/atlas/symbols/early-asian/qing-imperial-dragon-robe.jpg",
+      "start": 1644,
+      "end": 1699,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/50487",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, 30.75.5, Bequest of William Christian Paul, 1929. Open Access image downloaded unchanged.",
+      "note": "Actual 17th-century imperial court robe with five-clawed dragons. Range follows the museum API’s 1644–1699 dating. Court insignia, not a Qing national flag. Neck and sleeve bands are later additions; a central-body detail avoids them.",
+      "display": "emblem",
+      "sha256": "43cdc21a216bd41c459563ea656e98affd9c25e3a7ef84eacc22c45b8077b888",
+      "imageWidth": 4000,
+      "imageHeight": 3001,
+      "mapPresentation": "contain",
+      "mapCrop": [
+        0.35,
+        0.49983338887037654,
+        0.3,
+        0.2999000333222259
+      ]
+    }
+  ],
+  "curated-aksum": [
+    {
+      "kind": "symbol",
+      "label": "Crescent-and-disc on Ezana’s silver coin",
+      "src": "/atlas/symbols/early-asian/aksum-ezana-royal-coin.jpg",
+      "start": 330,
+      "end": 340,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ezana.jpg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Classical Numismatic Group, Inc., https://www.cngcoins.com. Single-side crop by Dominator1453 via Wikimedia Commons; downloaded unchanged. License follows the CNG original, not the derivative page’s erroneous public-domain claim.",
+      "note": "Actual silver coin with royal portrait and pre-Christian crescent-and-disc, dated c. 330–340 by the original CNG catalogue. This is a coin motif, not an Aksumite flag. Approximate chronology; no claim that Ezana’s later Christian coinage used this symbol.",
+      "display": "emblem",
+      "sha256": "126b26eb58ba23730f4850b474eb82dbff06b69b455eb0c7a9056b3dd7ebefad",
+      "imageWidth": 202,
+      "imageHeight": 205,
+      "mapPresentation": "contain"
+    }
+  ]
+}

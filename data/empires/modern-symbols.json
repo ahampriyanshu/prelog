@@ -1,0 +1,3083 @@
+{
+  "country-abw": [
+    {
+      "kind": "flag",
+      "label": "Aruba flag",
+      "src": "/atlas/symbols/modern/aw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/aw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ago": [
+    {
+      "kind": "flag",
+      "label": "Angola flag",
+      "src": "/atlas/symbols/modern/ao.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ao.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-aia": [
+    {
+      "kind": "flag",
+      "label": "Anguilla flag",
+      "src": "/atlas/symbols/modern/ai.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ai.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-alb": [
+    {
+      "kind": "flag",
+      "label": "Albania flag",
+      "src": "/atlas/symbols/modern/al.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/al.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ald": [
+    {
+      "kind": "flag",
+      "label": "Aland flag",
+      "src": "/atlas/symbols/modern/ax.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ax.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-and": [
+    {
+      "kind": "flag",
+      "label": "Andorra flag",
+      "src": "/atlas/symbols/modern/ad.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ad.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-are": [
+    {
+      "kind": "flag",
+      "label": "United Arab Emirates flag",
+      "src": "/atlas/symbols/modern/ae.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ae.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-arg": [
+    {
+      "kind": "flag",
+      "label": "Argentina flag",
+      "src": "/atlas/symbols/modern/ar.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ar.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-arm": [
+    {
+      "kind": "flag",
+      "label": "Armenia flag",
+      "src": "/atlas/symbols/modern/am.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/am.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-asm": [
+    {
+      "kind": "flag",
+      "label": "American Samoa flag",
+      "src": "/atlas/symbols/modern/as.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/as.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-atf": [
+    {
+      "kind": "flag",
+      "label": "French Southern and Antarctic Lands flag",
+      "src": "/atlas/symbols/modern/tf.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tf.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-atg": [
+    {
+      "kind": "flag",
+      "label": "Antigua and Barbuda flag",
+      "src": "/atlas/symbols/modern/ag.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ag.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-aus": [
+    {
+      "kind": "flag",
+      "label": "Australia flag",
+      "src": "/atlas/symbols/modern/au.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/au.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-aut": [
+    {
+      "kind": "flag",
+      "label": "Austria flag",
+      "src": "/atlas/symbols/modern/at.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/at.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-aze": [
+    {
+      "kind": "flag",
+      "label": "Azerbaijan flag",
+      "src": "/atlas/symbols/modern/az.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/az.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bdi": [
+    {
+      "kind": "flag",
+      "label": "Burundi flag",
+      "src": "/atlas/symbols/modern/bi.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bi.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bel": [
+    {
+      "kind": "flag",
+      "label": "Belgium flag",
+      "src": "/atlas/symbols/modern/be.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/be.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ben": [
+    {
+      "kind": "flag",
+      "label": "Benin flag",
+      "src": "/atlas/symbols/modern/bj.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bj.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bfa": [
+    {
+      "kind": "flag",
+      "label": "Burkina Faso flag",
+      "src": "/atlas/symbols/modern/bf.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bf.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bgd": [
+    {
+      "kind": "flag",
+      "label": "Bangladesh flag",
+      "src": "/atlas/symbols/modern/bd.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bd.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bgr": [
+    {
+      "kind": "flag",
+      "label": "Bulgaria flag",
+      "src": "/atlas/symbols/modern/bg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bhr": [
+    {
+      "kind": "flag",
+      "label": "Bahrain flag",
+      "src": "/atlas/symbols/modern/bh.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bh.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bhs": [
+    {
+      "kind": "flag",
+      "label": "The Bahamas flag",
+      "src": "/atlas/symbols/modern/bs.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bs.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bih": [
+    {
+      "kind": "flag",
+      "label": "Bosnia and Herzegovina flag",
+      "src": "/atlas/symbols/modern/ba.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ba.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-blm": [
+    {
+      "kind": "flag",
+      "label": "Saint Barthelemy flag",
+      "src": "/atlas/symbols/modern/bl.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bl.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-blr": [
+    {
+      "kind": "flag",
+      "label": "Belarus flag",
+      "src": "/atlas/symbols/modern/by.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/by.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-blz": [
+    {
+      "kind": "flag",
+      "label": "Belize flag",
+      "src": "/atlas/symbols/modern/bz.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bz.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bmu": [
+    {
+      "kind": "flag",
+      "label": "Bermuda flag",
+      "src": "/atlas/symbols/modern/bm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bol": [
+    {
+      "kind": "flag",
+      "label": "Bolivia flag",
+      "src": "/atlas/symbols/modern/bo.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bo.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bra": [
+    {
+      "kind": "flag",
+      "label": "Brazil flag",
+      "src": "/atlas/symbols/modern/br.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/br.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-brb": [
+    {
+      "kind": "flag",
+      "label": "Barbados flag",
+      "src": "/atlas/symbols/modern/bb.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bb.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-brn": [
+    {
+      "kind": "flag",
+      "label": "Brunei flag",
+      "src": "/atlas/symbols/modern/bn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-btn": [
+    {
+      "kind": "flag",
+      "label": "Bhutan flag",
+      "src": "/atlas/symbols/modern/bt.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bt.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-bwa": [
+    {
+      "kind": "flag",
+      "label": "Botswana flag",
+      "src": "/atlas/symbols/modern/bw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/bw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-caf": [
+    {
+      "kind": "flag",
+      "label": "Central African Republic flag",
+      "src": "/atlas/symbols/modern/cf.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cf.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-can": [
+    {
+      "kind": "flag",
+      "label": "Canada flag",
+      "src": "/atlas/symbols/modern/ca.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ca.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-che": [
+    {
+      "kind": "flag",
+      "label": "Switzerland flag",
+      "src": "/atlas/symbols/modern/ch.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ch.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-chl": [
+    {
+      "kind": "flag",
+      "label": "Chile flag",
+      "src": "/atlas/symbols/modern/cl.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cl.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-chn": [
+    {
+      "kind": "flag",
+      "label": "China flag",
+      "src": "/atlas/symbols/modern/cn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-civ": [
+    {
+      "kind": "flag",
+      "label": "Ivory Coast flag",
+      "src": "/atlas/symbols/modern/ci.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ci.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cmr": [
+    {
+      "kind": "flag",
+      "label": "Cameroon flag",
+      "src": "/atlas/symbols/modern/cm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cod": [
+    {
+      "kind": "flag",
+      "label": "Democratic Republic of the Congo flag",
+      "src": "/atlas/symbols/modern/cd.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cd.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cog": [
+    {
+      "kind": "flag",
+      "label": "Republic of the Congo flag",
+      "src": "/atlas/symbols/modern/cg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cok": [
+    {
+      "kind": "flag",
+      "label": "Cook Islands flag",
+      "src": "/atlas/symbols/modern/ck.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ck.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-col": [
+    {
+      "kind": "flag",
+      "label": "Colombia flag",
+      "src": "/atlas/symbols/modern/co.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/co.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-com": [
+    {
+      "kind": "flag",
+      "label": "Comoros flag",
+      "src": "/atlas/symbols/modern/km.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/km.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cpv": [
+    {
+      "kind": "flag",
+      "label": "Cabo Verde flag",
+      "src": "/atlas/symbols/modern/cv.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cv.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cri": [
+    {
+      "kind": "flag",
+      "label": "Costa Rica flag",
+      "src": "/atlas/symbols/modern/cr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cub": [
+    {
+      "kind": "flag",
+      "label": "Cuba flag",
+      "src": "/atlas/symbols/modern/cu.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cu.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cuw": [
+    {
+      "kind": "flag",
+      "label": "Curaçao flag",
+      "src": "/atlas/symbols/modern/cw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cym": [
+    {
+      "kind": "flag",
+      "label": "Cayman Islands flag",
+      "src": "/atlas/symbols/modern/ky.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ky.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cyp": [
+    {
+      "kind": "flag",
+      "label": "Cyprus flag",
+      "src": "/atlas/symbols/modern/cy.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cy.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-cze": [
+    {
+      "kind": "flag",
+      "label": "Czechia flag",
+      "src": "/atlas/symbols/modern/cz.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/cz.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-deu": [
+    {
+      "kind": "flag",
+      "label": "Germany flag",
+      "src": "/atlas/symbols/modern/de.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/de.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-dji": [
+    {
+      "kind": "flag",
+      "label": "Djibouti flag",
+      "src": "/atlas/symbols/modern/dj.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/dj.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-dma": [
+    {
+      "kind": "flag",
+      "label": "Dominica flag",
+      "src": "/atlas/symbols/modern/dm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/dm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-dnk": [
+    {
+      "kind": "flag",
+      "label": "Denmark flag",
+      "src": "/atlas/symbols/modern/dk.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/dk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-dom": [
+    {
+      "kind": "flag",
+      "label": "Dominican Republic flag",
+      "src": "/atlas/symbols/modern/do.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/do.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-dza": [
+    {
+      "kind": "flag",
+      "label": "Algeria flag",
+      "src": "/atlas/symbols/modern/dz.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/dz.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ecu": [
+    {
+      "kind": "flag",
+      "label": "Ecuador flag",
+      "src": "/atlas/symbols/modern/ec.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ec.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-egy": [
+    {
+      "kind": "flag",
+      "label": "Egypt flag",
+      "src": "/atlas/symbols/modern/eg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/eg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-eri": [
+    {
+      "kind": "flag",
+      "label": "Eritrea flag",
+      "src": "/atlas/symbols/modern/er.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/er.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-esp": [
+    {
+      "kind": "flag",
+      "label": "Spain flag",
+      "src": "/atlas/symbols/modern/es.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/es.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-est": [
+    {
+      "kind": "flag",
+      "label": "Estonia flag",
+      "src": "/atlas/symbols/modern/ee.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ee.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-eth": [
+    {
+      "kind": "flag",
+      "label": "Ethiopia flag",
+      "src": "/atlas/symbols/modern/et.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/et.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-fin": [
+    {
+      "kind": "flag",
+      "label": "Finland flag",
+      "src": "/atlas/symbols/modern/fi.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/fi.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-fji": [
+    {
+      "kind": "flag",
+      "label": "Fiji flag",
+      "src": "/atlas/symbols/modern/fj.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/fj.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-flk": [
+    {
+      "kind": "flag",
+      "label": "Falkland Islands flag",
+      "src": "/atlas/symbols/modern/fk.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/fk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-fra": [
+    {
+      "kind": "flag",
+      "label": "France flag",
+      "src": "/atlas/symbols/modern/fr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/fr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-fro": [
+    {
+      "kind": "flag",
+      "label": "Faroe Islands flag",
+      "src": "/atlas/symbols/modern/fo.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/fo.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-fsm": [
+    {
+      "kind": "flag",
+      "label": "Federated States of Micronesia flag",
+      "src": "/atlas/symbols/modern/fm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/fm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gab": [
+    {
+      "kind": "flag",
+      "label": "Gabon flag",
+      "src": "/atlas/symbols/modern/ga.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ga.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gbr": [
+    {
+      "kind": "flag",
+      "label": "United Kingdom flag",
+      "src": "/atlas/symbols/modern/gb.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gb.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-geo": [
+    {
+      "kind": "flag",
+      "label": "Georgia flag",
+      "src": "/atlas/symbols/modern/ge.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ge.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ggy": [
+    {
+      "kind": "flag",
+      "label": "Guernsey flag",
+      "src": "/atlas/symbols/modern/gg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gha": [
+    {
+      "kind": "flag",
+      "label": "Ghana flag",
+      "src": "/atlas/symbols/modern/gh.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gh.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gib": [
+    {
+      "kind": "flag",
+      "label": "Gibraltar flag",
+      "src": "/atlas/symbols/modern/gi.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gi.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gin": [
+    {
+      "kind": "flag",
+      "label": "Guinea flag",
+      "src": "/atlas/symbols/modern/gn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gmb": [
+    {
+      "kind": "flag",
+      "label": "Gambia flag",
+      "src": "/atlas/symbols/modern/gm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gnb": [
+    {
+      "kind": "flag",
+      "label": "Guinea-Bissau flag",
+      "src": "/atlas/symbols/modern/gw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gnq": [
+    {
+      "kind": "flag",
+      "label": "Equatorial Guinea flag",
+      "src": "/atlas/symbols/modern/gq.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gq.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-grc": [
+    {
+      "kind": "flag",
+      "label": "Greece flag",
+      "src": "/atlas/symbols/modern/gr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-grd": [
+    {
+      "kind": "flag",
+      "label": "Grenada flag",
+      "src": "/atlas/symbols/modern/gd.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gd.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-grl": [
+    {
+      "kind": "flag",
+      "label": "Greenland flag",
+      "src": "/atlas/symbols/modern/gl.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gl.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gtm": [
+    {
+      "kind": "flag",
+      "label": "Guatemala flag",
+      "src": "/atlas/symbols/modern/gt.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gt.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-gum": [
+    {
+      "kind": "flag",
+      "label": "Guam flag",
+      "src": "/atlas/symbols/modern/gu.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gu.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-guy": [
+    {
+      "kind": "flag",
+      "label": "Guyana flag",
+      "src": "/atlas/symbols/modern/gy.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gy.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-hkg": [
+    {
+      "kind": "flag",
+      "label": "Hong Kong S.A.R. flag",
+      "src": "/atlas/symbols/modern/hk.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/hk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-hmd": [
+    {
+      "kind": "flag",
+      "label": "Heard Island and McDonald Islands flag",
+      "src": "/atlas/symbols/modern/hm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/hm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-hnd": [
+    {
+      "kind": "flag",
+      "label": "Honduras flag",
+      "src": "/atlas/symbols/modern/hn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/hn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-hrv": [
+    {
+      "kind": "flag",
+      "label": "Croatia flag",
+      "src": "/atlas/symbols/modern/hr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/hr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-hti": [
+    {
+      "kind": "flag",
+      "label": "Haiti flag",
+      "src": "/atlas/symbols/modern/ht.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ht.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-hun": [
+    {
+      "kind": "flag",
+      "label": "Hungary flag",
+      "src": "/atlas/symbols/modern/hu.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/hu.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-idn": [
+    {
+      "kind": "flag",
+      "label": "Indonesia flag",
+      "src": "/atlas/symbols/modern/id.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/id.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-imn": [
+    {
+      "kind": "flag",
+      "label": "Isle of Man flag",
+      "src": "/atlas/symbols/modern/im.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/im.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ind": [
+    {
+      "kind": "flag",
+      "label": "India flag",
+      "src": "/atlas/symbols/modern/in.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/in.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-iot": [
+    {
+      "kind": "flag",
+      "label": "British Indian Ocean Territory flag",
+      "src": "/atlas/symbols/modern/io.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/io.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-irl": [
+    {
+      "kind": "flag",
+      "label": "Ireland flag",
+      "src": "/atlas/symbols/modern/ie.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ie.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-irn": [
+    {
+      "kind": "flag",
+      "label": "Iran flag",
+      "src": "/atlas/symbols/modern/ir.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ir.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-irq": [
+    {
+      "kind": "flag",
+      "label": "Iraq flag",
+      "src": "/atlas/symbols/modern/iq.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/iq.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-isl": [
+    {
+      "kind": "flag",
+      "label": "Iceland flag",
+      "src": "/atlas/symbols/modern/is.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/is.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-isr": [
+    {
+      "kind": "flag",
+      "label": "Israel flag",
+      "src": "/atlas/symbols/modern/il.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/il.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ita": [
+    {
+      "kind": "flag",
+      "label": "Italy flag",
+      "src": "/atlas/symbols/modern/it.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/it.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-jam": [
+    {
+      "kind": "flag",
+      "label": "Jamaica flag",
+      "src": "/atlas/symbols/modern/jm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/jm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-jey": [
+    {
+      "kind": "flag",
+      "label": "Jersey flag",
+      "src": "/atlas/symbols/modern/je.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/je.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-jor": [
+    {
+      "kind": "flag",
+      "label": "Jordan flag",
+      "src": "/atlas/symbols/modern/jo.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/jo.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-jpn": [
+    {
+      "kind": "flag",
+      "label": "Japan flag",
+      "src": "/atlas/symbols/modern/jp.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/jp.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-kaz": [
+    {
+      "kind": "flag",
+      "label": "Kazakhstan flag",
+      "src": "/atlas/symbols/modern/kz.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/kz.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ken": [
+    {
+      "kind": "flag",
+      "label": "Kenya flag",
+      "src": "/atlas/symbols/modern/ke.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ke.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-kgz": [
+    {
+      "kind": "flag",
+      "label": "Kyrgyzstan flag",
+      "src": "/atlas/symbols/modern/kg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/kg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-khm": [
+    {
+      "kind": "flag",
+      "label": "Cambodia flag",
+      "src": "/atlas/symbols/modern/kh.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/kh.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-kir": [
+    {
+      "kind": "flag",
+      "label": "Kiribati flag",
+      "src": "/atlas/symbols/modern/ki.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ki.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-kna": [
+    {
+      "kind": "flag",
+      "label": "Saint Kitts and Nevis flag",
+      "src": "/atlas/symbols/modern/kn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/kn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-kor": [
+    {
+      "kind": "flag",
+      "label": "South Korea flag",
+      "src": "/atlas/symbols/modern/kr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/kr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-kos": [
+    {
+      "kind": "flag",
+      "label": "Kosovo flag",
+      "src": "/atlas/symbols/modern/xk.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/xk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-kwt": [
+    {
+      "kind": "flag",
+      "label": "Kuwait flag",
+      "src": "/atlas/symbols/modern/kw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/kw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lao": [
+    {
+      "kind": "flag",
+      "label": "Laos flag",
+      "src": "/atlas/symbols/modern/la.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/la.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lbn": [
+    {
+      "kind": "flag",
+      "label": "Lebanon flag",
+      "src": "/atlas/symbols/modern/lb.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/lb.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lbr": [
+    {
+      "kind": "flag",
+      "label": "Liberia flag",
+      "src": "/atlas/symbols/modern/lr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/lr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lby": [
+    {
+      "kind": "flag",
+      "label": "Libya flag",
+      "src": "/atlas/symbols/modern/ly.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ly.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lca": [
+    {
+      "kind": "flag",
+      "label": "Saint Lucia flag",
+      "src": "/atlas/symbols/modern/lc.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/lc.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lie": [
+    {
+      "kind": "flag",
+      "label": "Liechtenstein flag",
+      "src": "/atlas/symbols/modern/li.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/li.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lka": [
+    {
+      "kind": "flag",
+      "label": "Sri Lanka flag",
+      "src": "/atlas/symbols/modern/lk.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/lk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lso": [
+    {
+      "kind": "flag",
+      "label": "Lesotho flag",
+      "src": "/atlas/symbols/modern/ls.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ls.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ltu": [
+    {
+      "kind": "flag",
+      "label": "Lithuania flag",
+      "src": "/atlas/symbols/modern/lt.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/lt.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lux": [
+    {
+      "kind": "flag",
+      "label": "Luxembourg flag",
+      "src": "/atlas/symbols/modern/lu.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/lu.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-lva": [
+    {
+      "kind": "flag",
+      "label": "Latvia flag",
+      "src": "/atlas/symbols/modern/lv.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/lv.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mac": [
+    {
+      "kind": "flag",
+      "label": "Macao S.A.R flag",
+      "src": "/atlas/symbols/modern/mo.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mo.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-maf": [
+    {
+      "kind": "flag",
+      "label": "Saint Martin flag",
+      "src": "/atlas/symbols/modern/mf.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mf.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mar": [
+    {
+      "kind": "flag",
+      "label": "Morocco flag",
+      "src": "/atlas/symbols/modern/ma.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ma.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mco": [
+    {
+      "kind": "flag",
+      "label": "Monaco flag",
+      "src": "/atlas/symbols/modern/mc.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mc.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mda": [
+    {
+      "kind": "flag",
+      "label": "Moldova flag",
+      "src": "/atlas/symbols/modern/md.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/md.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mdg": [
+    {
+      "kind": "flag",
+      "label": "Madagascar flag",
+      "src": "/atlas/symbols/modern/mg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mdv": [
+    {
+      "kind": "flag",
+      "label": "Maldives flag",
+      "src": "/atlas/symbols/modern/mv.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mv.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mex": [
+    {
+      "kind": "flag",
+      "label": "Mexico flag",
+      "src": "/atlas/symbols/modern/mx.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mx.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mhl": [
+    {
+      "kind": "flag",
+      "label": "Marshall Islands flag",
+      "src": "/atlas/symbols/modern/mh.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mh.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mkd": [
+    {
+      "kind": "flag",
+      "label": "North Macedonia flag",
+      "src": "/atlas/symbols/modern/mk.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mli": [
+    {
+      "kind": "flag",
+      "label": "Mali flag",
+      "src": "/atlas/symbols/modern/ml.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ml.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mlt": [
+    {
+      "kind": "flag",
+      "label": "Malta flag",
+      "src": "/atlas/symbols/modern/mt.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mt.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mmr": [
+    {
+      "kind": "flag",
+      "label": "Myanmar flag",
+      "src": "/atlas/symbols/modern/mm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mne": [
+    {
+      "kind": "flag",
+      "label": "Montenegro flag",
+      "src": "/atlas/symbols/modern/me.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/me.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mng": [
+    {
+      "kind": "flag",
+      "label": "Mongolia flag",
+      "src": "/atlas/symbols/modern/mn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mnp": [
+    {
+      "kind": "flag",
+      "label": "Northern Mariana Islands flag",
+      "src": "/atlas/symbols/modern/mp.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mp.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-moz": [
+    {
+      "kind": "flag",
+      "label": "Mozambique flag",
+      "src": "/atlas/symbols/modern/mz.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mz.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mrt": [
+    {
+      "kind": "flag",
+      "label": "Mauritania flag",
+      "src": "/atlas/symbols/modern/mr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-msr": [
+    {
+      "kind": "flag",
+      "label": "Montserrat flag",
+      "src": "/atlas/symbols/modern/ms.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ms.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mus": [
+    {
+      "kind": "flag",
+      "label": "Mauritius flag",
+      "src": "/atlas/symbols/modern/mu.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mu.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mwi": [
+    {
+      "kind": "flag",
+      "label": "Malawi flag",
+      "src": "/atlas/symbols/modern/mw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/mw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-mys": [
+    {
+      "kind": "flag",
+      "label": "Malaysia flag",
+      "src": "/atlas/symbols/modern/my.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/my.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-nam": [
+    {
+      "kind": "flag",
+      "label": "Namibia flag",
+      "src": "/atlas/symbols/modern/na.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/na.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ncl": [
+    {
+      "kind": "flag",
+      "label": "New Caledonia flag",
+      "src": "/atlas/symbols/modern/nc.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/nc.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ner": [
+    {
+      "kind": "flag",
+      "label": "Niger flag",
+      "src": "/atlas/symbols/modern/ne.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ne.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-nfk": [
+    {
+      "kind": "flag",
+      "label": "Norfolk Island flag",
+      "src": "/atlas/symbols/modern/nf.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/nf.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-nga": [
+    {
+      "kind": "flag",
+      "label": "Nigeria flag",
+      "src": "/atlas/symbols/modern/ng.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ng.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-nic": [
+    {
+      "kind": "flag",
+      "label": "Nicaragua flag",
+      "src": "/atlas/symbols/modern/ni.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ni.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-niu": [
+    {
+      "kind": "flag",
+      "label": "Niue flag",
+      "src": "/atlas/symbols/modern/nu.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/nu.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-nld": [
+    {
+      "kind": "flag",
+      "label": "Netherlands flag",
+      "src": "/atlas/symbols/modern/nl.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/nl.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-nor": [
+    {
+      "kind": "flag",
+      "label": "Norway flag",
+      "src": "/atlas/symbols/modern/no.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/no.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-npl": [
+    {
+      "kind": "flag",
+      "label": "Nepal flag",
+      "src": "/atlas/symbols/modern/np.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/np.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-nru": [
+    {
+      "kind": "flag",
+      "label": "Nauru flag",
+      "src": "/atlas/symbols/modern/nr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/nr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-nzl": [
+    {
+      "kind": "flag",
+      "label": "New Zealand flag",
+      "src": "/atlas/symbols/modern/nz.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/nz.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-omn": [
+    {
+      "kind": "flag",
+      "label": "Oman flag",
+      "src": "/atlas/symbols/modern/om.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/om.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-pak": [
+    {
+      "kind": "flag",
+      "label": "Pakistan flag",
+      "src": "/atlas/symbols/modern/pk.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-pan": [
+    {
+      "kind": "flag",
+      "label": "Panama flag",
+      "src": "/atlas/symbols/modern/pa.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pa.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-pcn": [
+    {
+      "kind": "flag",
+      "label": "Pitcairn Islands flag",
+      "src": "/atlas/symbols/modern/pn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-per": [
+    {
+      "kind": "flag",
+      "label": "Peru flag",
+      "src": "/atlas/symbols/modern/pe.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pe.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-phl": [
+    {
+      "kind": "flag",
+      "label": "Philippines flag",
+      "src": "/atlas/symbols/modern/ph.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ph.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-plw": [
+    {
+      "kind": "flag",
+      "label": "Palau flag",
+      "src": "/atlas/symbols/modern/pw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-png": [
+    {
+      "kind": "flag",
+      "label": "Papua New Guinea flag",
+      "src": "/atlas/symbols/modern/pg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-pol": [
+    {
+      "kind": "flag",
+      "label": "Poland flag",
+      "src": "/atlas/symbols/modern/pl.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pl.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-pri": [
+    {
+      "kind": "flag",
+      "label": "Puerto Rico flag",
+      "src": "/atlas/symbols/modern/pr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-prk": [
+    {
+      "kind": "flag",
+      "label": "North Korea flag",
+      "src": "/atlas/symbols/modern/kp.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/kp.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-prt": [
+    {
+      "kind": "flag",
+      "label": "Portugal flag",
+      "src": "/atlas/symbols/modern/pt.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pt.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-pry": [
+    {
+      "kind": "flag",
+      "label": "Paraguay flag",
+      "src": "/atlas/symbols/modern/py.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/py.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-psx": [
+    {
+      "kind": "flag",
+      "label": "Palestinian flag",
+      "src": "/atlas/symbols/modern/ps.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ps.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-pyf": [
+    {
+      "kind": "flag",
+      "label": "French Polynesia flag",
+      "src": "/atlas/symbols/modern/pf.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pf.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-qat": [
+    {
+      "kind": "flag",
+      "label": "Qatar flag",
+      "src": "/atlas/symbols/modern/qa.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/qa.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-rou": [
+    {
+      "kind": "flag",
+      "label": "Romania flag",
+      "src": "/atlas/symbols/modern/ro.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ro.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-rus": [
+    {
+      "kind": "flag",
+      "label": "Russia flag",
+      "src": "/atlas/symbols/modern/ru.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ru.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-rwa": [
+    {
+      "kind": "flag",
+      "label": "Rwanda flag",
+      "src": "/atlas/symbols/modern/rw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/rw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sah": [
+    {
+      "kind": "flag",
+      "label": "Sahrawi Arab Democratic Republic flag",
+      "src": "/atlas/symbols/modern/eh.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/eh.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sau": [
+    {
+      "kind": "flag",
+      "label": "Saudi Arabia flag",
+      "src": "/atlas/symbols/modern/sa.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sa.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sdn": [
+    {
+      "kind": "flag",
+      "label": "Sudan flag",
+      "src": "/atlas/symbols/modern/sd.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sd.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sds": [
+    {
+      "kind": "flag",
+      "label": "South Sudan flag",
+      "src": "/atlas/symbols/modern/ss.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ss.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sen": [
+    {
+      "kind": "flag",
+      "label": "Senegal flag",
+      "src": "/atlas/symbols/modern/sn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sgp": [
+    {
+      "kind": "flag",
+      "label": "Singapore flag",
+      "src": "/atlas/symbols/modern/sg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sgs": [
+    {
+      "kind": "flag",
+      "label": "South Georgia and the Islands flag",
+      "src": "/atlas/symbols/modern/gs.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/gs.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-shn": [
+    {
+      "kind": "flag",
+      "label": "Saint Helena flag",
+      "src": "/atlas/symbols/modern/sh.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sh.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-slb": [
+    {
+      "kind": "flag",
+      "label": "Solomon Islands flag",
+      "src": "/atlas/symbols/modern/sb.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sb.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sle": [
+    {
+      "kind": "flag",
+      "label": "Sierra Leone flag",
+      "src": "/atlas/symbols/modern/sl.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sl.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-slv": [
+    {
+      "kind": "flag",
+      "label": "El Salvador flag",
+      "src": "/atlas/symbols/modern/sv.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sv.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-smr": [
+    {
+      "kind": "flag",
+      "label": "San Marino flag",
+      "src": "/atlas/symbols/modern/sm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-som": [
+    {
+      "kind": "flag",
+      "label": "Somalia flag",
+      "src": "/atlas/symbols/modern/so.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/so.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-spm": [
+    {
+      "kind": "flag",
+      "label": "Saint Pierre and Miquelon flag",
+      "src": "/atlas/symbols/modern/pm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/pm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-srb": [
+    {
+      "kind": "flag",
+      "label": "Republic of Serbia flag",
+      "src": "/atlas/symbols/modern/rs.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/rs.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-stp": [
+    {
+      "kind": "flag",
+      "label": "São Tomé and Principe flag",
+      "src": "/atlas/symbols/modern/st.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/st.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sur": [
+    {
+      "kind": "flag",
+      "label": "Suriname flag",
+      "src": "/atlas/symbols/modern/sr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-svk": [
+    {
+      "kind": "flag",
+      "label": "Slovakia flag",
+      "src": "/atlas/symbols/modern/sk.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sk.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-svn": [
+    {
+      "kind": "flag",
+      "label": "Slovenia flag",
+      "src": "/atlas/symbols/modern/si.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/si.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-swe": [
+    {
+      "kind": "flag",
+      "label": "Sweden flag",
+      "src": "/atlas/symbols/modern/se.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/se.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-swz": [
+    {
+      "kind": "flag",
+      "label": "eSwatini flag",
+      "src": "/atlas/symbols/modern/sz.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sz.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-sxm": [
+    {
+      "kind": "flag",
+      "label": "Sint Maarten flag",
+      "src": "/atlas/symbols/modern/sx.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sx.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-syc": [
+    {
+      "kind": "flag",
+      "label": "Seychelles flag",
+      "src": "/atlas/symbols/modern/sc.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sc.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-syr": [
+    {
+      "kind": "flag",
+      "label": "Syria flag",
+      "src": "/atlas/symbols/modern/sy.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/sy.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tca": [
+    {
+      "kind": "flag",
+      "label": "Turks and Caicos Islands flag",
+      "src": "/atlas/symbols/modern/tc.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tc.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tcd": [
+    {
+      "kind": "flag",
+      "label": "Chad flag",
+      "src": "/atlas/symbols/modern/td.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/td.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tgo": [
+    {
+      "kind": "flag",
+      "label": "Togo flag",
+      "src": "/atlas/symbols/modern/tg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tha": [
+    {
+      "kind": "flag",
+      "label": "Thailand flag",
+      "src": "/atlas/symbols/modern/th.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/th.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tjk": [
+    {
+      "kind": "flag",
+      "label": "Tajikistan flag",
+      "src": "/atlas/symbols/modern/tj.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tj.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tkm": [
+    {
+      "kind": "flag",
+      "label": "Turkmenistan flag",
+      "src": "/atlas/symbols/modern/tm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tls": [
+    {
+      "kind": "flag",
+      "label": "East Timor flag",
+      "src": "/atlas/symbols/modern/tl.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tl.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ton": [
+    {
+      "kind": "flag",
+      "label": "Tonga flag",
+      "src": "/atlas/symbols/modern/to.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/to.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tto": [
+    {
+      "kind": "flag",
+      "label": "Trinidad and Tobago flag",
+      "src": "/atlas/symbols/modern/tt.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tt.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tun": [
+    {
+      "kind": "flag",
+      "label": "Tunisia flag",
+      "src": "/atlas/symbols/modern/tn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tur": [
+    {
+      "kind": "flag",
+      "label": "Turkey flag",
+      "src": "/atlas/symbols/modern/tr.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tr.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tuv": [
+    {
+      "kind": "flag",
+      "label": "Tuvalu flag",
+      "src": "/atlas/symbols/modern/tv.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tv.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-twn": [
+    {
+      "kind": "flag",
+      "label": "Republic of China (Taiwan) flag",
+      "src": "/atlas/symbols/modern/tw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-tza": [
+    {
+      "kind": "flag",
+      "label": "United Republic of Tanzania flag",
+      "src": "/atlas/symbols/modern/tz.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/tz.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-uga": [
+    {
+      "kind": "flag",
+      "label": "Uganda flag",
+      "src": "/atlas/symbols/modern/ug.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ug.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ukr": [
+    {
+      "kind": "flag",
+      "label": "Ukraine flag",
+      "src": "/atlas/symbols/modern/ua.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ua.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-umi": [
+    {
+      "kind": "flag",
+      "label": "United States Minor Outlying Islands flag",
+      "src": "/atlas/symbols/modern/um.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/um.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ury": [
+    {
+      "kind": "flag",
+      "label": "Uruguay flag",
+      "src": "/atlas/symbols/modern/uy.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/uy.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-usa": [
+    {
+      "kind": "flag",
+      "label": "United States of America flag",
+      "src": "/atlas/symbols/modern/us.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/us.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-uzb": [
+    {
+      "kind": "flag",
+      "label": "Uzbekistan flag",
+      "src": "/atlas/symbols/modern/uz.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/uz.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-vat": [
+    {
+      "kind": "flag",
+      "label": "Vatican flag",
+      "src": "/atlas/symbols/modern/va.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/va.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-vct": [
+    {
+      "kind": "flag",
+      "label": "Saint Vincent and the Grenadines flag",
+      "src": "/atlas/symbols/modern/vc.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/vc.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-ven": [
+    {
+      "kind": "flag",
+      "label": "Venezuela flag",
+      "src": "/atlas/symbols/modern/ve.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ve.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-vgb": [
+    {
+      "kind": "flag",
+      "label": "British Virgin Islands flag",
+      "src": "/atlas/symbols/modern/vg.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/vg.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-vir": [
+    {
+      "kind": "flag",
+      "label": "United States Virgin Islands flag",
+      "src": "/atlas/symbols/modern/vi.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/vi.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-vnm": [
+    {
+      "kind": "flag",
+      "label": "Vietnam flag",
+      "src": "/atlas/symbols/modern/vn.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/vn.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-vut": [
+    {
+      "kind": "flag",
+      "label": "Vanuatu flag",
+      "src": "/atlas/symbols/modern/vu.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/vu.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-wlf": [
+    {
+      "kind": "flag",
+      "label": "Wallis and Futuna flag",
+      "src": "/atlas/symbols/modern/wf.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/wf.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-wsm": [
+    {
+      "kind": "flag",
+      "label": "Samoa flag",
+      "src": "/atlas/symbols/modern/ws.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ws.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-yem": [
+    {
+      "kind": "flag",
+      "label": "Yemen flag",
+      "src": "/atlas/symbols/modern/ye.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/ye.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-zaf": [
+    {
+      "kind": "flag",
+      "label": "South Africa flag",
+      "src": "/atlas/symbols/modern/za.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/za.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-zmb": [
+    {
+      "kind": "flag",
+      "label": "Zambia flag",
+      "src": "/atlas/symbols/modern/zm.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/zm.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ],
+  "country-zwe": [
+    {
+      "kind": "flag",
+      "label": "Zimbabwe flag",
+      "src": "/atlas/symbols/modern/zw.svg",
+      "modernOnly": true,
+      "start": null,
+      "end": null,
+      "sourceUrl": "https://github.com/lipis/flag-icons/blob/v7.3.2/flags/4x3/zw.svg",
+      "license": "MIT",
+      "attribution": "flag-icons 7.3.2, Panayiotis Lipiridis and contributors; 4:3 SVG icon adaptation."
+    }
+  ]
+}

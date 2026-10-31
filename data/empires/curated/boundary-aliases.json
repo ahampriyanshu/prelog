@@ -1,0 +1,678 @@
+[
+  {
+    "sourceName": "USSR",
+    "targetId": "atlas-230",
+    "validStart": 1922,
+    "validEnd": 1991,
+    "observedYears": [
+      1938,
+      1945,
+      1960
+    ],
+    "excludedYears": [
+      1920
+    ],
+    "quarantineYears": [
+      1920
+    ],
+    "reason": "USSR is the Soviet Union. Keep only snapshots during 1922–1991. The 1920 USSR label predates the Union’s establishment and should be quarantined; it must not be used as a 1920 Soviet Union border.",
+    "sources": [
+      {
+        "title": "Treaty on the Creation of the Soviet Union — Library of Congress",
+        "url": "https://blogs.loc.gov/law/2013/01/treaty-on-the-creation-of-the-soviet-union-signed-sealed-and-delivered/"
+      },
+      {
+        "title": "Internal Workings of the Soviet Union — Library of Congress",
+        "url": "https://www.loc.gov/exhibits/archives/intn.html"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1938.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1945.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1960.geojson"
+    ]
+  },
+  {
+    "sourceName": "Sultanate of Delhi",
+    "targetId": "atlas-112",
+    "validStart": 1206,
+    "validEnd": 1526,
+    "observedYears": [
+      1279,
+      1300,
+      1400,
+      1492,
+      1500
+    ],
+    "excludedYears": [
+      1200
+    ],
+    "quarantineYears": [
+      1200
+    ],
+    "reason": "Equivalent naming of the Delhi Sultanate founded in 1206. The source label at 1200 predates its establishment and should be quarantined.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica — Delhi Sultanate",
+        "url": "https://www.iranicaonline.org/articles/delhi-sultanate/"
+      },
+      {
+        "title": "NCERT via IIT Kanpur — Delhi: 12th to 15th Century",
+        "url": "https://sathee.iitk.ac.in/ncert-books/class-07/social-science/history-our-past-2/chapter-03-delhi-12th-to-15th-century/"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1279.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1300.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1400.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1492.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1500.geojson"
+    ]
+  },
+  {
+    "sourceName": "Empire of Alexander",
+    "targetId": "curated-alexander-empire",
+    "validStart": -336,
+    "validEnd": -323,
+    "observedYears": [
+      -323
+    ],
+    "excludedYears": [],
+    "quarantineYears": [],
+    "reason": "Explicit imperial name and 323 BCE snapshot match Alexander’s empire at the end of his reign; do not substitute the longer-lived Kingdom of Macedon.",
+    "sources": [
+      {
+        "title": "Alexander the Great — University College London",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/alexandergreat.html"
+      },
+      {
+        "title": "Art of the Hellenistic Age — The Met",
+        "url": "https://www.metmuseum.org/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_bc323.geojson"
+    ]
+  },
+  {
+    "sourceName": "Assyria",
+    "targetId": "curated-neo-assyrian-empire",
+    "validStart": -911,
+    "validEnd": -612,
+    "observedYears": [
+      -700
+    ],
+    "excludedYears": [
+      -1500,
+      -1000
+    ],
+    "quarantineYears": [],
+    "reason": "The Assyria snapshot at 700 BCE falls within the Neo-Assyrian polity. The 1500 and 1000 BCE snapshots belong to other Assyrian phases and are excluded from this dossier.",
+    "sources": [
+      {
+        "title": "Mesopotamia, 1000 BC–AD 1 — The Met",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html"
+      },
+      {
+        "title": "Nineveh — The Met",
+        "url": "https://www.metmuseum.org/essays/nineveh"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_bc700.geojson"
+    ]
+  },
+  {
+    "sourceName": "Great Khanate",
+    "targetId": "atlas-107",
+    "validStart": 1271,
+    "validEnd": 1368,
+    "observedYears": [
+      1279,
+      1300
+    ],
+    "excludedYears": [
+      1400
+    ],
+    "quarantineYears": [],
+    "reason": "At 1279 and 1300 the source feature covers China and Mongolia under the Yuan Great Khan. Its geometry is approximately 81–141°E and 20–58°N. Treat as Yuan only within 1271–1368; do not aggregate other Mongol khanates. The 1400 label must not map to Yuan rule in China.",
+    "sources": [
+      {
+        "title": "The Met — Yuan Dynasty",
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
+      },
+      {
+        "title": "University of Manchester — The rise and fall of paper money in Yuan China",
+        "url": "https://research.manchester.ac.uk/en/publications/the-rise-and-fall-of-paper-money-in-yuan-china-12601368/"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1279.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1300.geojson"
+    ]
+  },
+  {
+    "sourceName": "Ethiopia",
+    "targetId": "atlas-24",
+    "validStart": 1270,
+    "validEnd": 1974,
+    "observedYears": [
+      1279,
+      1300,
+      1400,
+      1492,
+      1500,
+      1530,
+      1600,
+      1650,
+      1700,
+      1715,
+      1783,
+      1800,
+      1815,
+      1878,
+      1880,
+      1900,
+      1920,
+      1930,
+      1945,
+      1960
+    ],
+    "excludedYears": [
+      1994,
+      2000,
+      2010
+    ],
+    "quarantineYears": [],
+    "reason": "Within 1270–1974, this name denotes the Ethiopian imperial state. Available eligible snapshots exclude the 1938 occupation because that feature is separately named Ethiopia (Italy). Post-1974 Ethiopia must retain a different identity.",
+    "sources": [
+      {
+        "title": "Wachemo University — History of Ethiopia and the Horn",
+        "url": "https://www.wcu.edu.et/FirstYearModule/History%20of%20Ethiopian%20and%20the%20Horn%20October%202022%20Final%20Omotic%20revised%20and%20final_compressed.pdf"
+      },
+      {
+        "title": "UNESCO — Gondar palaces and castles",
+        "url": "https://whc.unesco.org/en/activities/156/"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1279.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1300.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1400.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1492.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1500.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1530.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1600.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1650.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1700.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1715.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1783.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1800.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1815.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1878.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1880.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1900.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1920.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1930.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1945.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1960.geojson"
+    ]
+  },
+  {
+    "sourceName": "Abyssinia",
+    "targetId": "atlas-24",
+    "validStart": 1270,
+    "validEnd": 1974,
+    "observedYears": [
+      1914
+    ],
+    "excludedYears": [],
+    "quarantineYears": [],
+    "reason": "Abyssinia is a historical English name for Ethiopia; the available 1914 snapshot falls within the Ethiopian Empire.",
+    "sources": [
+      {
+        "title": "Wachemo University — History of Ethiopia and the Horn",
+        "url": "https://www.wcu.edu.et/FirstYearModule/History%20of%20Ethiopian%20and%20the%20Horn%20October%202022%20Final%20Omotic%20revised%20and%20final_compressed.pdf"
+      },
+      {
+        "title": "UNESCO — Gondar palaces and castles",
+        "url": "https://whc.unesco.org/en/activities/156/"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1914.geojson"
+    ]
+  },
+  {
+    "sourceName": "Axum",
+    "targetId": "curated-aksum",
+    "validStart": 1,
+    "validEnd": 800,
+    "observedYears": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ],
+    "excludedYears": [
+      -1,
+      900
+    ],
+    "quarantineYears": [],
+    "reason": "Axum is an alternative spelling of Aksum. Restrict to the dossier’s first-through-eighth-century display scope; excluded snapshots do not by themselves establish false source chronology.",
+    "sources": [
+      {
+        "title": "UNESCO — Aksum",
+        "url": "https://whc.unesco.org/en/list/15"
+      },
+      {
+        "title": "The Met — Foundations of Aksumite Civilization",
+        "url": "https://www.metmuseum.org/ja/essays/foundations-of-aksumite-civilization-and-its-christian-legacy-1st-7th-century"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_100.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_200.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_300.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_400.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_500.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_600.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_700.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_800.geojson"
+    ]
+  },
+  {
+    "sourceName": "Maratha",
+    "targetId": "atlas-111",
+    "validStart": 1674,
+    "validEnd": 1818,
+    "observedYears": [
+      1715
+    ],
+    "excludedYears": [],
+    "quarantineYears": [],
+    "reason": "The 1715 Maratha political feature falls within the Maratha imperial/confederate period.",
+    "sources": [
+      {
+        "title": "NCERT via IIT Kanpur — Eighteenth-Century Political Formations",
+        "url": "https://sathee.iitk.ac.in/ncert-books/class-07/social-science/history-our-past-2/chapter-08-eighteen-century-political-formations.md/"
+      },
+      {
+        "title": "Reserve Bank of India — Coins of the Indian Princely States",
+        "url": "https://systemhealth.rbi.org.in/Scripts/mc_colonial.aspx%281%29.html"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1715.geojson"
+    ]
+  },
+  {
+    "sourceName": "Maratha Confederacy",
+    "targetId": "atlas-111",
+    "validStart": 1674,
+    "validEnd": 1818,
+    "observedYears": [
+      1783,
+      1800,
+      1815
+    ],
+    "excludedYears": [],
+    "quarantineYears": [],
+    "reason": "Maratha Confederacy is the later decentralized form of the polity covered by this dossier. These available snapshots all precede the 1818 defeat.",
+    "sources": [
+      {
+        "title": "NCERT via IIT Kanpur — Eighteenth-Century Political Formations",
+        "url": "https://sathee.iitk.ac.in/ncert-books/class-07/social-science/history-our-past-2/chapter-08-eighteen-century-political-formations.md/"
+      },
+      {
+        "title": "Reserve Bank of India — Coins of the Indian Princely States",
+        "url": "https://systemhealth.rbi.org.in/Scripts/mc_colonial.aspx%281%29.html"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1783.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1800.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1815.geojson"
+    ]
+  },
+  {
+    "sourceName": "Mali",
+    "targetId": "atlas-18",
+    "validStart": 1230,
+    "validEnd": 1600,
+    "observedYears": [
+      1279,
+      1300,
+      1400,
+      1492,
+      1500
+    ],
+    "excludedYears": [
+      1000,
+      1100,
+      1200,
+      1650,
+      1700,
+      1715,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010
+    ],
+    "quarantineYears": [],
+    "reason": "Restrict the Mali label to imperial-period snapshots, 1230–1600. Do not attach early predecessor labels, later successor remnants, French colonial Mali, or the modern Republic of Mali.",
+    "sources": [
+      {
+        "title": "The Met — Sahel exhibition",
+        "url": "https://www.metmuseum.org/fr/exhibitions/sahel-art-empire-sahara/inside-the-exhibition"
+      },
+      {
+        "title": "Smithsonian — From Golden Age Empires to Independence",
+        "url": "https://festival.si.edu/articles/2003/from-golden-age-empires-to-independence"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1279.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1300.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1400.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1492.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1500.geojson"
+    ]
+  },
+  {
+    "sourceName": "Sikhs",
+    "targetId": "atlas-400",
+    "validStart": 1799,
+    "validEnd": 1849,
+    "observedYears": [
+      1800
+    ],
+    "excludedYears": [],
+    "quarantineYears": [],
+    "reason": "The Punjab political feature labelled Sikhs in 1800 falls after Ranjit Singh’s capture of Lahore and within the Sikh Empire dossier. This alias is year-constrained, never a general mapping of the Sikh community.",
+    "sources": [
+      {
+        "title": "Royal Welsh Museum — The Sikh Empire",
+        "url": "https://royalwelshmuseum.wales/timeline/the-sikh-empire/"
+      },
+      {
+        "title": "Wallace Collection — Maharaja Ranjit Singh",
+        "url": "https://www.wallacecollection.org/explore/explore-in-depth/the-sikh-empire/the-lahore-durbar-the-court-of-lahore/maharaja-ranjit-singh-lion-of-the-punjab/"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1800.geojson"
+    ]
+  },
+  {
+    "sourceName": "Srivijaya Empire",
+    "targetId": "curated-srivijaya",
+    "validStart": 670,
+    "validEnd": 1300,
+    "observedYears": [
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1279,
+      1300
+    ],
+    "excludedYears": [
+      1400
+    ],
+    "quarantineYears": [],
+    "reason": "Equivalent explicit imperial name. Restrict to the dossier’s approximate 670–1300 range; do not assign the source’s disputed 1400 continuation to this dossier.",
+    "sources": [
+      {
+        "title": "Oxford World History of Empire — Śrīvijaya",
+        "url": "https://academic.oup.com/book/39071/chapter-abstract/338392642"
+      },
+      {
+        "title": "Singapore National Library Board — Sang Nila Utama",
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=7dc04ff9-f9fb-44ba-867e-8b714f87b324"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_800.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_900.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1000.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1100.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1200.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1279.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1300.geojson"
+    ]
+  },
+  {
+    "sourceName": "Zululand",
+    "targetId": "curated-zulu-kingdom",
+    "validStart": 1816,
+    "validEnd": 1879,
+    "observedYears": [
+      1878
+    ],
+    "excludedYears": [
+      1880,
+      1900
+    ],
+    "quarantineYears": [],
+    "reason": "The 1878 Zululand snapshot precedes the British conquest and describes the independent Zulu kingdom. The 1880 and 1900 snapshots are after the independent polity’s end and must not attach.",
+    "sources": [
+      {
+        "title": "South African History Online — Zulu Family History",
+        "url": "https://sahistory.org.za/article/zulu-family-history"
+      },
+      {
+        "title": "National Army Museum — Zulu War",
+        "url": "https://www.nam.ac.uk/explore/zulu-war"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1878.geojson"
+    ]
+  },
+  {
+    "sourceName": "Han",
+    "targetId": "atlas-104",
+    "validStart": -206,
+    "validEnd": 220,
+    "observedYears": [
+      -1,
+      100,
+      200
+    ],
+    "excludedYears": [],
+    "quarantineYears": [],
+    "reason": "Within 206 BCE–220 CE, Han is the Han dynasty. These first-, second-, and third-century snapshots must not attach to Qin.",
+    "sources": [
+      {
+        "title": "The Met — Age of Empires",
+        "url": "https://www.metmuseum.org/fr/press/exhibitions/2016/age-of-empires"
+      },
+      {
+        "title": "Smithsonian — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_bc1.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_100.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_200.geojson"
+    ]
+  },
+  {
+    "sourceName": "Cholas",
+    "targetId": "atlas-110",
+    "validStart": 850,
+    "validEnd": 1279,
+    "observedYears": [
+      900,
+      1100
+    ],
+    "excludedYears": [
+      500,
+      700
+    ],
+    "quarantineYears": [],
+    "reason": "Restrict the plural Cholas label to the medieval imperial revival, approximately 850–1279. Earlier Chola lineages at 500 and 700 are outside this dossier.",
+    "sources": [
+      {
+        "title": "Smithsonian — Chola Dynasty",
+        "url": "https://asia-archive.si.edu/learn/india-shiva-nataraja-lord-of-the-dance/chola-dynasty/"
+      },
+      {
+        "title": "Ariyalur District — History",
+        "url": "https://ariyalur.nic.in/about-district/history/"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_900.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1100.geojson"
+    ]
+  },
+  {
+    "sourceName": "Ming Chinese Empire",
+    "targetId": "atlas-108",
+    "validStart": 1368,
+    "validEnd": 1644,
+    "observedYears": [
+      1500,
+      1530,
+      1600
+    ],
+    "excludedYears": [],
+    "quarantineYears": [],
+    "reason": "Explicit Ming imperial name; available 1500, 1530 and 1600 snapshots fall within the Ming dynasty.",
+    "sources": [
+      {
+        "title": "The Met — Ming Dynasty",
+        "url": "https://www.metmuseum.org/essays/ming-dynasty-1368-1644"
+      },
+      {
+        "title": "Smithsonian — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1500.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1530.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1600.geojson"
+    ]
+  },
+  {
+    "sourceName": "Eastern Roman Empire",
+    "targetId": "atlas-11",
+    "validStart": 330,
+    "validEnd": 1453,
+    "observedYears": [
+      400,
+      500,
+      600,
+      700
+    ],
+    "excludedYears": [],
+    "quarantineYears": [],
+    "reason": "Eastern Roman Empire and Byzantine Empire name the same continuing polity. Available 400–700 snapshots fall within both catalogue and dossier conventions.",
+    "sources": [
+      {
+        "title": "Byzantium (c. 330–1453) — The Met",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      },
+      {
+        "title": "Gold Solidus of Justinian I — The Met",
+        "url": "https://www.metmuseum.org/art/collection/search/469160"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_400.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_500.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_600.geojson",
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_700.geojson"
+    ]
+  },
+  {
+    "sourceName": "Western Roman Empire",
+    "targetId": "atlas-1",
+    "validStart": -27,
+    "validEnd": 476,
+    "observedYears": [
+      400
+    ],
+    "excludedYears": [
+      500
+    ],
+    "quarantineYears": [],
+    "reason": "The source’s western imperial component at 400 belongs to the Roman Empire dossier ending with western imperial rule in 476. Exclude 500; do not transfer the western component into the Byzantine record.",
+    "sources": [
+      {
+        "title": "The Roman empire in a connected world — Smarthistory",
+        "url": "https://smarthistory.org/reframing-art-history/roman-empire-in-a-connected-world/"
+      },
+      {
+        "title": "Byzantium (c. 330–1453) — The Met",
+        "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_400.geojson"
+    ]
+  },
+  {
+    "sourceName": "Ottoman Sultanate",
+    "targetId": "atlas-2",
+    "validStart": 1299,
+    "validEnd": 1922,
+    "observedYears": [
+      1920
+    ],
+    "excludedYears": [],
+    "quarantineYears": [],
+    "reason": "Ottoman Sultanate is the same Ottoman polity in its final years; the 1920 snapshot precedes the abolition of the sultanate in 1922.",
+    "sources": [
+      {
+        "title": "The Dissolution of the Ottoman Empire — US Holocaust Memorial Museum",
+        "url": "https://encyclopedia.ushmm.org/content/en/map/the-dissolution-of-the-ottoman-empire-1807-1924"
+      },
+      {
+        "title": "Ottoman introduction — The Met",
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-five/chapter-two/introduction"
+      }
+    ],
+    "geometrySources": [
+      "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1920.geojson"
+    ]
+  },
+  {
+    "sourceName": "Manchu Empire",
+    "targetId": "atlas-15",
+    "validStart": 1644,
+    "validEnd": 1912,
+    "observedYears": [
+      1650,
+      1700,
+      1715,
+      1815,
+      1878,
+      1880,
+      1900
+    ],
+    "excludedYears": [
+      1914
+    ],
+    "quarantineYears": [
+      1914
+    ],
+    "reason": "Manchu Empire here denotes Qing rule. The 1914 source label postdates the end of the Qing dynasty.",
+    "sources": [
+      {
+        "title": "Smithsonian · Chinese history timeline",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      }
+    ]
+  }
+]

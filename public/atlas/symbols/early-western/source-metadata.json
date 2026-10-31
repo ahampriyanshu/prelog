@@ -1,0 +1,955 @@
+{
+  "met-324290": {
+    "objectID": 324290,
+    "isHighlight": true,
+    "accessionNumber": "54.3.2",
+    "accessionYear": "1954",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/an/original/DT896.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/an/web-large/DT896.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "department": "Ancient West Asian Art",
+    "objectName": "Relief",
+    "title": "Plaque with horned lion-griffins",
+    "culture": "Achaemenid",
+    "period": "Achaemenid",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "",
+    "artistPrefix": "",
+    "artistDisplayName": "",
+    "artistDisplayBio": "",
+    "artistSuffix": "",
+    "artistAlphaSort": "",
+    "artistNationality": "",
+    "artistBeginDate": "",
+    "artistEndDate": "",
+    "artistGender": "",
+    "artistWikidata_URL": "",
+    "artistULAN_URL": "",
+    "objectDate": "ca. 6th–4th century BCE",
+    "objectBeginDate": -600,
+    "objectEndDate": -300,
+    "medium": "Gold",
+    "dimensions": "5 5/16 × 3 7/8 × 1/2 in., 0.2 lb. (13.5 × 9.8 × 1.2 cm, 0.1 kg)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 1.2,
+          "Height": 13.5,
+          "Weight": 0.1,
+          "Width": 9.8
+        }
+      }
+    ],
+    "creditLine": "Rogers Fund, 1954",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "Iran",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-07-15T04:51:29.13Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/324290",
+    "tags": [
+      {
+        "term": "Griffins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379594",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q130223"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384459",
+    "isTimelineWork": false,
+    "GalleryNumber": ""
+  },
+  "met-469161": {
+    "objectID": 469161,
+    "isHighlight": false,
+    "accessionNumber": "99.35.7407",
+    "accessionYear": "1899",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf99-35-7407s1.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/md/web-large/sf99-35-7407s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf99-35-7407s2.jpg"
+    ],
+    "constituents": null,
+    "department": "Medieval Art",
+    "objectName": "Solidus",
+    "title": "Solidus",
+    "culture": "Byzantine",
+    "period": "",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "",
+    "artistPrefix": "",
+    "artistDisplayName": "",
+    "artistDisplayBio": "",
+    "artistSuffix": "",
+    "artistAlphaSort": "",
+    "artistNationality": "",
+    "artistBeginDate": "",
+    "artistEndDate": "",
+    "artistGender": "",
+    "artistWikidata_URL": "",
+    "artistULAN_URL": "",
+    "objectDate": "491–518",
+    "objectBeginDate": 491,
+    "objectEndDate": 518,
+    "medium": "Gold",
+    "dimensions": "Overall: 13/16 x 1/16 in. (2 x 0.1 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 0.1,
+          "Diameter": 2
+        }
+      }
+    ],
+    "creditLine": "Bequest of Joseph H. Durkee, 1898",
+    "geographyType": "Made in",
+    "city": "Constantinople",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Coins",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-01-31T04:54:36.6Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/469161",
+    "tags": null,
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": ""
+  },
+  "cleveland": {
+    "info": {
+      "total": 1,
+      "parameters": {
+        "skip": 0,
+        "limit": 1000,
+        "q": "1988.40",
+        "select": "accession_number,accession_number_sortable,cover_accession_number,department,classification_type,collection,gallery,department",
+        "search": "1988.40"
+      }
+    },
+    "data": [
+      {
+        "id": 154223,
+        "accession_number": "1988.40",
+        "share_license_status": "CC0",
+        "tombstone": "Imperial Eagle, 100 BCE–100 CE. Probably Syria, Roman. Bronze with garnet inlays; overall: 12.1 x 6.9 x 9.7 cm (4 3/4 x 2 11/16 x 3 13/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1988.40",
+        "current_location": "103 Roman",
+        "title": "Imperial Eagle",
+        "creation_date": "100 BCE–100 CE",
+        "creation_date_earliest": -99,
+        "creation_date_latest": 99,
+        "artists_tags": [],
+        "culture": [
+          "probably Syria, Roman"
+        ],
+        "technique": "bronze with garnet inlays",
+        "support_materials": [],
+        "department": "Greek and Roman Art",
+        "collection": "GR - Roman",
+        "type": "Sculpture",
+        "measurements": "Overall: 12.1 x 6.9 x 9.7 cm (4 3/4 x 2 11/16 x 3 13/16 in.)",
+        "dimensions": {
+          "overall": {
+            "height": 0.121,
+            "height_inch": 4,
+            "height_inch_fraction": 0.75,
+            "width": 0.069,
+            "width_inch": 2,
+            "width_inch_fraction": 0.6875,
+            "depth": 0.097,
+            "depth_inch": 3,
+            "depth_inch_fraction": 0.8125
+          }
+        },
+        "state_of_the_work": null,
+        "edition_of_the_work": null,
+        "copyright": null,
+        "inscriptions": [],
+        "exhibitions": {
+          "current": [
+            {
+              "id": 310246,
+              "title": "The Year in Review for 1988",
+              "description": "<i>The Year in Review for 1988</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 1-May 14, 1989).",
+              "opening_date": "1989-03-01T05:00:00"
+            }
+          ],
+          "legacy": []
+        },
+        "provenance": [
+          {
+            "description": "Robert Haber & Associates, New York, NY, sold to the Cleveland Museum of Art",
+            "citations": [],
+            "footnotes": null,
+            "date": "-1988",
+            "sortorder": 1
+          },
+          {
+            "description": "The Cleveland Museum of Art, Cleveland, OH",
+            "citations": [],
+            "footnotes": null,
+            "date": "1988-",
+            "sortorder": 2
+          }
+        ],
+        "find_spot": null,
+        "related_works": [],
+        "former_accession_numbers": [],
+        "did_you_know": "The eagle was a symbol of the Roman Empire and its military.",
+        "early_education_description": null,
+        "artlens_description": null,
+        "description": "This eagle stands on an integrated bronze base with overlapping ovoid-shaped feathers creating a layered pattern across its body, and its tail feathers fanned out. The wings, now lost, were likely cast separately in bronze and then soldered or welded to the bird’s body. The eyes are inlaid with red stones believed to be garnets. The eagle is associated with Jupiter, king of the gods, and the Roman poets Virgil and Horace described the birds as the bearers of his thunderbolt. While eagles were often depicted on Roman coins, the bird is rarely depicted in the round in Roman art.",
+        "external_resources": {
+          "wikidata": [
+            "https://www.wikidata.org/wiki/Q60758123"
+          ],
+          "internet_archive": [
+            "https://archive.org/details/clevelandart-1988.40-imperial-eagle"
+          ]
+        },
+        "citations": [
+          {
+            "citation": "\"The Year in Review for 1988.\" <em>The Bulletin of the Cleveland Museum of Art</em> 76, no. 2 (1989).",
+            "page_number": "p. 68, no. 8",
+            "url": "https://www.jstor.org/stable/25160061"
+          }
+        ],
+        "url": "https://clevelandart.org/art/1988.40",
+        "images": {
+          "annotation": null,
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1988.40/1988.40_web.jpg",
+            "width": "1021",
+            "height": "893",
+            "filesize": "476735",
+            "filename": "1988.40_web.jpg"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1988.40/1988.40_print.jpg",
+            "width": "3400",
+            "height": "2974",
+            "filesize": "1491914",
+            "filename": "1988.40_print.jpg"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1988.40/1988.40_full.tif",
+            "width": "4459",
+            "height": "3900",
+            "filesize": "52191260",
+            "filename": "1988.40_full.tif"
+          }
+        },
+        "alternate_images": [],
+        "creditline": "John L. Severance Fund",
+        "image_credit": null,
+        "sketchfab_id": null,
+        "sketchfab_url": null,
+        "gallery_donor_text": null,
+        "athena_id": 154223,
+        "creators": [],
+        "legal_status": "accessioned",
+        "accession_date": "1988-06-09T00:00:00",
+        "sortable_date": -99,
+        "date_added_to_oa": null,
+        "date_text": "100 BCE–100 CE",
+        "collapse_artists": false,
+        "on_loan": false,
+        "recently_acquired": false,
+        "record_type": "object",
+        "conservation_statement": null,
+        "has_conservation_images": false,
+        "cover_accession_number": null,
+        "is_nazi_era_provenance": false,
+        "impression": null,
+        "alternate_titles": [],
+        "is_highlight": false,
+        "updated_at": "2026-05-29 07:58:23.273000"
+      }
+    ]
+  },
+  "commons": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "143524694": {
+          "pageid": 143524694,
+          "ns": 6,
+          "title": "File:Arms of the Holy Roman Empire (after 1433).svg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 223830,
+              "width": 466,
+              "height": 520,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Arms_of_the_Holy_Roman_Empire_%28after_1433%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arms_of_the_Holy_Roman_Empire_(after_1433).svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143524694",
+              "sha1": "e6e900cf0513b5561626433edce172e6fbd571bf",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-01-04 19:58:00",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Arms of the Holy Roman Empire (after 1433)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Valid SVG created with Inkscape:CoA|Eagle of the Holy Roman Empire (bicephalous with nimbi) legged and beaked gules",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Generic Shield of Arms of the Holy Roman Emperor (after 1433)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-01-04",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Greiffenakt&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Greiffenakt (page does not exist)\">Greiffenakt</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "18813607": {
+          "pageid": 18813607,
+          "ns": 6,
+          "title": "File:Byzantine - Cross - Walters 571827.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1381725,
+              "width": 1278,
+              "height": 1800,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Byzantine_-_Cross_-_Walters_571827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Byzantine_-_Cross_-_Walters_571827.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18813607",
+              "sha1": "93408e42ef957c0bcc37fb9619ed906f4a8e04be",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-03-24 10:56:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>Cross</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Author died more than 100 years ago public domain images|License migration redundant|Artworks without Wikidata item|Artworks with known accession number|Items with VRTS permission confirmed|Media contributed by the Walters Art Museum|Media contributed by the Walters Art Museum: needs category review|CC-PD-Mark|Byzantine silver in the Walters Art Museum|Media contributed by the Walters Art Museum without wikidata item|Byzantine crucifixes",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<span lang=\"en\">Anonymous</span> (<a href=\"https://en.wikipedia.org/wiki/en:Byzantine_Empire\" class=\"extiw\" title=\"w:en:Byzantine Empire\"><span title=\"Roman Empire during Late Antiquity and the Middle Ages\">Byzantine Empire</span></a>)<span style=\"display:none\">Unknown author</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "6<sup>th</sup> century<div style=\"display: none;\">date QS:P571,+550-00-00T00:00:00Z/7</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/en:Walters_Art_Museum\" class=\"extiw\" title=\"w:en:Walters Art Museum\"><span title=\"art museum in Baltimore, Maryland, US\">Walters Art Museum</span></a>: <span typeof=\"mw:File\"><a href=\"https://thewalters.org/\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nuvola_filesystems_folder_home.svg/20px-Nuvola_filesystems_folder_home.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nuvola_filesystems_folder_home.svg/40px-Nuvola_filesystems_folder_home.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://thewalters.org/\">Home page</a> <span typeof=\"mw:File\"><a href=\"https://art.thewalters.org/detail/16319\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://art.thewalters.org/detail/16319\">Info about artwork</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2012021710000834 2%3D2012021710000834\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012021710000834\" class=\"extiw\" title=\"ticket:2012021710000834\">ticket #2012021710000834</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012021710000834\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012021710000834</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222012021710000834%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012021710000834\"></span></td></tr></tbody></table>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "365635": {
+          "pageid": 365635,
+          "ns": 6,
+          "title": "File:Flag of Great Britain (1707–1800).svg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 433,
+              "width": 1000,
+              "height": 600,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Great_Britain_(1707%E2%80%931800).svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=365635",
+              "sha1": "4bd65ef449bd7f4557791d37a5c5ad0ea0aacc37",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-12-31 13:53:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Flag of Great Britain (1707–1800)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Union Jack (1606–1801)|PD-old-100-expired|UK Government artistic works|Valid SVG created with Adobe Illustrator|CC-PD-Mark|SVG historical national flags of the United Kingdom|SVG flags with an aspect ratio of 5:3|Blue, red, white flags of the United Kingdom|Flags with 2 crosses|2-fold dihedral symmetry flags|Great Britain in the American Revolution|SVG flags of Great Britain|Union of the Crowns",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The pre-1801 Union Flag (of <a href=\"https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain\" class=\"extiw\" title=\"w:United Kingdom of Great Britain\">w:United Kingdom of Great Britain</a>).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1606-04-12",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p>Made by <a href=\"//commons.wikimedia.org/wiki/User:Hoshie\" title=\"User:Hoshie\">Hoshie</a>\n</p>\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"http://vector4u.com/flags/union-flag-1606-kings-colors-svg\">Sodipodi flag collection</a> (original file) Dead link as of: 4FEB2009</li>\n<li>Colours: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.vexilla-mundi.com/united_kingdom.htm\">vexilla mundi</a> Dead link as of: 12DEC2007 (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20070312074137/http://www.vexilla-mundi.com:80/united_kingdom.htm\">Archived</a> from 12MAR2007)</li>\n<li>Proportions: <a href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\">Zscout370</a> and <a href=\"//commons.wikimedia.org/wiki/User:Madden\" title=\"User:Madden\">Madden</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hoshie\" title=\"User:Hoshie\">Hoshie</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<i>This work <a href=\"https://en.wikipedia.org/wiki/Crown_copyright\" class=\"extiw\" title=\"w:Crown copyright\">created by the United Kingdom Government</a> is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b></i>.\n<p><i>This is because it is one of the following</i>:\n</p>\n<ol><li>It is a photograph taken prior to 1 June 1957; or</li>\n<li>It was published prior to 1976; or</li>\n<li>It is an artistic work other than a photograph or engraving (e.g. a painting) which was created prior to 1976.</li></ol>\n<p>HMSO has declared that the expiry of Crown Copyrights applies worldwide (ref: <a class=\"external text\" href=\"https://lists.wikimedia.org/pipermail/wikipedia-l/2005-May/022055.html\">HMSO Email Reply</a>)<br><a rel=\"nofollow\" class=\"external text\" href=\"https://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm\">More information</a>.  \n</p>\n<i>See also <a href=\"https://en.wikipedia.org/wiki/Copyright\" class=\"extiw\" title=\"en:Copyright\">Copyright</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20090317005703/http://www.museumscopyright.org.uk/crown-a.pdf\">Crown copyright artistic works</a></i>.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "11881255": {
+          "pageid": 11881255,
+          "ns": 6,
+          "title": "File:France moderne.svg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13460,
+              "width": 600,
+              "height": 641,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/France_moderne.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:France_moderne.svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11881255",
+              "sha1": "ab72eb9db6f5e641e7d39b0b529006070e048e4b",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-03-10 11:53:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "France moderne",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|With insignia|Self-published work|CoA Lab-nl:Tom-L|Royal coats of arms of France (modern)|Invalid SVG created with Inkscape:CoA-TO",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Arms of the Kingdom of France (Moderne)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2010-10-25",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sodacan\" title=\"User:Sodacan\">Sodacan</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "You may select the license of your choice.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "insignia",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "10953091": {
+          "pageid": 10953091,
+          "ns": 6,
+          "title": "File:Royal arms of England.svg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 133177,
+              "width": 410,
+              "height": 478,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Royal_arms_of_England.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_England.svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10953091",
+              "sha1": "31bd693373edc131309985c0d8a3ed36eb54a860",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-11-13 04:09:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Royal arms of England",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|Royal coats of arms of England|Plantagenet arms|With insignia|Self-published work|Files with derivative versions|Valid SVG created with Inkscape:CoA-SO|Azure, gules, or in heraldry|Coats of arms of King Edward III of England|Coats of arms of King John of England|Coats of arms of King Edward I of England|Coats of arms of King Edward II of England|Tincture palette not specified|SVG historical coats of arms of England|CoA Lab-cm:Sodacan|Coats of arms of King Richard I of England|Coats of arms of King Henry III of England|Royal Arms of England (1199-1340)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "DateTimeOriginal": {
+                  "value": "20 July 2010",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "insignia",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "28973216": {
+          "pageid": 28973216,
+          "ns": 6,
+          "title": "File:Shield and Coat of Arms of the Holy Roman Emperor (c.1300-c.1400).svg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 86735,
+              "width": 802,
+              "height": 920,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Shield_and_Coat_of_Arms_of_the_Holy_Roman_Emperor_%28c.1300-c.1400%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shield_and_Coat_of_Arms_of_the_Holy_Roman_Emperor_(c.1300-c.1400).svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28973216",
+              "sha1": "573da79abb9ec2d68d44da303542b195cb079202",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-10-21 23:45:48",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Shield and Coat of Arms of the Holy Roman Emperor (c.1300-c.1400)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Coats of arms of Charles IV, Holy Roman Emperor|Coats of arms of Louis IV, Holy Roman Emperor|Eagle of the Holy Roman Empire (monocephalous) beaked langued and membered gules|Coats of arms of Sigismund as Roman and HRE German King|Images by Tom Lemmens",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Shield and Coat of Arms of the <a href=\"https://en.wikipedia.org/wiki/Holy_Roman_Emperor\" class=\"extiw\" title=\"en:Holy Roman Emperor\">Holy Roman Emperor</a>, drawn in the style the late medieval period. \n<br>Also used as shield of arms (generic) by the King of the Romans",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2013-09-30 01:22:55",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "loosely based on <a href=\"//commons.wikimedia.org/wiki/File:Mohrenfresko_MHQ_detail_Wappen10.jpg\" title=\"File:Mohrenfresko MHQ detail Wappen10.jpg\">File:Mohrenfresko MHQ detail Wappen10.jpg</a> (15th century fresco)",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Heralder\" title=\"User:Heralder\">Heralder</a> &amp; <a href=\"//commons.wikimedia.org/wiki/User:Tom-L\" title=\"User:Tom-L\">Tom Lemmens</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "9884333": {
+          "pageid": 9884333,
+          "ns": 6,
+          "title": "File:Arms of the Kingdom of France (Ancien).svg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 85933,
+              "width": 331,
+              "height": 507,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Arms_of_the_Kingdom_of_France_%28Ancien%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arms_of_the_Kingdom_of_France_(Ancien).svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9884333",
+              "sha1": "740c3c16278da86fe5ba8dcd2e3cb84eeffb3d9b",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-12-15 14:22:31",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Arms of the Kingdom of France (Ancien)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|With insignia|Self-published work|Valid SVG created with Inkscape:CoA|Royal coats of arms of France (ancient)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Arms of the <a href=\"https://en.wikipedia.org/wiki/Kingdom_of_France\" class=\"extiw\" title=\"w:Kingdom of France\">Kingdom of France</a> (Ancien)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2010-03-31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sodacan\" title=\"User:Sodacan\">Sodacan</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "insignia",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

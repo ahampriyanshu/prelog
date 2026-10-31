@@ -1,0 +1,94 @@
+{
+  "map-united-kingdom-of-great-britain-and-ireland": [
+    {
+      "kind": "flag",
+      "label": "Union Flag — United Kingdom of Great Britain and Ireland",
+      "src": "/atlas/symbols/historical/british-union-1801.svg",
+      "start": 1801,
+      "end": 1922,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(1-2).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Acts of Union 1800 Vector: Zscout370; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "The 1801 Union Flag. The identity window ends with the December 1922 Irish Free State settlement; the source’s later 1930 use of this map label is not treated as an unchanged territorial identity. No colonial ensigns are inferred."
+    }
+  ],
+  "map-united-kingdom": [
+    {
+      "kind": "flag",
+      "label": "Union Flag — United Kingdom, 1801 design",
+      "src": "/atlas/symbols/historical/british-union-1801.svg",
+      "start": 1801,
+      "end": 2025,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(1-2).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Acts of Union 1800 Vector: Zscout370; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Reviewed match for the map’s generic United Kingdom record from 1801 onward. The Royal Household states that the 1801 design has been flown ever since. The 2025 endpoint limits the atlas viewing range; it is not a flag retirement date or a newer boundary observation. Earlier flags and colonial ensigns are not supplied."
+    }
+  ],
+  "atlas-246": [
+    {
+      "kind": "flag",
+      "label": "French tricolour — Third Republic",
+      "src": "/atlas/symbols/historical/france-tricolour-dark.svg",
+      "start": 1871,
+      "end": 1939,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Unknown Vector: SKopp; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "The catalogue record covers successive French republics. This entry is restricted to the Third Republic; transition years 1870 and 1940 are omitted at annual resolution. It does not label Vichy or Free France."
+    },
+    {
+      "kind": "flag",
+      "label": "French tricolour — Fourth Republic",
+      "src": "/atlas/symbols/historical/france-tricolour-dark.svg",
+      "start": 1947,
+      "end": 1957,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Unknown Vector: SKopp; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Fourth Republic window after the October 1946 constitution and before the 1958 transition. Transition years are omitted at annual resolution. This is the metropolitan national flag, not a colonial ensign."
+    },
+    {
+      "kind": "flag",
+      "label": "French tricolour — Fifth Republic, darker rendering",
+      "src": "/atlas/symbols/historical/france-tricolour-dark.svg",
+      "start": 1959,
+      "end": 1973,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Unknown Vector: SKopp; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Fifth Republic window after its 1958 establishment and before the 1974 lighter colour variant. Uses the existing darker tricolour rendering; not a specification for every historical textile shade."
+    },
+    {
+      "kind": "flag",
+      "label": "French tricolour — Fifth Republic, lighter rendering",
+      "src": "/atlas/symbols/historical/france-tricolour-1974.svg",
+      "start": 1974,
+      "end": 2020,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France_(1974%E2%80%932020).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "This graphic was drawn by SKopp .; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "The existing Commons artwork is explicitly the 1974–2020 colour variant. This applies to the broad French Republic record, not the separate colonial-empire lifespan; no Vichy or Free French attribution is inferred."
+    }
+  ],
+  "map-spain": [
+    {
+      "kind": "flag",
+      "label": "Spanish monarchy flag — Bourbon Restoration",
+      "src": "/atlas/symbols/historical/spain-monarchy-1785.svg",
+      "start": 1875,
+      "end": 1930,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain_(1785%E2%80%931873,_1875%E2%80%931931).svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "previous version User:Ignaciogavira ; current version HansenBCN , designs from SanchoPanzaXXI; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Reviewed match only for the restored-monarchy period represented by this crown-bearing artwork. No assignment to earlier Habsburg or Bourbon banners, the 1873–1874 First Republic, the Second Republic, or Franco-era designs."
+    }
+  ]
+}

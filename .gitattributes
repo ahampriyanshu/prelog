@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
+
+# Preserve downloaded symbol assets exactly as attributed.
+public/atlas/symbols/** -text -whitespace

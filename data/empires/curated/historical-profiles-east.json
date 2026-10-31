@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "maurya",
+    "name": "Mauryan Empire",
+    "aliases": [
+      "Maurya"
+    ],
+    "start": -321,
+    "end": -185,
+    "summary": "An early subcontinental empire founded in Magadha and expanded through conquest and diplomacy under Chandragupta, Bindusara, and Ashoka.",
+    "capital": "Pataliputra",
+    "currency": null,
+    "rulers": "Selected: Ashoka, c. 273–232 BCE.",
+    "economy": null,
+    "military": "Conquest extended authority from the Ganges basin into northwestern and central South Asia.",
+    "contributions": "Ashoka’s inscriptions preserve early evidence of imperial administration and ethical policy; his patronage helped spread Buddhism.",
+    "origin": "Chandragupta displaced the Nanda dynasty in Magadha.",
+    "decline": "The empire fragmented within roughly fifty years of Ashoka’s death.",
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — Mauryan Empire",
+        "url": "https://www.metmuseum.org/de/essays/mauryan-empire-ca-323-185-b-c"
+      },
+      {
+        "title": "University of Washington — The Mauryan Empire",
+        "url": "https://depts.washington.edu/silkroad/exhibit/mauryans/essay.html"
+      }
+    ],
+    "periodNote": "Foundation is approximate: sources use c. 323 or c. 321 BCE. Ashoka’s accession dates also vary.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1
+      ],
+      "capital": [
+        0,
+        1
+      ],
+      "rulers": [
+        0
+      ],
+      "military": [
+        0
+      ],
+      "contributions": [
+        0,
+        1
+      ],
+      "origin": [
+        1
+      ],
+      "decline": [
+        1
+      ],
+      "period": [
+        0
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "gupta",
+    "name": "Gupta Empire",
+    "aliases": [
+      "Imperial Guptas"
+    ],
+    "start": 320,
+    "end": 550,
+    "summary": "A northern Indian dynasty whose imperial expansion supported influential developments in Sanskrit literature, visual art, mathematics, and astronomy.",
+    "capital": "Pataliputra; Ujjain was also an important royal and commercial centre.",
+    "currency": "Gold and silver coins.",
+    "rulers": "Selected: Chandragupta II, c. 375–415; Kumaragupta I, 415–454; Skandagupta, 455–467.",
+    "economy": "Agriculture, trade, and port connections supported imperial revenue; military pressures and land assignments strained later finances.",
+    "military": "Campaigns expanded Gupta power across northern India; conflicts with Huna forces weakened later rulers.",
+    "contributions": "Patronage of Sanskrit literature and sculpture; the period saw major advances in astronomy and mathematics.",
+    "origin": "The dynasty developed into an imperial power in northern India during the early fourth century.",
+    "decline": "Huna incursions, dynastic conflict, and the independence of subordinate rulers undermined central authority.",
+    "sources": [
+      {
+        "title": "INFLIBNET — The Gupta empire",
+        "url": "https://ebooks.inflibnet.ac.in/icp01/chapter/the-gupta-empire/"
+      },
+      {
+        "title": "Smarthistory — The Gupta Period",
+        "url": "https://smarthistory.org/gupta-period/"
+      },
+      {
+        "title": "IGNCA — The Gupta and Post-Gupta periods",
+        "url": "https://ignca.gov.in/Asi_data/60338.pdf"
+      }
+    ],
+    "periodNote": "c. 320–550 refers to imperial Gupta power, not the longer Gupta cultural period.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1
+      ],
+      "capital": [
+        0,
+        2
+      ],
+      "currency": [
+        0
+      ],
+      "rulers": [
+        0,
+        2
+      ],
+      "economy": [
+        0
+      ],
+      "military": [
+        0
+      ],
+      "contributions": [
+        1
+      ],
+      "origin": [
+        2
+      ],
+      "decline": [
+        0
+      ],
+      "period": [
+        0
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "chola",
+    "name": "Chola Empire",
+    "aliases": [
+      "Imperial Cholas"
+    ],
+    "start": 850,
+    "end": 1279,
+    "summary": "A Tamil dynasty centred on the Kaveri delta, with extensive South Indian power, overseas campaigns, and lasting temple and bronze traditions.",
+    "capital": "Thanjavur; Gangaikondacholapuram from the reign of Rajendra I (district history dates its capital role to 1027).",
+    "currency": null,
+    "rulers": "Selected: Rajendra I, 1012–1044 (including co-rule).",
+    "economy": "The Kaveri delta and merchant towns supported agriculture and trade; merchant guilds linked regional and overseas markets.",
+    "military": "Armies expanded across southern India and Sri Lanka; diplomacy and alliances complemented conquest.",
+    "contributions": "Monumental temples, bronze casting, and distinctive Tamil court and religious art.",
+    "origin": "The Chola ruling family re-established regional dominance in the mid-ninth century.",
+    "decline": null,
+    "sources": [
+      {
+        "title": "Smithsonian — Chola Dynasty",
+        "url": "https://asia-archive.si.edu/learn/india-shiva-nataraja-lord-of-the-dance/chola-dynasty/"
+      },
+      {
+        "title": "Ariyalur District — History",
+        "url": "https://ariyalur.nic.in/about-district/history/"
+      },
+      {
+        "title": "UNESCO — Great Living Chola Temples",
+        "url": "https://whc.unesco.org/en/list/250/"
+      }
+    ],
+    "periodNote": "c. 850 marks the medieval imperial revival, not the earlier Chola lineages. 1279 is the conventional end of the last imperial Chola reign.",
+    "fieldSources": {
+      "summary": [
+        0,
+        2
+      ],
+      "capital": [
+        1
+      ],
+      "rulers": [
+        0
+      ],
+      "economy": [
+        1
+      ],
+      "military": [
+        0
+      ],
+      "contributions": [
+        0,
+        2
+      ],
+      "origin": [
+        0
+      ],
+      "period": [
+        0,
+        1
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "delhi-sultanate",
+    "name": "Delhi Sultanate",
+    "aliases": [
+      "Sultanate of Delhi"
+    ],
+    "start": 1206,
+    "end": 1526,
+    "summary": "Successive sultanates based at Delhi that extended political authority across much of northern India and, intermittently, into the Deccan.",
+    "capital": "Delhi, across successive royal cities.",
+    "currency": null,
+    "rulers": "Selected: Iltutmish, c. 1210–1236.",
+    "economy": "Regional markets and monetization supported the sultanates; land revenue sustained administrative and military service.",
+    "military": "Military households and commanders governed assigned territories; expansion included campaigns toward the Deccan.",
+    "contributions": "Persianate court culture, urban construction, manuscript patronage, and expanded commercial networks.",
+    "origin": "Turkish military rulers established independent authority in northern India in the early thirteenth century.",
+    "decline": "Regional fragmentation weakened Delhi; Babur defeated the Lodi sultan in 1526.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica — Delhi Sultanate",
+        "url": "https://www.iranicaonline.org/articles/delhi-sultanate/"
+      },
+      {
+        "title": "NCERT via IIT Kanpur — Delhi: 12th to 15th Century",
+        "url": "https://sathee.iitk.ac.in/ncert-books/class-07/social-science/history-our-past-2/chapter-03-delhi-12th-to-15th-century/"
+      },
+      {
+        "title": "The Met — Wonder of the Age",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Wonder_of_the_Age_Master_Painters_of_India_1100_1900.pdf"
+      }
+    ],
+    "periodNote": "An umbrella for five ruling dynasties, not an uninterrupted uniform territorial state. Iltutmish’s accession is also dated 1211.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1
+      ],
+      "capital": [
+        1
+      ],
+      "rulers": [
+        1
+      ],
+      "economy": [
+        1,
+        2
+      ],
+      "military": [
+        1
+      ],
+      "contributions": [
+        0,
+        2
+      ],
+      "origin": [
+        0
+      ],
+      "decline": [
+        0
+      ],
+      "period": [
+        0,
+        1
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "mughal",
+    "name": "Mughal Empire",
+    "aliases": [
+      "Mogul Empire"
+    ],
+    "start": 1526,
+    "end": 1857,
+    "summary": "A dynasty founded by Babur and consolidated by Akbar, whose power eventually encompassed much of the Indian subcontinent.",
+    "capital": "Major imperial seats included Agra, Delhi, and Lahore; the court also moved between residences.",
+    "currency": "Silver rupee, gold mohur, and copper dam; the system developed from Sher Shah’s monetary reforms.",
+    "rulers": "Selected: Akbar, 1556–1605.",
+    "economy": "Commercial centres, especially Gujarat, connected the empire to Arabian Sea trade and supplied substantial wealth.",
+    "military": "Military conquest established the dynasty; territorial consolidation under Akbar combined campaigning with administrative integration.",
+    "contributions": "Imperial painting, architecture, and manuscript production; consolidation of widely used coinage.",
+    "origin": "Babur defeated the Delhi sultan’s forces in 1526; Akbar subsequently consolidated imperial institutions.",
+    "decline": "Later emperors became largely nominal rulers; British authorities deposed Bahadur Shah Zafar after the 1857 uprising.",
+    "sources": [
+      {
+        "title": "The Met — The Art of the Mughals before 1600",
+        "url": "https://www.metmuseum.org/fr/essays/the-art-of-the-mughals-before-1600"
+      },
+      {
+        "title": "Reserve Bank of India — Mughal Coinage",
+        "url": "https://systemhealth.rbi.org.in/Scripts/mc_mughal.aspx.html"
+      },
+      {
+        "title": "The Met — Islamic Art Teaching Resource, Unit 5",
+        "url": "https://www.metmuseum.org/-/media/files/learn/for%20educators/publications%20for%20educators/islamic%20teacher%20resource/unit5.pdf"
+      }
+    ],
+    "periodNote": "Rule was interrupted by the Sur dynasty, 1540–1555. 1857 marks the last emperor’s deposition; some timelines use 1858.",
+    "fieldSources": {
+      "summary": [
+        0
+      ],
+      "capital": [
+        0,
+        2
+      ],
+      "currency": [
+        1
+      ],
+      "rulers": [
+        0
+      ],
+      "economy": [
+        0
+      ],
+      "military": [
+        0
+      ],
+      "contributions": [
+        0,
+        1,
+        2
+      ],
+      "origin": [
+        0,
+        1
+      ],
+      "decline": [
+        1
+      ],
+      "period": [
+        1,
+        2
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "maratha",
+    "name": "Maratha Empire",
+    "aliases": [
+      "Maratha Confederacy"
+    ],
+    "start": 1674,
+    "end": 1818,
+    "summary": "A polity built under Shivaji that expanded under the Peshwas and increasingly operated through powerful regional houses.",
+    "capital": "Raigad under Shivaji; Pune became the Peshwas’ political centre.",
+    "currency": "Multiple rupee standards, including Hali Sicca, Ankushi, and Chandori issues.",
+    "rulers": null,
+    "economy": "Land-revenue claims, including chauth and sardeshmukhi, helped finance expansion; regional towns and trade developed under Maratha rule.",
+    "military": "Mobile forces drew heavily on peasant-pastoral communities; regional chiefs became increasingly powerful.",
+    "contributions": "New regional political institutions, revenue networks, and urban centres across western and central India.",
+    "origin": "Shivaji established a Deccan kingdom through warfare and alliances; his coronation in 1674 formalized kingship.",
+    "decline": "Regional competition and wars with the East India Company culminated in the Peshwa’s defeat in 1818.",
+    "sources": [
+      {
+        "title": "NCERT via IIT Kanpur — Eighteenth-Century Political Formations",
+        "url": "https://sathee.iitk.ac.in/ncert-books/class-07/social-science/history-our-past-2/chapter-08-eighteen-century-political-formations.md/"
+      },
+      {
+        "title": "Reserve Bank of India — Coins of the Indian Princely States",
+        "url": "https://systemhealth.rbi.org.in/Scripts/mc_colonial.aspx%281%29.html"
+      },
+      {
+        "title": "Maharashtra Gazetteers — The Maratha Period",
+        "url": "https://gazetteers.maharashtra.gov.in/cultural.maharashtra.gov.in/english/gazetteer/Poona/PART%20II/Chap%20%282%29/Maratha%20Period.htm"
+      },
+      {
+        "title": "Cambridge — Pacification and Patronage in the Maratha Deccan, 1803–1818",
+        "url": "https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/pacification-and-patronage-in-the-maratha-deccan-18031818/624B535C5A2CFE4D99EE053FB4507AD2"
+      }
+    ],
+    "periodNote": "1674 marks Shivaji’s coronation, not the start of his conquests. Maratha-ruled princely states survived the confederacy’s defeat in 1818.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1
+      ],
+      "capital": [
+        0,
+        1
+      ],
+      "currency": [
+        1
+      ],
+      "economy": [
+        0
+      ],
+      "military": [
+        0
+      ],
+      "contributions": [
+        0
+      ],
+      "origin": [
+        0,
+        1
+      ],
+      "decline": [
+        2,
+        3
+      ],
+      "period": [
+        1,
+        2,
+        3
+      ]
+    },
+    "rulersScope": null
+  },
+  {
+    "id": "sikh-empire",
+    "name": "Sikh Empire",
+    "aliases": [
+      "Lahore kingdom"
+    ],
+    "start": 1799,
+    "end": 1849,
+    "summary": "Ranjit Singh consolidated competing Sikh confederacies into a kingdom centred on Lahore and expanded across Punjab and neighbouring regions.",
+    "capital": "Lahore",
+    "currency": "Silver rupees, including Nanakshahi issues; copper coins also circulated.",
+    "rulers": "Selected: Ranjit Singh, 1799–1839; assumed the title Maharaja in 1801.",
+    "economy": "Ranjit Singh’s court supported trade, luxury crafts, and artistic patronage.",
+    "military": "A substantial army supported territorial expansion and diplomacy with British and Afghan neighbours.",
+    "contributions": "Patronage of Punjabi court arts, architecture, and crafts within a religiously diverse kingdom.",
+    "origin": "Ranjit Singh captured Lahore in 1799 and consolidated power among Sikh misls.",
+    "decline": "The kingdom collapsed within a decade of Ranjit Singh’s death; British conquest ended sovereignty in 1849.",
+    "sources": [
+      {
+        "title": "Royal Welsh Museum — The Sikh Empire",
+        "url": "https://royalwelshmuseum.wales/timeline/the-sikh-empire/"
+      },
+      {
+        "title": "Wallace Collection — Maharaja Ranjit Singh",
+        "url": "https://www.wallacecollection.org/explore/explore-in-depth/the-sikh-empire/the-lahore-durbar-the-court-of-lahore/maharaja-ranjit-singh-lion-of-the-punjab/"
+      },
+      {
+        "title": "State Bank of Pakistan — Sikh Rulers",
+        "url": "https://www.sbp.org.pk/museum/sikh-rulers"
+      },
+      {
+        "title": "National Army Museum — Maharaja Ranjit Singh",
+        "url": "https://collection.nam.ac.uk/detail.php?acc=1960-07-197-2-1"
+      }
+    ],
+    "periodNote": "1799 marks the capture of Lahore; 1801 marks Ranjit Singh’s proclamation as Maharaja.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1
+      ],
+      "capital": [
+        0
+      ],
+      "currency": [
+        2
+      ],
+      "rulers": [
+        0,
+        1
+      ],
+      "economy": [
+        1
+      ],
+      "military": [
+        3
+      ],
+      "contributions": [
+        1
+      ],
+      "origin": [
+        0
+      ],
+      "decline": [
+        1,
+        2
+      ],
+      "period": [
+        0,
+        1,
+        2
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "qin",
+    "name": "Qin Empire",
+    "aliases": [
+      "Qin dynasty"
+    ],
+    "start": -221,
+    "end": -206,
+    "summary": "The first imperial unification of China, built by a formerly regional Qin state through conquest and administrative centralization.",
+    "capital": "Xianyang.",
+    "currency": "Standardized coinage.",
+    "rulers": "Selected: Qin Shi Huang, 221–210 BCE as emperor.",
+    "economy": "Land reform, resettlement, standardized measures, and road-building supported centralized administration.",
+    "military": "Broad male military service and sustained conquest made Qin the leading power among competing states.",
+    "contributions": "Standardized writing, weights, measures, and currency; enduring models for imperial administration.",
+    "origin": "The Qin state conquered rival kingdoms and proclaimed an emperor in 221 BCE.",
+    "decline": "Rebellion after the first emperor’s death brought down the dynasty and opened the struggle from which Han rule emerged.",
+    "sources": [
+      {
+        "title": "The Met — Age of Empires exhibition galleries",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2017/age-of-empires/exhibition-galleries"
+      },
+      {
+        "title": "Smithsonian — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      },
+      {
+        "title": "UNESCO — Mausoleum of the First Qin Emperor",
+        "url": "https://whc.unesco.org/pg.cfm?CID=31&ID_SITE=441&l=EN"
+      }
+    ],
+    "periodNote": "Dates describe the imperial Qin dynasty, not the much older Qin regional state; some chronologies end it in 207 BCE.",
+    "fieldSources": {
+      "summary": [
+        0
+      ],
+      "currency": [
+        1
+      ],
+      "rulers": [
+        1
+      ],
+      "economy": [
+        0
+      ],
+      "military": [
+        0
+      ],
+      "contributions": [
+        0,
+        1
+      ],
+      "origin": [
+        0,
+        1
+      ],
+      "decline": [
+        1
+      ],
+      "period": [
+        1
+      ],
+      "capital": [
+        2
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "han",
+    "name": "Han Empire",
+    "aliases": [
+      "Han dynasty",
+      "Western Han",
+      "Eastern Han"
+    ],
+    "start": -206,
+    "end": 220,
+    "summary": "A long-lived imperial dynasty that developed the Qin administrative inheritance and connected China to wider Eurasian exchange.",
+    "capital": "Chang’an during Western Han; Luoyang during Eastern Han (25–220).",
+    "currency": "Standardized coinage.",
+    "rulers": "Selected: Gaozu (Liu Bang), 202–195 BCE as emperor.",
+    "economy": "Road networks, a centralized administration, and long-distance exchange supported imperial integration.",
+    "military": null,
+    "contributions": "Imperial institutions, historical writing, and developments in paper-making and long-distance exchange.",
+    "origin": "Liu Bang emerged from rebellion against Qin and became emperor after the ensuing civil struggle.",
+    "decline": "Central authority collapsed and the empire divided into competing kingdoms.",
+    "sources": [
+      {
+        "title": "The Met — Age of Empires",
+        "url": "https://www.metmuseum.org/fr/press/exhibitions/2016/age-of-empires"
+      },
+      {
+        "title": "Smithsonian — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      },
+      {
+        "title": "Princeton University Art Museum — China Timeline",
+        "url": "https://static.artmuseum.princeton.edu/asian-art/china/timeline"
+      },
+      {
+        "title": "The Met — Han Dynasty",
+        "url": "https://www.metmuseum.org/it/essays/han-dynasty-206-b-c-220-a-d"
+      }
+    ],
+    "periodNote": "206 BCE marks Liu Bang’s kingship; imperial rule began in 202 BCE. Han rule was interrupted by Wang Mang’s Xin dynasty (9–23 CE).",
+    "fieldSources": {
+      "summary": [
+        0
+      ],
+      "currency": [
+        0
+      ],
+      "rulers": [
+        1
+      ],
+      "economy": [
+        0
+      ],
+      "contributions": [
+        0,
+        1
+      ],
+      "origin": [
+        1
+      ],
+      "decline": [
+        2
+      ],
+      "period": [
+        0,
+        1,
+        2
+      ],
+      "capital": [
+        3
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "tang",
+    "name": "Tang Empire",
+    "aliases": [
+      "Tang dynasty"
+    ],
+    "start": 618,
+    "end": 907,
+    "summary": "A cosmopolitan Chinese empire whose expanding administration, trade networks, and court culture influenced much of East Asia.",
+    "capital": "Chang’an was the principal early imperial capital.",
+    "currency": null,
+    "rulers": "Selected: Gaozu, 618–626; Taizong, 626–649; Xuanzong, 712–756.",
+    "economy": "Overland trade and urban exchange brought merchants and products from across Eurasia to the capital.",
+    "military": "Early rulers campaigned against northern and northwestern neighbours; military rebellion later weakened central power.",
+    "contributions": "Poetry, painting, ceramics, and civil-service examinations developed enduring influence.",
+    "origin": "Li Yuan founded the dynasty after the collapse of Sui authority.",
+    "decline": "The An Lushan rebellion weakened the court; subsequent fragmentation culminated in the dynasty’s collapse.",
+    "sources": [
+      {
+        "title": "The Met — Tang Dynasty",
+        "url": "https://www.metmuseum.org/ja/essays/tang-dynasty-618-906"
+      },
+      {
+        "title": "Smithsonian — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      },
+      {
+        "title": "University of Washington — Tang dynasty",
+        "url": "https://depts.washington.edu/silkroad/exhibit/tang/essay1.html"
+      }
+    ],
+    "periodNote": "The usual 618–907 span includes the interruption of Tang dynastic rule by Wu Zetian’s Zhou dynasty (690–705).",
+    "fieldSources": {
+      "summary": [
+        0
+      ],
+      "capital": [
+        0
+      ],
+      "rulers": [
+        0,
+        1
+      ],
+      "economy": [
+        0
+      ],
+      "military": [
+        0
+      ],
+      "contributions": [
+        0,
+        1
+      ],
+      "origin": [
+        1
+      ],
+      "decline": [
+        0,
+        2
+      ],
+      "period": [
+        0,
+        1
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "song",
+    "name": "Song Empire",
+    "aliases": [
+      "Song dynasty",
+      "Northern Song",
+      "Southern Song"
+    ],
+    "start": 960,
+    "end": 1279,
+    "summary": "A Chinese imperial state known for commercial and urban growth, scholarly government, technological change, and influential painting and ceramics.",
+    "capital": "Bianliang (Kaifeng) in the Northern Song; Lin’an (Hangzhou) in the Southern Song.",
+    "currency": "Metal coins and paper currency, including jiaozi and later huizi.",
+    "rulers": "Selected: Huizong, 1100–1125.",
+    "economy": "Expanding commerce encouraged monetary innovation and the circulation of paper money.",
+    "military": "Jurchen conquest forced the court south in 1127; Mongol conquest ended Southern Song rule in 1279.",
+    "contributions": "Paper currency, scholar-official culture, landscape painting, and advances in ceramics.",
+    "origin": "The dynasty restored political unity after the Five Dynasties period, while neighbouring states retained substantial territories.",
+    "decline": "Jurchen expansion removed the northern heartland; the Mongols subsequently conquered the remaining southern state.",
+    "sources": [
+      {
+        "title": "The Met — Northern Song Dynasty",
+        "url": "https://www.metmuseum.org/essays/northern-song-dynasty-960-1127"
+      },
+      {
+        "title": "The Met — Southern Song Dynasty",
+        "url": "https://www.metmuseum.org/essays/southern-song-dynasty-1127-1279"
+      },
+      {
+        "title": "Columbia University — Song economic revolution: money",
+        "url": "https://afe.easia.columbia.edu/songdynasty-module/econ-rev-money.html"
+      },
+      {
+        "title": "Smithsonian — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      },
+      {
+        "title": "American Numismatic Association — An Experiment in Paper",
+        "url": "https://www.money.org/money-museum-virtual-exhibits-silk-case4/"
+      }
+    ],
+    "periodNote": "Northern Song: 960–1127; Southern Song: 1127–1279. These are phases of one dynasty with substantially different territories.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1,
+        2
+      ],
+      "capital": [
+        0,
+        1
+      ],
+      "currency": [
+        2,
+        4
+      ],
+      "rulers": [
+        0
+      ],
+      "economy": [
+        2
+      ],
+      "military": [
+        3
+      ],
+      "contributions": [
+        0,
+        1,
+        2
+      ],
+      "origin": [
+        0
+      ],
+      "decline": [
+        3
+      ],
+      "period": [
+        0,
+        1
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "yuan",
+    "name": "Yuan Empire",
+    "aliases": [
+      "Yuan dynasty"
+    ],
+    "start": 1271,
+    "end": 1368,
+    "summary": "The Mongol-ruled dynasty in China, centred on Dadu and embedded in wider Eurasian networks of trade and political exchange.",
+    "capital": "Dadu (Khanbaliq; present-day Beijing).",
+    "currency": "Paper money, initially supported by a silver standard; monetary policy changed over time.",
+    "rulers": "Selected: Kublai Khan, 1271–1294 as Yuan emperor (Great Khan from 1260).",
+    "economy": "A unified monetary regime supported exchange; imperial finances and paper-money stability deteriorated later.",
+    "military": "Mongol conquest absorbed the Southern Song in 1279.",
+    "contributions": "Eurasian cultural exchange, new developments in ceramics, and influential literati painting.",
+    "origin": "Kublai’s Mongol regime adopted the Yuan dynastic name before completing the conquest of Southern Song.",
+    "decline": "Factional conflict, fiscal disorder, disasters, and rebellion undermined the court; Ming forces took the capital in 1368.",
+    "sources": [
+      {
+        "title": "The Met — Yuan Dynasty",
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
+      },
+      {
+        "title": "University of Manchester — The rise and fall of paper money in Yuan China",
+        "url": "https://research.manchester.ac.uk/en/publications/the-rise-and-fall-of-paper-money-in-yuan-china-12601368/"
+      },
+      {
+        "title": "Smithsonian — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      }
+    ],
+    "periodNote": "1271 marks the dynastic proclamation; some histories use 1279, when Song conquest ended. The Northern Yuan continued after the loss of China in 1368.",
+    "fieldSources": {
+      "summary": [
+        0
+      ],
+      "capital": [
+        0
+      ],
+      "currency": [
+        1
+      ],
+      "rulers": [
+        2
+      ],
+      "economy": [
+        1
+      ],
+      "military": [
+        2
+      ],
+      "contributions": [
+        0
+      ],
+      "origin": [
+        0
+      ],
+      "decline": [
+        0,
+        2
+      ],
+      "period": [
+        0,
+        2
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "ming",
+    "name": "Ming Empire",
+    "aliases": [
+      "Ming dynasty"
+    ],
+    "start": 1368,
+    "end": 1644,
+    "summary": "A Chinese dynasty established after the overthrow of Yuan rule, associated with major imperial building, overseas expeditions, and artistic production.",
+    "capital": "Nanjing initially; Beijing from 1421.",
+    "currency": "Paper notes, with increasing reliance on silver and copper coinage.",
+    "rulers": "Selected: Hongwu (Zhu Yuanzhang), 1368–1398.",
+    "economy": "Artisanal production and overseas trade connected Chinese manufactures to wider markets; silver became important in taxation.",
+    "military": "Naval expeditions under Zheng He reached the Indian Ocean and East African coast.",
+    "contributions": "The Forbidden City, influential porcelain production, painting, lacquerwork, and maritime expeditions.",
+    "origin": "Zhu Yuanzhang led a successful rebellion against the Yuan and proclaimed the Ming in 1368.",
+    "decline": null,
+    "sources": [
+      {
+        "title": "The Met — Ming Dynasty",
+        "url": "https://www.metmuseum.org/essays/ming-dynasty-1368-1644"
+      },
+      {
+        "title": "Smithsonian — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      },
+      {
+        "title": "British Museum via Smarthistory — Ming banknote",
+        "url": "https://smarthistory.org/ming-banknote/"
+      },
+      {
+        "title": "Columbia University — China, 1450–1750",
+        "url": "https://www-1.gsb.columbia.edu/tps/1450_cn.htm"
+      },
+      {
+        "title": "Ghent University — The Shandong Peninsula in East Asian Maritime History",
+        "url": "https://backoffice.biblio.ugent.be/download/8060438/8061133"
+      },
+      {
+        "title": "Palace Museum — Hongwu Emperor",
+        "url": "https://www.dpm.org.cn/court/lineage/226244.html"
+      }
+    ],
+    "periodNote": "1644 marks the fall of Beijing and the main Ming court; Southern Ming regimes continued after this date.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1
+      ],
+      "currency": [
+        2,
+        3
+      ],
+      "economy": [
+        0,
+        3
+      ],
+      "military": [
+        1
+      ],
+      "contributions": [
+        0,
+        1
+      ],
+      "origin": [
+        1
+      ],
+      "period": [
+        0
+      ],
+      "capital": [
+        4
+      ],
+      "rulers": [
+        5
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "qing",
+    "name": "Qing Empire",
+    "aliases": [
+      "Qing dynasty",
+      "Manchu dynasty"
+    ],
+    "start": 1644,
+    "end": 1912,
+    "summary": "A Manchu-led empire governing China and extensive Inner Asian territories, and the final dynasty of imperial China.",
+    "capital": "Beijing.",
+    "currency": "Copper coins and silver, with changing late-imperial monetary arrangements.",
+    "rulers": "Selected: Kangxi, 1661–1722; Yongzheng, 1722–1735.",
+    "economy": "A largely agricultural economy with extensive markets, merchant networks, and growing links to global silver trade.",
+    "military": "Manchu military institutions remained central to the dynasty; military service had a hereditary component.",
+    "contributions": "Court patronage, encyclopedic and artistic projects, and extensive commercial and cultural exchange.",
+    "origin": "Manchu rulers conquered Beijing in 1644 and extended power over the former Ming realm.",
+    "decline": "The 1911 revolution ended imperial rule; the last emperor abdicated in 1912.",
+    "sources": [
+      {
+        "title": "National Library of Australia — Emperors",
+        "url": "https://www.library.gov.au/learn/digital-classroom/celestial-empire/emperors"
+      },
+      {
+        "title": "Columbia University — Qing economy",
+        "url": "https://afe.easia.columbia.edu/qing/economy.html"
+      },
+      {
+        "title": "Princeton University Art Museum — China Timeline",
+        "url": "https://static.artmuseum.princeton.edu/asian-art/china/timeline"
+      },
+      {
+        "title": "Smithsonian — Timeline of Chinese History, Art, and Culture",
+        "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+      }
+    ],
+    "periodNote": "The Qing name was adopted in 1636; 1644 marks entry into Beijing. Museum chronologies sometimes end in 1911, the revolution year, rather than the 1912 abdication.",
+    "fieldSources": {
+      "summary": [
+        0,
+        2
+      ],
+      "capital": [
+        0
+      ],
+      "currency": [
+        1
+      ],
+      "rulers": [
+        0
+      ],
+      "economy": [
+        1
+      ],
+      "military": [
+        1
+      ],
+      "contributions": [
+        0,
+        1,
+        3
+      ],
+      "origin": [
+        0,
+        2
+      ],
+      "decline": [
+        2,
+        3
+      ],
+      "period": [
+        2,
+        3
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "mongol-empire",
+    "name": "Mongol Empire",
+    "aliases": [
+      "United Mongol Empire"
+    ],
+    "start": 1206,
+    "end": 1260,
+    "summary": "A rapidly expanding empire created by Chinggis Khan’s unification of steppe peoples, connecting large parts of Eurasia through conquest and exchange.",
+    "capital": "A mobile royal court initially; Karakorum developed as an imperial capital under Ögödei in the 1230s.",
+    "currency": null,
+    "rulers": "Selected: Chinggis Khan, 1206–1227.",
+    "economy": "Pastoral resources, taxation, tribute, and long-distance trade supported imperial expansion and consumption.",
+    "military": "Highly mobile mounted forces conducted successive campaigns across Eurasia; conquered populations also supplied personnel and expertise.",
+    "contributions": "Expanded Eurasian travel, commerce, and exchanges of skills and knowledge, alongside extensive destruction and forced displacement.",
+    "origin": "Temüjin united rival steppe groups and was proclaimed Chinggis Khan in 1206.",
+    "decline": "Succession conflicts and competing dynastic interests produced civil war and the division of authority among successor khanates.",
+    "sources": [
+      {
+        "title": "Cambridge — The Rise of Chinggis Khan and the United Empire, 1206–1260",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-mongol-empire/rise-of-chinggis-khan-and-the-united-empire-12061260/40F64848E13817221B45FB39EA4EC88E"
+      },
+      {
+        "title": "University of Washington — Mongol chronology",
+        "url": "https://faculty.washington.edu/dwaugh/hist225/225chron/mongchr.html"
+      },
+      {
+        "title": "Royal Armouries — Rise of the Mongols",
+        "url": "https://royalarmouries.org/objects-and-stories/stories/the-mongols/rise-of-the-mongols"
+      },
+      {
+        "title": "Columbia University — Collapse of the Empire",
+        "url": "https://afe.easia.columbia.edu/mongols/conquests/conquests_4.htm"
+      }
+    ],
+    "periodNote": "This record uses the united empire, 1206–1260. Successor khanates and nominal claims to unity continued; 1260 is not the end of all Mongol rule.",
+    "fieldSources": {
+      "summary": [
+        0,
+        2
+      ],
+      "capital": [
+        1
+      ],
+      "rulers": [
+        1
+      ],
+      "economy": [
+        0
+      ],
+      "military": [
+        2
+      ],
+      "contributions": [
+        0
+      ],
+      "origin": [
+        2
+      ],
+      "decline": [
+        0,
+        3
+      ],
+      "period": [
+        0,
+        3
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "khmer",
+    "name": "Khmer Empire",
+    "aliases": [
+      "Angkorian Empire",
+      "Angkor"
+    ],
+    "start": 802,
+    "end": 1431,
+    "summary": "An Angkor-centred mainland Southeast Asian state supported by agricultural production, water infrastructure, and powerful royal and temple institutions.",
+    "capital": "Angkor for most of the period; Koh Ker was a rival capital from 921 and the sole capital during 928–944.",
+    "currency": "Exchange was not primarily coin-based; imported Chinese coins had varied uses.",
+    "rulers": "Selected: Jayavarman VII, c. 1181–1218.",
+    "economy": "Agricultural production, labour obligations, and extensive water management supported royal and temple establishments.",
+    "military": null,
+    "contributions": "Monumental temple architecture, urban water infrastructure, sculpture, and connected regional artistic traditions.",
+    "origin": "Later inscriptions associate 802 with Jayavarman II’s assertion of kingship and consolidation of regional power.",
+    "decline": "Political and economic reorientation occurred gradually, with environmental pressures and changing regional power relationships; a single catastrophic collapse is misleading.",
+    "sources": [
+      {
+        "title": "National Library of Australia — Rise of Angkor",
+        "url": "https://www.library.gov.au/learn/digital-classroom/angkorkhmer-empire-802-1431/rise-angkor-and-khmer-empire"
+      },
+      {
+        "title": "National Library of Australia — Decline of the Khmer Empire",
+        "url": "https://www.library.gov.au/learn/digital-classroom/angkorkhmer-empire-802-1431/decline-khmer-empire"
+      },
+      {
+        "title": "PNAS — Geoarchaeological evidence from Angkor",
+        "url": "https://doi.org/10.1073/pnas.1821460116"
+      },
+      {
+        "title": "Asian Archaeology — Chinese coins in Angkor",
+        "url": "https://link.springer.com/article/10.1007/s41826-025-00108-z"
+      },
+      {
+        "title": "UNESCO — Koh Ker",
+        "url": "https://whc.unesco.org/en/list/1667/"
+      }
+    ],
+    "periodNote": "802 and 1431 are conventional period markers. Archaeology indicates gradual transformation, not a precise empire-wide disappearance in 1431.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1
+      ],
+      "capital": [
+        0,
+        4
+      ],
+      "currency": [
+        0,
+        3
+      ],
+      "rulers": [
+        1
+      ],
+      "economy": [
+        0,
+        1
+      ],
+      "contributions": [
+        1
+      ],
+      "origin": [
+        0
+      ],
+      "decline": [
+        2
+      ],
+      "period": [
+        0,
+        1,
+        2
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "srivijaya",
+    "name": "Srivijaya",
+    "aliases": [
+      "Shrivijaya",
+      "Sriwijaya"
+    ],
+    "start": 670,
+    "end": 1300,
+    "summary": "A maritime polity centred in southern Sumatra, exercising influence through port networks and trade routes linking the Indian Ocean and China.",
+    "capital": "Palembang and later Jambi are associated with its political centres; the chronology remains debated.",
+    "currency": null,
+    "rulers": null,
+    "economy": "Port commerce and control of maritime connections supported its power.",
+    "military": null,
+    "contributions": "Facilitated maritime exchange and Buddhist travel and scholarship across Asian networks.",
+    "origin": "A powerful port-centred polity emerged in southern Sumatra during the later seventh century.",
+    "decline": "Chola attacks and the growing autonomy of competing ports reduced its influence; its final disappearance cannot be assigned confidently to one event.",
+    "sources": [
+      {
+        "title": "Oxford World History of Empire — Śrīvijaya",
+        "url": "https://academic.oup.com/book/39071/chapter-abstract/338392642"
+      },
+      {
+        "title": "Singapore National Library Board — Sang Nila Utama",
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=7dc04ff9-f9fb-44ba-867e-8b714f87b324"
+      },
+      {
+        "title": "Getty Research — Srivijaya",
+        "url": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&nation=&place=religious+center&subjectid=6005608"
+      }
+    ],
+    "periodNote": "c. 670–1300 is an approximate display span, not established foundation and dissolution years. Sources define Srivijaya’s later continuity differently.",
+    "fieldSources": {
+      "summary": [
+        0
+      ],
+      "capital": [
+        1
+      ],
+      "economy": [
+        0
+      ],
+      "contributions": [
+        0,
+        1
+      ],
+      "origin": [
+        0
+      ],
+      "decline": [
+        1,
+        2
+      ],
+      "period": [
+        0,
+        1
+      ]
+    },
+    "rulersScope": null
+  },
+  {
+    "id": "majapahit",
+    "name": "Majapahit Empire",
+    "aliases": [
+      "Majapahit kingdom"
+    ],
+    "start": 1293,
+    "end": 1527,
+    "summary": "An East Javanese kingdom with a sophisticated court and extensive regional connections, centred for much of its history on Trowulan.",
+    "capital": "Trowulan; a later court at Daha is recorded after 1478.",
+    "currency": "Local and imported coins are attested archaeologically at Trowulan.",
+    "rulers": "Selected: Raden Wijaya, 1293–1309.",
+    "economy": "Irrigated agriculture, markets, craft production, and regional exchange supported the capital and surrounding settlements.",
+    "military": null,
+    "contributions": "Urban water engineering, sculpture, terracotta production, and distinctive architecture.",
+    "origin": "The kingdom was established in eastern Java in 1293.",
+    "decline": "Dynastic conflict and shifting regional power eroded its position; successor Islamic polities became increasingly influential.",
+    "sources": [
+      {
+        "title": "UNESCO tentative list — Trowulan",
+        "url": "https://whc.unesco.org/en/tentativelists/5466/"
+      },
+      {
+        "title": "Direktori Majapahit — Sejarah Kerajaan Majapahit",
+        "url": "https://www.direktorimajapahit.id/halaman/sejarah-kerajaan-majapahit"
+      },
+      {
+        "title": "Universitas Indonesia — Cultural resource management at Trowulan",
+        "url": "https://scholar.ui.ac.id/en/publications/cultural-resource-management-for-a-majapahit-kingdom-site-in-trow/"
+      },
+      {
+        "title": "Direktori Majapahit — Inspiration for the World",
+        "url": "https://www.direktorimajapahit.id/yad/berkas/buku/a5105e5cbdc506e8694c618f2932ef7f2.pdf"
+      }
+    ],
+    "periodNote": "The end date is disputed: 1478, c. 1500, c. 1520, and 1527 appear in institutional chronologies. 1527 follows Direktori Majapahit; territorial authority contracted earlier.",
+    "fieldSources": {
+      "summary": [
+        0,
+        2
+      ],
+      "capital": [
+        0,
+        1
+      ],
+      "rulers": [
+        3
+      ],
+      "economy": [
+        0
+      ],
+      "contributions": [
+        0
+      ],
+      "origin": [
+        1,
+        2
+      ],
+      "decline": [
+        1
+      ],
+      "period": [
+        1,
+        2
+      ],
+      "currency": [
+        0
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "mali",
+    "name": "Mali Empire",
+    "aliases": [
+      "Manden Empire"
+    ],
+    "start": 1230,
+    "end": 1600,
+    "summary": "A West African empire that linked the upper Niger region to trans-Saharan trade and supported influential centres of scholarship and material culture.",
+    "capital": null,
+    "currency": null,
+    "rulers": null,
+    "economy": "Gold, salt, and trans-Saharan commerce supported imperial prosperity; river routes connected regional exchange.",
+    "military": null,
+    "contributions": "Patronage of scholarship and architecture; integration of diverse communities into extensive commercial and cultural networks.",
+    "origin": "Expansion under Soundiata Keita transformed an upper Niger kingdom into a major imperial power.",
+    "decline": "Succession disputes and secession weakened the empire, while Songhai absorbed important northern trade centres.",
+    "sources": [
+      {
+        "title": "The Met — Sahel exhibition",
+        "url": "https://www.metmuseum.org/fr/exhibitions/sahel-art-empire-sahara/inside-the-exhibition"
+      },
+      {
+        "title": "Smithsonian — From Golden Age Empires to Independence",
+        "url": "https://festival.si.edu/articles/2003/from-golden-age-empires-to-independence"
+      },
+      {
+        "title": "Embassy of Mali in Japan — History",
+        "url": "https://www.ambamali-jp.org/eng/mali/history/"
+      },
+      {
+        "title": "The Met — Western and Central Sudan, 1400–1600",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/08/afu.html"
+      }
+    ],
+    "periodNote": "c. 1230–1600 follows the Met’s broad imperial period. The location and continuity of the imperial capital remain debated; decline was gradual.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1
+      ],
+      "economy": [
+        1
+      ],
+      "contributions": [
+        0,
+        1
+      ],
+      "origin": [
+        2
+      ],
+      "decline": [
+        3
+      ],
+      "period": [
+        0
+      ]
+    },
+    "rulersScope": null
+  },
+  {
+    "id": "songhai",
+    "name": "Songhai Empire",
+    "aliases": [
+      "Songhay Empire"
+    ],
+    "start": 1464,
+    "end": 1591,
+    "summary": "A Niger River empire centred on Gao that expanded over major Sahelian commercial and scholarly cities during the fifteenth and sixteenth centuries.",
+    "capital": "Gao",
+    "currency": null,
+    "rulers": "Selected: Askia Muhammad, 1493–1528.",
+    "economy": "Trans-Saharan trade and control of gold, salt, and copper routes supported imperial power.",
+    "military": "Cavalry and river fleets enabled expansion; Moroccan forces armed with firearms defeated the imperial army in 1591.",
+    "contributions": "Patronage made Timbuktu a major centre of scholarship and manuscript production.",
+    "origin": "Songhai expanded as Mali’s authority weakened, under military leaders including Sonni Ali.",
+    "decline": "Internal divisions weakened the empire; the Moroccan invasion and defeat at Tondibi in 1591 ended its regional supremacy.",
+    "sources": [
+      {
+        "title": "The Met — Sahel exhibition",
+        "url": "https://www.metmuseum.org/fr/exhibitions/sahel-art-empire-sahara/inside-the-exhibition"
+      },
+      {
+        "title": "The Met — Western and Central Sudan, 1400–1600",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/08/afu.html"
+      },
+      {
+        "title": "Library of Congress — Timbuktu: An Islamic Cultural Center",
+        "url": "https://www.loc.gov/collections/islamic-manuscripts-from-mali/articles-and-essays/timbuktu-an-islamic-cultural-center/"
+      }
+    ],
+    "periodNote": "1464 marks the major imperial expansion, not the older Songhai state. Resistance and successor authorities survived 1591.",
+    "fieldSources": {
+      "summary": [
+        0
+      ],
+      "capital": [
+        0
+      ],
+      "rulers": [
+        1
+      ],
+      "economy": [
+        1
+      ],
+      "military": [
+        0
+      ],
+      "contributions": [
+        0,
+        2
+      ],
+      "origin": [
+        0,
+        1
+      ],
+      "decline": [
+        0
+      ],
+      "period": [
+        0
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "aksum",
+    "name": "Kingdom of Aksum",
+    "aliases": [
+      "Aksumite Empire",
+      "Axum"
+    ],
+    "start": 1,
+    "end": 800,
+    "summary": "A northeastern African state linking the Ethiopian and Eritrean highlands with Red Sea commerce and, at times, southern Arabia.",
+    "capital": "Aksum",
+    "currency": "Gold, silver, and copper coinage; minting began in the late third century.",
+    "rulers": "Selected: Ezana, approximately 320–350.",
+    "economy": "Agriculture and commerce through Red Sea connections supported the kingdom.",
+    "military": "Royal campaigns extended power beyond the highlands, including into southern Arabia at its height.",
+    "contributions": "Monumental stelae, distinctive architecture and coinage, and an enduring written and Christian cultural legacy.",
+    "origin": "An urban trading and political centre developed in the northern Ethiopian highlands during the early first millennium.",
+    "decline": "Changing Red Sea trade and environmental pressures contributed to political and economic reorganization; the process was gradual and remains debated.",
+    "sources": [
+      {
+        "title": "UNESCO — Aksum",
+        "url": "https://whc.unesco.org/en/list/15"
+      },
+      {
+        "title": "The Met — Foundations of Aksumite Civilization",
+        "url": "https://www.metmuseum.org/ja/essays/foundations-of-aksumite-civilization-and-its-christian-legacy-1st-7th-century"
+      },
+      {
+        "title": "The Met — Monumental Architecture of the Aksumite Empire",
+        "url": "https://www.metmuseum.org/ko/essays/monumental-architecture-and-stelae-of-the-aksumite-empire"
+      },
+      {
+        "title": "French Ministry of Culture — La fin du royaume",
+        "url": "https://archeologie.culture.gouv.fr/axoum/fr/la-fin-du-royaume"
+      },
+      {
+        "title": "British Museum via Smarthistory — Aksumite coins",
+        "url": "https://smarthistory.org/aksumite-coins/"
+      }
+    ],
+    "periodNote": "1–800 is a century-level display range for the first through eighth centuries, not precise foundation and dissolution years. Aksum’s political transformation has no universally agreed endpoint.",
+    "fieldSources": {
+      "summary": [
+        0,
+        2
+      ],
+      "capital": [
+        0
+      ],
+      "currency": [
+        4
+      ],
+      "rulers": [
+        1
+      ],
+      "economy": [
+        1,
+        3
+      ],
+      "military": [
+        2
+      ],
+      "contributions": [
+        1,
+        2,
+        4
+      ],
+      "origin": [
+        0,
+        1
+      ],
+      "decline": [
+        1,
+        3
+      ],
+      "period": [
+        0
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "ethiopian-empire",
+    "name": "Ethiopian Empire",
+    "aliases": [
+      "Abyssinian Empire",
+      "Solomonic Ethiopia"
+    ],
+    "start": 1270,
+    "end": 1974,
+    "summary": "A highland monarchy whose changing institutions and territories linked medieval Christian kingship to the Ethiopian imperial state of the twentieth century.",
+    "capital": "Mobile royal camps initially; Gondar from 1636; Addis Ababa under Menelik II and later emperors.",
+    "currency": "Multiple historical media; birr-denominated issues are documented under Haile Selassie.",
+    "rulers": "Selected: Amda Seyon I, 1314–1344; Haile Selassie I, 1930–1974.",
+    "economy": "Landholding, agricultural taxation, and commerce sustained the monarchy; twentieth-century centralization depended on expanding tax revenue.",
+    "military": null,
+    "contributions": "Distinctive architecture, manuscript and artistic traditions, and enduring institutions of Ethiopian statehood.",
+    "origin": "Yekuno Amlak established the Solomonic ruling line in 1270, drawing on earlier highland kingdoms.",
+    "decline": "Military officers deposed Haile Selassie in 1974 and replaced imperial government.",
+    "sources": [
+      {
+        "title": "Wachemo University — History of Ethiopia and the Horn",
+        "url": "https://www.wcu.edu.et/FirstYearModule/History%20of%20Ethiopian%20and%20the%20Horn%20October%202022%20Final%20Omotic%20revised%20and%20final_compressed.pdf"
+      },
+      {
+        "title": "UNESCO — Gondar palaces and castles",
+        "url": "https://whc.unesco.org/en/activities/156/"
+      },
+      {
+        "title": "Library of Congress — Ethiopia: A Country Study",
+        "url": "https://www.loc.gov/item/92000507/"
+      },
+      {
+        "title": "National Bank of Ethiopia — Banknotes",
+        "url": "https://nbe.gov.et/am/%E1%88%B5%E1%88%88-%E1%89%A3%E1%8A%95%E1%8A%A9/%E1%8B%A8%E1%89%A3%E1%8A%95%E1%8A%AD-%E1%8A%96%E1%89%B5/"
+      },
+      {
+        "title": "Addis Ababa Mayor’s Office — City history",
+        "url": "https://addismayor.gov.et/faqs"
+      }
+    ],
+    "periodNote": "1270 identifies the Solomonic dynasty, not the beginning of Ethiopian statehood. Italian occupation interrupted imperial administration in 1936–1941; 1974 marks the emperor’s deposition.",
+    "fieldSources": {
+      "summary": [
+        0,
+        2
+      ],
+      "capital": [
+        0,
+        1,
+        4
+      ],
+      "currency": [
+        3
+      ],
+      "rulers": [
+        0,
+        2
+      ],
+      "economy": [
+        2
+      ],
+      "contributions": [
+        1,
+        2
+      ],
+      "origin": [
+        0
+      ],
+      "decline": [
+        2
+      ],
+      "period": [
+        0,
+        2
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  },
+  {
+    "id": "zulu",
+    "name": "Zulu Kingdom",
+    "aliases": [
+      "Zulu Empire"
+    ],
+    "start": 1816,
+    "end": 1879,
+    "summary": "A southern African kingdom consolidated under Shaka, whose regional power endured until British invasion dismantled its sovereignty.",
+    "capital": null,
+    "currency": null,
+    "rulers": "Selected: Shaka, 1816–1828.",
+    "economy": "Cattle were central to wealth, status, food supply, marriage exchanges, and political relationships.",
+    "military": "A powerful army resisted the British invasion of 1879, defeating a British force at Isandlwana before later defeats.",
+    "contributions": null,
+    "origin": "Shaka consolidated and expanded the Zulu kingdom from 1816.",
+    "decline": "British victory in 1879 led to Cetshwayo’s removal and territorial partition; restricted restoration was followed by British annexation in 1887.",
+    "sources": [
+      {
+        "title": "South African History Online — Zulu Family History",
+        "url": "https://sahistory.org.za/article/zulu-family-history"
+      },
+      {
+        "title": "National Army Museum — Zulu War",
+        "url": "https://www.nam.ac.uk/explore/zulu-war"
+      },
+      {
+        "title": "University of Cape Town archive — uMgungundlovu archaeology",
+        "url": "https://emandulo.apc.uct.ac.za/collection/uMgungundlovu/Publications/AMAFA_MGL_Archaeology_uMgungundlovu_Site_Museum_Killie_Campbell_Africana_Library_18.pdf"
+      },
+      {
+        "title": "University of Zululand — Research on Shaka’s state",
+        "url": "https://uzspace.unizulu.ac.za/bitstreams/36be231c-7501-4c66-8121-4c185c686034/download"
+      }
+    ],
+    "periodNote": "1816–1879 describes the consolidated independent kingdom. Cetshwayo returned with reduced powers in 1883; British annexation followed in 1887. The monarchy continues as a traditional institution.",
+    "fieldSources": {
+      "summary": [
+        0,
+        1
+      ],
+      "rulers": [
+        0
+      ],
+      "military": [
+        1
+      ],
+      "origin": [
+        0,
+        2
+      ],
+      "decline": [
+        1
+      ],
+      "period": [
+        0,
+        1,
+        2
+      ],
+      "economy": [
+        3
+      ]
+    },
+    "rulersScope": "Selected examples only"
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "atlas-2": [
+    {
+      "kind": "flag",
+      "label": "Ottoman national flag, 1844 design",
+      "src": "/atlas/symbols/historical/ottoman-1844.svg",
+      "start": 1844,
+      "end": 1922,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Ottoman_Empire_(1844%E2%80%931922).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "User:Orwellianist; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Five-pointed-star version; do not use for earlier Ottoman centuries. Annual display range ends with abolition of the sultanate in 1922."
+    }
+  ],
+  "atlas-15": [
+    {
+      "kind": "flag",
+      "label": "Qing imperial flag, 1889 design",
+      "src": "/atlas/symbols/historical/qing-1889.svg",
+      "start": 1889,
+      "end": 1912,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_China_(1889%E2%80%931912).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: zh:清朝政府 Vector: Sodacan; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Rectangular Yellow Dragon flag. Do not use for Qing dates before 1889; earlier banners and the triangular maritime flag differ."
+    }
+  ],
+  "atlas-230": [
+    {
+      "kind": "flag",
+      "label": "Soviet Union flag, 1936 design",
+      "src": "/atlas/symbols/historical/ussr-1936.svg",
+      "start": 1936,
+      "end": 1954,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union_(1936_%E2%80%93_1955).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "created by rotemliss from Image:Flag of the Soviet Union.svg .; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Period-specific reconstruction for the 1938 and 1945 snapshots; the 1955 redesign uses a separate asset."
+    },
+    {
+      "kind": "flag",
+      "label": "Soviet Union flag, 1955 design",
+      "src": "/atlas/symbols/historical/ussr-1955.svg",
+      "start": 1955,
+      "end": 1979,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union_(dark_version).svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Cmapm; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Dark-red rendering of the construction scheme adopted in 1955; appropriate to the 1960 snapshot. This entry stops before the 1980 revision."
+    }
+  ],
+  "atlas-29": [
+    {
+      "kind": "flag",
+      "label": "Union Flag, 1801 design",
+      "src": "/atlas/symbols/historical/british-union-1801.svg",
+      "start": 1801,
+      "end": 1997,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(1-2).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Acts of Union 1800 Vector: Zscout370; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "British metropolitan/Union flag, shown in its 1:2 maritime proportions. Colonial ensigns differed; this is not a distinct uniform flag for every imperial possession."
+    }
+  ],
+  "curated-french-colonial-empire": [
+    {
+      "kind": "flag",
+      "label": "French tricolour, revolutionary design",
+      "src": "/atlas/symbols/historical/france-tricolour-dark.svg",
+      "start": 1794,
+      "end": 1813,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Unknown Vector: SKopp; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Metropolitan national flag used during this imperial period, not an exclusive colonial flag. Omitted in the 1814–1830 restoration period; the brief 1815 return is not modeled at annual resolution."
+    },
+    {
+      "kind": "flag",
+      "label": "French tricolour, restored in 1830",
+      "src": "/atlas/symbols/historical/france-tricolour-dark.svg",
+      "start": 1830,
+      "end": 1973,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Unknown Vector: SKopp; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Restored in July 1830. Metropolitan flag representing this imperial umbrella; local colonial flags differed. Uses the darker-blue rendering before the 1974 shade change."
+    },
+    {
+      "kind": "flag",
+      "label": "French tricolour, 1974 colour variant",
+      "src": "/atlas/symbols/historical/france-tricolour-1974.svg",
+      "start": 1974,
+      "end": 1980,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France_(1974%E2%80%932020).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "This graphic was drawn by SKopp .; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Lighter-blue rendering introduced in 1974; range is clipped to the dossier’s conventional 1980 endpoint."
+    }
+  ],
+  "atlas-16": [
+    {
+      "kind": "flag",
+      "label": "Russian black–yellow–white state flag",
+      "src": "/atlas/symbols/historical/russia-imperial-1858.svg",
+      "start": 1858,
+      "end": 1882,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia_(1858%E2%80%931896).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Кёне, Бернгард Васильевич; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "State colours introduced in 1858. Conservative range ends before the 1883 order favouring the white–blue–red flag; black–yellow–white later retained dynastic uses."
+    },
+    {
+      "kind": "flag",
+      "label": "Russian imperial national tricolour",
+      "src": "/atlas/symbols/historical/russia-tricolour-1896.svg",
+      "start": 1896,
+      "end": 1917,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia_(1896%E2%80%931918).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Sports9494; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "White–blue–red was confirmed as the sole national flag in 1896. Earlier merchant and civil uses are not represented by this entry. Range ends with imperial government in 1917."
+    }
+  ],
+  "curated-portuguese-empire": [
+    {
+      "kind": "flag",
+      "label": "Portuguese constitutional-monarchy flag",
+      "src": "/atlas/symbols/historical/portugal-monarchy-1830.svg",
+      "start": 1834,
+      "end": 1909,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal_(1830%E2%80%931910).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Tonyjeff , based on ancient national symbol.; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Blue–white land flag adopted by the liberal regency in 1830 and used nationwide after 1834. The civil-war years and the 1910 transition are excluded conservatively."
+    },
+    {
+      "kind": "flag",
+      "label": "Portuguese republican national flag",
+      "src": "/atlas/symbols/historical/portugal-republic-1911.svg",
+      "start": 1911,
+      "end": 1999,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Columbano Bordalo Pinheiro (1910; generic design) Vector: Vítor Luís Rodrigues; António Martins-Tuválkin (2004; this specific vector set: see sources); via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Green–red republican flag sanctioned in 1911. It represents the metropolitan state in the remaining imperial period; it is not a separate colonial ensign."
+    }
+  ],
+  "atlas-11": [
+    {
+      "kind": "flag",
+      "label": "Palaiologan imperial naval ensign (reconstruction)",
+      "src": "/atlas/symbols/historical/palaiologan-naval-ensign.svg",
+      "start": 1350,
+      "end": 1453,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byzantine_imperial_flag,_14th_century.svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Cplakidas This file was derived from: Byzantine imperial flag, 14th century (firesteels vesion).svg; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Modern drawing of the tetragrammic-cross ensign attested in fourteenth-century sources, including Pseudo-Kodinos. Start c. 1350 reflects the attestation; it is not a universal Byzantine national flag."
+    }
+  ],
+  "curated-spanish-empire": [
+    {
+      "kind": "flag",
+      "label": "Spanish naval ensign, 1785 design",
+      "src": "/atlas/symbols/historical/spain-monarchy-1785.svg",
+      "start": 1785,
+      "end": 1842,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain_(1785%E2%80%931873,_1875%E2%80%931931).svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "previous version User:Ignaciogavira ; current version HansenBCN , designs from SanchoPanzaXXI; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Red–yellow ensign adopted for the navy in 1785. This entry is explicitly naval; its later extension to the army dates to 1843."
+    },
+    {
+      "kind": "flag",
+      "label": "Spanish monarchy flag, nineteenth-century design",
+      "src": "/atlas/symbols/historical/spain-monarchy-1785.svg",
+      "start": 1843,
+      "end": 1872,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain_(1785%E2%80%931873,_1875%E2%80%931931).svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "previous version User:Ignaciogavira ; current version HansenBCN , designs from SanchoPanzaXXI; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Red–yellow design extended to the army in 1843. Stops before the First Republic; it does not represent every earlier imperial banner."
+    },
+    {
+      "kind": "flag",
+      "label": "Spanish monarchy flag, restored design",
+      "src": "/atlas/symbols/historical/spain-monarchy-1785.svg",
+      "start": 1875,
+      "end": 1930,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain_(1785%E2%80%931873,_1875%E2%80%931931).svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "previous version User:Ignaciogavira ; current version HansenBCN , designs from SanchoPanzaXXI; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Restoration-era crown-bearing version. Excludes the First and Second Republics and later Franco-era arms, which used different symbols."
+    }
+  ],
+  "atlas-24": [
+    {
+      "kind": "flag",
+      "label": "Ethiopian imperial flag, Haile Selassie era",
+      "src": "/atlas/symbols/historical/ethiopia-imperial.svg",
+      "start": 1930,
+      "end": 1935,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia_(1897%E2%80%931974).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Oren neu dag; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Lion of Judah imperial version. Restricted to the documented Haile Selassie-era rendering; does not claim a uniform nineteenth-century design."
+    },
+    {
+      "kind": "flag",
+      "label": "Ethiopian imperial flag after restoration",
+      "src": "/atlas/symbols/historical/ethiopia-imperial.svg",
+      "start": 1941,
+      "end": 1973,
+      "modernOnly": false,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia_(1897%E2%80%931974).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Oren neu dag; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "note": "Imperial flag after restoration in 1941. Excludes the Italian occupation of 1936–1940 and the 1974 regime transition."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "purpose": "Reviewed reuse of existing historical assets; no original symbol manifests or SVG files changed.",
+  "assets": [
+    {
+      "src": "/atlas/symbols/historical/british-union-1801.svg",
+      "sha256": "e00a356422bfd478c75491f4403f3c096799f4ebba56944eb520022975d06e13",
+      "bytes": 641,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(1-2).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Acts of Union 1800 Vector: Zscout370; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "modified": false
+    },
+    {
+      "src": "/atlas/symbols/historical/france-tricolour-dark.svg",
+      "sha256": "e949902c7677422d88137d385b9edbe91323470c7933824cc968aca3965fc37c",
+      "bytes": 193,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Original: Unknown Vector: SKopp; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "modified": false
+    },
+    {
+      "src": "/atlas/symbols/historical/france-tricolour-1974.svg",
+      "sha256": "241dac7da9d2782f58c2ffdc05090ac486b49cde149c879675d189dee66aedf6",
+      "bytes": 249,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France_(1974%E2%80%932020).svg",
+      "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "This graphic was drawn by SKopp .; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "modified": false
+    },
+    {
+      "src": "/atlas/symbols/historical/spain-monarchy-1785.svg",
+      "sha256": "be501dde6fa7f7a6e22ef6c9c6c0f2d42716d15c2415aa966a6e0f82bdf55afd",
+      "bytes": 212066,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain_(1785%E2%80%931873,_1875%E2%80%931931).svg",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "previous version User:Ignaciogavira ; current version HansenBCN , designs from SanchoPanzaXXI; via Wikimedia Commons. Original SVG downloaded unchanged.",
+      "modified": false
+    }
+  ]
+}

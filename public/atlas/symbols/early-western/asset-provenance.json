@@ -1,0 +1,92 @@
+[
+  {
+    "file": "roman-eagle-cma.jpg",
+    "sourceUrl": "https://www.clevelandart.org/art/1988.40",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1988.40/1988.40_web.jpg",
+    "license": "CC0 — https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Cleveland Museum of Art, John L. Severance Fund, 1988.40",
+    "sha256": "5011d452209f691e45f5c821f228a617ac24010918258e04ce06d2a6960c720f",
+    "bytes": 41457,
+    "unchanged": true
+  },
+  {
+    "file": "achaemenid-lion-griffins-met.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/324290",
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/an/original/DT896.jpg",
+    "license": "CC0 — https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1954, 54.3.2",
+    "sha256": "971b95147d768a27b12bcb379bbde47cea9b069cce1a0adb53b7467810c38935",
+    "bytes": 2004864,
+    "unchanged": true
+  },
+  {
+    "file": "byzantine-solidus-491-518-met.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/469161",
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/md/original/sf99-35-7407s1.jpg",
+    "license": "CC0 — https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Bequest of Joseph H. Durkee, 1898, 99.35.7407",
+    "sha256": "f853d1c3908fdcd4046b3df11c2ff4b8052f34f546303b563b65b353a0f8c4d9",
+    "bytes": 954997,
+    "unchanged": true
+  },
+  {
+    "file": "england-three-lions.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_England.svg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Royal_arms_of_England.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Sodacan",
+    "sha256": "ef259c24240166c295feca0bfd16e220dbf8466cba9eeb829ead63618b731a0c",
+    "bytes": 133177,
+    "unchanged": true
+  },
+  {
+    "file": "france-three-fleurs-de-lis.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:France_moderne.svg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/France_moderne.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Sodacan",
+    "sha256": "0900c6fcc84f353f527436aa186eceffac85ed7d4df5fd346f376591a10fa0ea",
+    "bytes": 13460,
+    "unchanged": true
+  },
+  {
+    "file": "france-seme-fleurs-de-lis.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arms_of_the_Kingdom_of_France_(Ancien).svg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Arms_of_the_Kingdom_of_France_%28Ancien%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Sodacan",
+    "sha256": "5acd09445b04cfa151b3b374e0e46c446d5e9bd96a6174109a60f8e6bd3f31c2",
+    "bytes": 85933,
+    "unchanged": true
+  },
+  {
+    "file": "holy-roman-double-eagle.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arms_of_the_Holy_Roman_Empire_(after_1433).svg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Arms_of_the_Holy_Roman_Empire_%28after_1433%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Greiffenakt",
+    "sha256": "c556090c755c2adad9c35992ff8fa45aec36ec482814a850d0114d7806d78ab7",
+    "bytes": 223830,
+    "unchanged": true
+  },
+  {
+    "file": "british-first-union.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Great_Britain_(1707%E2%80%931800).svg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "Public domain — https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Hoshie",
+    "sha256": "499f1f86ed388b08e98ec3982e7c5ec7527bbaeaf9632f8092adbac4937e0fd0",
+    "bytes": 433,
+    "unchanged": true
+  },
+  {
+    "file": "byzantine-silver-cross-walters.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byzantine_-_Cross_-_Walters_571827.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Byzantine_-_Cross_-_Walters_571827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Walters Art Museum, museum purchase 1949, 57.1827",
+    "sha256": "eab16905d19d5716377b0d81c5dd5728da2ec1f376366042ac3e960af13eca13",
+    "bytes": 1381725,
+    "unchanged": true
+  }
+]

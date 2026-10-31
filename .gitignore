@@ -1,0 +1,25 @@
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+.vite/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+
+# Logs, caches and local tooling
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.codex/
+.agents/

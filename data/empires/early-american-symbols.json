@@ -1,0 +1,92 @@
+{
+  "atlas-17": [
+    {
+      "kind": "symbol",
+      "label": "Mexica serpent labret (artifact motif)",
+      "src": "/atlas/symbols/early-american/mexica-serpent-labret.jpg",
+      "start": 1428,
+      "end": 1521,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/321343",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, 2016.64. Purchase, 2015 Benefit Fund and Lila Acheson Wallace Gift, 2016. Public-domain image under The Met Open Access.",
+      "note": "The Met dates this elite ornament to 1325–1521 CE. It is an archaeological artwork, not an Aztec national flag or standardized state emblem. Display is clipped to the catalogue empire period, 1428–1521.",
+      "display": "emblem"
+    }
+  ],
+  "atlas-4": [
+    {
+      "kind": "symbol",
+      "label": "Inca camelid effigy (artifact motif)",
+      "src": "/atlas/symbols/early-american/inca-camelid-effigy.jpg",
+      "start": 1438,
+      "end": 1533,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/309960",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, 1974.271.36. Gift and Bequest of Alice K. Bache, 1974, 1977. Public-domain image under The Met Open Access.",
+      "note": "The Met dates this figurine to 1400–1535 CE. It is a documented Inca ritual object, not a national flag. Display is clipped to the catalogue empire period, 1438–1533; no rainbow flag is asserted.",
+      "display": "emblem"
+    }
+  ],
+  "atlas-192": [
+    {
+      "kind": "symbol",
+      "label": "Maya jade ruler pendant (artifact motif)",
+      "src": "/atlas/symbols/early-american/maya-ruler-pendant.jpg",
+      "start": 600,
+      "end": 700,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/701645",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, 2015.677. Gift of Steven Kossak, The Kronos Collections, 2015. Public-domain image under The Met Open Access.",
+      "note": "The Met dates this pendant to 600–700 CE and identifies royal imagery. It represents Maya artistic culture, not a unified Maya state, a particular named kingdom, or a shared national flag.",
+      "display": "emblem"
+    }
+  ],
+  "map-maya-states": [
+    {
+      "kind": "symbol",
+      "label": "Maya jade ruler pendant (artifact motif)",
+      "src": "/atlas/symbols/early-american/maya-ruler-pendant.jpg",
+      "start": 600,
+      "end": 700,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/701645",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, 2015.677. Gift of Steven Kossak, The Kronos Collections, 2015. Public-domain image under The Met Open Access.",
+      "note": "The Met dates this pendant to 600–700 CE and identifies royal imagery. It represents Maya artistic culture, not a unified Maya state, a particular named kingdom, or a shared national flag.",
+      "display": "emblem"
+    }
+  ],
+  "map-maya-chiefdoms-and-states": [
+    {
+      "kind": "symbol",
+      "label": "Lowland Maya serpent ornament (artifact motif)",
+      "src": "/atlas/symbols/early-american/lowland-maya-serpent-ornament.jpg",
+      "start": -400,
+      "end": -100,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/309987",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, 1974.271.65. Gift and Bequest of Alice K. Bache, 1974, 1977. Public-domain image under The Met Open Access.",
+      "note": "The Met dates this ornament to 400–100 BCE. It is a cultural artifact motif for the source’s collective Maya region, not an emblem of a single state or evidence of a universal Maya flag.",
+      "display": "emblem"
+    }
+  ],
+  "atlas-191": [
+    {
+      "kind": "symbol",
+      "label": "Olmec jade face (artifact motif)",
+      "src": "/atlas/symbols/early-american/olmec-jade-face.jpg",
+      "start": -900,
+      "end": -400,
+      "modernOnly": false,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/310279",
+      "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "The Metropolitan Museum of Art, 1977.187.33. Bequest of Alice K. Bache, 1977. Public-domain image under The Met Open Access.",
+      "note": "The Met dates this jadeite face to 900–400 BCE. It is a representative ritual artwork, not an official flag or proof that all Olmec communities shared one state emblem.",
+      "display": "emblem"
+    }
+  ]
+}
